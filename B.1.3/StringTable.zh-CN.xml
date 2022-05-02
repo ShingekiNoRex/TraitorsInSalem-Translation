@@ -290,14 +290,12 @@ Please choose another.</Entry>
     <Entry key="GUI_SOCIAL_MEDIA_YOUTUBE">Visit our YouTube page</Entry>
     <Entry key="GUI_SOCIAL_MEDIA_TWITTER">Visit our Twitter page</Entry>
     <Entry key="GUI_SOCIAL_MEDIA_STEAM">Visit our Steam Community page</Entry>
-    <Entry key="GUI_CUSTOMIZATION_OPTIONS_TOOLTIP">Customization
-Options</Entry>
-    <Entry key="GUI_SHOP_TOOLTIP">Open the Shop</Entry>
-    <Entry key="GUI_ACHIEVEMENT_BROWSER_TOOLTIP">Achievement
-Browser</Entry>
-    <Entry key="GUI_SETTINGS">Settings</Entry>
-    <Entry key="GUI_SETTINGS_TOOLTIP">Open Settings</Entry>
-    <Entry key="GUI_SETTINGS_QUALITY">Quality</Entry>
+    <Entry key="GUI_CUSTOMIZATION_OPTIONS_TOOLTIP">自定义选项</Entry>
+    <Entry key="GUI_SHOP_TOOLTIP">打开商店</Entry>
+    <Entry key="GUI_ACHIEVEMENT_BROWSER_TOOLTIP">成就浏览器</Entry>
+    <Entry key="GUI_SETTINGS">设置</Entry>
+    <Entry key="GUI_SETTINGS_TOOLTIP">打开设置</Entry>
+    <Entry key="GUI_SETTINGS_QUALITY">画质</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS">Toggle FPS</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS_TOOLTIP">Turn the display of Frames Per Second on or off</Entry>
     <Entry key="GUI_SETTINGS_FPS_PENDING">FPS pending...</Entry>
@@ -1072,7 +1070,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="NPC_NAME_101">Shooter</Entry>
     <Entry key="NPC_NAME_102">小约翰</Entry>
     <Entry key="NPC_NAME_201">帕克</Entry>
-    <Entry key="NPC_NAME_202">萨布里纳</Entry>
+    <Entry key="NPC_NAME_202">萨布丽娜</Entry>
     <Entry key="NPC_NAME_301">吉尔斯科利</Entry>
     <Entry key="NPC_JOB_1">酒保</Entry>
     <Entry key="NPC_JOB_2">老牧师</Entry>
@@ -1092,9 +1090,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="NPC_JOB_16">警卫</Entry>
     <Entry key="NPC_JOB_101">靶场教练</Entry>
     <Entry key="NPC_JOB_102">农夫之子</Entry>
-    <Entry key="NPC_JOB_201">Satyr</Entry>
+    <Entry key="NPC_JOB_201">萨堤尔</Entry>
     <Entry key="NPC_JOB_202">飞贼</Entry>
-    <Entry key="NPC_JOB_203">Satyr</Entry>
+    <Entry key="NPC_JOB_203">萨堤尔</Entry>
     <!--Temp-->
     <Entry key="NPC_JOB_301">Rock Farmer</Entry>
     <Entry key="GUI_ROLE_LIST">身份列表</Entry>
@@ -1102,16 +1100,16 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_UNREPORTED_DEAD">未报告的死者</Entry>
     <Entry key="GUI_GAME_YOU_ARE_HOST">You are the host!</Entry>
     <Entry key="GUI_GAME_WAITING_FOR_HOST">正在等待房主...</Entry>
-    <Entry key="GUI_GAME_WAIT_FOR">Wait For...</Entry>
+    <Entry key="GUI_GAME_WAIT_FOR">正在等待...</Entry>
     <Entry key="GUI_GAME_YOU_VOTED_TO_REPICK">You voted to repick the host.</Entry>
     <Entry key="GUI_GAME_X_VOTED_TO_REPICK">%name% voted to repick the host.</Entry>
     <Entry key="GUI_GAME_YOU_VOTED_TO_START">You voted to start early.</Entry>
     <Entry key="GUI_GAME_X_VOTED_TO_START">%name% voted to start early.</Entry>
     <Entry key="GUI_GAME_MORE_VOTES_TO_START">More votes are required to start early.</Entry>
-    <Entry key="GUI_GAME_HOST_IS">The host is %name%.</Entry>
-    <Entry key="GUI_GAME_STARTING_IN">Starting in {NUM_SECS}...</Entry>
-    <Entry key="GUI_GAME_YOUR_ROLE">You are a %role%!</Entry>
-    <Entry key="GUI_GAME_YOU_DIED">You died!</Entry>
+    <Entry key="GUI_GAME_HOST_IS">房主是 %name% 。</Entry>
+    <Entry key="GUI_GAME_STARTING_IN">将于 {NUM_SECS} 秒内开始...</Entry>
+    <Entry key="GUI_GAME_YOUR_ROLE">你是 %role% ！</Entry>
+    <Entry key="GUI_GAME_YOU_DIED">你死了！</Entry>
     <Entry key="GUI_GAME_SENSE_OF_DOOM">You are filled with a sense of doom!</Entry>
     <Entry key="GUI_GAME_PROSECUTOR_SENSE_OF_GUILT">你因起诉了一名小镇成员而充满愧疚感！你完蛋了！</Entry>
     <Entry key="GUI_GAME_VIG_DIED_OF_GUILT">民兵 %name% 死于愧疚！</Entry>
@@ -1152,8 +1150,8 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GRAVEYARD_EXECUTED_CAUSE">Executed</Entry>
     <Entry key="GUI_GRAVEYARD_GUILT_CAUSE">Guilt</Entry>
     <Entry key="GUI_DISCUSSION_PHASE">Discuss!</Entry>
-    <Entry key="GUI_BIG_ZINGER_0">%killer% killed %victim%!</Entry>
-    <Entry key="GUI_BIG_ZINGER_1">%victim% was killed by %killer%!</Entry>
+    <Entry key="GUI_BIG_ZINGER_0">%killer% 杀死了 %victim%！</Entry>
+    <Entry key="GUI_BIG_ZINGER_1">%victim% 被 %killer% 杀死了！</Entry>
     <Entry key="GUI_BIG_ZINGER_2">%killer% savoured the squelch of %victim%’s skull.</Entry>
     <Entry key="GUI_BIG_ZINGER_3">%victim%’s heresy was halted by %killer%!</Entry>
     <Entry key="GUI_BIG_ZINGER_4">%victim% was trounced by %killer%!</Entry>
@@ -2102,73 +2100,73 @@ VOTED</Entry>
     <Entry key="GUI_ROLE_DESC_POISONER">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮来对高亮的玩家下毒，使其在一段时间后死亡。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_VETERAN">•Use your ability button to enter a state of high alert and counter attack anyone who tries to attack you for a period of time.
+    <Entry key="GUI_ROLE_DESC_VETERAN">•使用能力按钮进入高度戒备状态，在一段时间内反击所有试着攻击你的人。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_VETERAN_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to enter a state of high alert and counter attack anyone who tries to attack you for a period of time.
+•使用能力按钮进入高度戒备状态，在一段时间内反击所有试着攻击你的人。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_INVESTIGATOR">•Use your ability button to tell if a player has killed someone recently.
+    <Entry key="GUI_ROLE_DESC_INVESTIGATOR">•使用能力按钮来检查一名玩家是否在近期杀害他人。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_INVESTIGATOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to tell if a player has killed someone recently.
+•使用能力按钮来检查一名玩家是否在近期杀害他人。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_MAYOR">•Use your ability button to reveal that you are a Mayor making all your votes count for one more.
+    <Entry key="GUI_ROLE_DESC_MAYOR">•使用能力按钮来展示你的镇长身份，并使你的投票数加一。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_MAYOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to reveal that you are a Mayor making all your votes count for one more.
+•使用能力按钮来展示你的镇长身份，并使你的投票数加一。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_WILDLING">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to gain the ability to see players through walls.
+•使用能力按钮获得透视能力。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_PROSECUTOR">•Use your ability button to force a player to the stand to die.
-•If your target is innocent you will die.
+    <Entry key="GUI_ROLE_DESC_PROSECUTOR">•使用能力按钮来强制处决一名玩家。
+•如果你的目标是清白的，你会死亡。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_PROSECUTOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•You have lost the ability to prosecute.
+•你失去了起诉他人的能力。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_SERIALKILLER">•使用杀戮按钮来杀死高亮的玩家。
-•When you kill a player you can temporarily kill again for a short period of time.
+•当你杀死一名玩家后，你可以在一小段时间内临时再杀一人。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_BANSHEE">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to lock out all Town members from using their abilities for a period of time.
-•You win when all the Town members have died.</Entry>
-    <Entry key="GUI_ROLE_DESC_NECROMANCER">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to summon a minion to kill your target.
-•Your minion will spawn at the graveyard, getting faster the longer it exists until it kills your target.
+•使用能力按钮在一段时间内阻止所有小镇成员使用能力。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_CORONER">•Use your ability button on a dead body to perform an autopsy.
-•Use your second ability button on a living player to see if they were the killer.
+    <Entry key="GUI_ROLE_DESC_NECROMANCER">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮召唤一个随从杀死你的目标。
+•你的随从会从墓地出生，移动速度随着时间增加，直到杀死你的目标。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_CORONER">•对一具尸体使用能力按钮进行验尸。
+•对一名活着的玩家使用你的第二能力按钮，查看其是否是杀手。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_CORONER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button on a dead body to perform an autopsy.
-•Use your second ability button on a living player to see if they were the killer.
+•使用能力按钮对一具尸体进行验尸。
+•对一名活着的玩家使用你的第二能力按钮，查看其是否是杀手。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_SEER">•Use your ability button to compare two player's factions to see if they are the same faction.
+    <Entry key="GUI_ROLE_DESC_SEER">•使用你的能力按钮比对两名玩家的阵营，查看他们是否同属一个阵营。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_SEER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to compare two player's factions to see if they are the same faction.
+•使用你的能力按钮比对两名玩家的阵营，查看他们是否同属一个阵营。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_SAINT">•When you are killed you will double the cooldowns on your killers abilities.
+    <Entry key="GUI_ROLE_DESC_SAINT">•当你被杀害，你会使杀死你的人技能冷却时间翻倍。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_SAINT_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•When you are killed you will double the cooldowns on your killers abilities.
+•当你被杀害，你会使杀死你的人技能冷却时间翻倍。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_HEXMASTER">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to hex a player. When all living Town members are hexed they will all die.
+•使用能力按钮对一名玩家施法。当所有活着的小镇成员都被施法后，他们全部死亡。
 •获胜条件：所有小镇成员皆死亡。 </Entry>
     <Entry key="GUI_ROLE_DESC_TRACKER">•Use your ability button on a dead body to pick up the scent of the killer, allowing you to track them down.
 •与其他小镇成员合作铲除邪恶。
