@@ -77,22 +77,22 @@
     <Entry key="ITEM_2_0_BLURB">Change your user name now!</Entry>
     <Entry key="GUI_LOGIN_UPDATE_REQUIRED">Please update your application to log in.</Entry>
     <Entry key="GUI_LOGIN_CHECK_INTERNET">Please check your internet connection and try again.</Entry>
-    <Entry key="GUI_LOGIN">Login</Entry>
+    <Entry key="GUI_LOGIN">登录</Entry>
     <Entry key="GUI_LOGIN_ERROR_EMPTYERROR">Error: Username or password is empty! Please check your entries and try again.</Entry>
     <Entry key="GUI_OR">OR</Entry>
     <Entry key="GUI_VERSION">Version</Entry>
-    <Entry key="GUI_USER_NAME">Username</Entry>
-    <Entry key="GUI_REGISTER">Register Your Account</Entry>
-    <Entry key="GUI_REGISTER_WELCOME0">We need to create an account for you.</Entry>
-    <Entry key="GUI_REGISTER_WELCOME1">We need to create an account for you. Enter a username, and if someone referred you, enter their username so they'll get credit.</Entry>
-    <Entry key="GUI_REGISTER_USERNAME">Username:</Entry>
-    <Entry key="GUI_REGISTER_REFERRER">Referrer:</Entry>
-    <Entry key="GUI_REGISTER_RAF">Optional: If you have a friend who invited you to play Traitors in Salem, enter their account name below.</Entry>
-    <Entry key="GUI_REGISTER_REFERRER_PLACEHOLDER">Referrer (Optional)</Entry>
+    <Entry key="GUI_USER_NAME">用户名</Entry>
+    <Entry key="GUI_REGISTER">注册账号</Entry>
+    <Entry key="GUI_REGISTER_WELCOME0">我们需要为您注册一个账号。</Entry>
+    <Entry key="GUI_REGISTER_WELCOME1">我们需要为您注册一个账号，请输入用户名。如果有人邀请您游玩本游戏，请输入其用户名。</Entry>
+    <Entry key="GUI_REGISTER_USERNAME">用户名：</Entry>
+    <Entry key="GUI_REGISTER_REFERRER">推荐人：</Entry>
+    <Entry key="GUI_REGISTER_RAF">可选：如果有朋友邀请您游玩 Traitors in Salem ，请在下方输入其用户名。</Entry>
+    <Entry key="GUI_REGISTER_REFERRER_PLACEHOLDER">推荐人（可选）</Entry>
     <Entry key="GUI_REGISTER_AGREEMENT">
         <![CDATA[By creating an account, you agree to our <link="terms_of_use"><color=#00FF92><u>Terms of Use</u></color></link>, <link="eula"><color=#00FF92><u>EULA</u></color></link>, and <link="privacy_policy"><color=#00FF92><u>Privacy Policy</u></color></link>.]]>
     </Entry>
-    <Entry key="GUI_REGISTER_SUBMIT">Submit</Entry>
+    <Entry key="GUI_REGISTER_SUBMIT">提交</Entry>
     <Entry key="GUI_REGISTER_ERROR_ON_STEAM">Error: Unable to retrieve a valid Steam authentication ticket. Ensure that Steam is logged in, internet is available, and Steam shows that you own Traitors in Salem.</Entry>
     <Entry key="GUI_REGISTER_ERROR_NOT_ON_STEAM">Error: Unable to access Steam. Please ensure Steam is running and you start Traitors in Salem from Steam.</Entry>
     <Entry key="GUI_REGISTER_ERROR_STEAM_INVALID">Error: Unable to retrieve a valid Steam authentication ticket. Does your Steam account show that you own Traitors in Salem?</Entry>
@@ -107,16 +107,16 @@ Common Steps to Resolution:
 5. Start Traitors in Salem from Steam.
         <![CDATA[</size>]]>
     </Entry>
-    <Entry key="GUI_NEW_USER">New User?</Entry>
-    <Entry key="GUI_LOGIN_WITH_STEAM">Login With Steam</Entry>
+    <Entry key="GUI_NEW_USER">新用户？</Entry>
+    <Entry key="GUI_LOGIN_WITH_STEAM">通过Steam登录</Entry>
     <Entry key="GUI_NOTICES">Notices</Entry>
-    <Entry key="GUI_TERMS_OF_USE_TITLE">Terms of Use</Entry>
-    <Entry key="GUI_PRIVACY_POLICY_TITLE">Privacy Policy</Entry>
+    <Entry key="GUI_TERMS_OF_USE_TITLE">使用条款</Entry>
+    <Entry key="GUI_PRIVACY_POLICY_TITLE">隐私政策</Entry>
     <Entry key="GUI_EULA_TITLE">EULA</Entry>
     <Entry key="GUI_TERMS_OF_USE_URL">https://www.blankmediagames.com/legal/termsofuse.html</Entry>
     <Entry key="GUI_TERMS OF USE">By playing Traitors in Salem you agree to our %TERMS_OF_USE%.</Entry>
-    <Entry key="GUI_TERMS_URLTEXT">Terms of Use</Entry>
-    <Entry key="GUI_PATCH_NOTES">Patch Notes</Entry>
+    <Entry key="GUI_TERMS_URLTEXT">使用条款</Entry>
+    <Entry key="GUI_PATCH_NOTES">更新日志</Entry>
     <Entry key="GUI_PATCH_NOTES_TOOLTIP">Read the latest Patch Notes</Entry>
     <Entry key="GUI_UILANGUAGE_LABEL">UI Language</Entry>
     <Entry key="GUI_ATTEMPTING_LOGIN">Attempting Login...</Entry>
@@ -127,20 +127,20 @@ Common Steps to Resolution:
     <Entry key="GUI_LOGIN_AGAIN">Please try to log in again.</Entry>
     <Entry key="GUI_CHECKING_FOR_UPDATES">Checking for updates...please wait.</Entry>
     <Entry key="GUI_UPDATING">Updating...please wait.</Entry>
-    <Entry key="GUI_INFO">Info</Entry>
+    <Entry key="GUI_INFO">信息</Entry>
     <Entry key="GUI_OKAY">OK</Entry>
-    <Entry key="GUI_HELP">Help</Entry>
-    <Entry key="GUI_QUIT">Quit</Entry>
-    <Entry key="GUI_SUBMIT">Submit</Entry>
-    <Entry key="GUI_RESET">Reset</Entry>
-    <Entry key="GUI_CANCEL">Cancel</Entry>
+    <Entry key="GUI_HELP">帮助</Entry>
+    <Entry key="GUI_QUIT">退出</Entry>
+    <Entry key="GUI_SUBMIT">提交</Entry>
+    <Entry key="GUI_RESET">重置</Entry>
+    <Entry key="GUI_CANCEL">取消</Entry>
     <Entry key="GUI_CANCELED">Canceled</Entry>
-    <Entry key="GUI_YES">Yes</Entry>
-    <Entry key="GUI_NO">No</Entry>
-    <Entry key="GUI_ACCEPT">Accept</Entry>
-    <Entry key="GUI_DECLINE">Decline</Entry>
-    <Entry key="GUI_AGREE">Agree</Entry>
-    <Entry key="GUI_DISAGREE">Disagree</Entry>
+    <Entry key="GUI_YES">是</Entry>
+    <Entry key="GUI_NO">否</Entry>
+    <Entry key="GUI_ACCEPT">接受</Entry>
+    <Entry key="GUI_DECLINE">拒绝</Entry>
+    <Entry key="GUI_AGREE">同意</Entry>
+    <Entry key="GUI_DISAGREE">不同意</Entry>
     <Entry key="GUI_GO">Go</Entry>
     <Entry key="GUI_STOP">Stop</Entry>
     <Entry key="GUI_HIDDEN">Hidden</Entry>
@@ -148,17 +148,17 @@ Common Steps to Resolution:
     <Entry key="GUI_CR"></Entry>
     <Entry key="GUI_DBL_CR"></Entry>
     <Entry key="GUI_YOU">You</Entry>
-    <Entry key="GUI_PLEASE_WAIT">Please wait...</Entry>
-    <Entry key="GUI_ENTER_TEXT">Enter text...</Entry>
+    <Entry key="GUI_PLEASE_WAIT">请稍后...</Entry>
+    <Entry key="GUI_ENTER_TEXT">输入文字...</Entry>
     <Entry key="GUI_COMING_SOON">Coming soon</Entry>
     <Entry key="GUI_FLUMMERY">Flummery!</Entry>
     <Entry key="GUI_TARNATION">Tarnation!</Entry>
-    <Entry key="GUI_GUILTY_BUTTON">Guilty</Entry>
-    <Entry key="GUI_INNOCENT_BUTTON">Innocent</Entry>
-    <Entry key="GUI_ABSTAIN_BUTTON">Abstain</Entry>
+    <Entry key="GUI_GUILTY_BUTTON">有罪</Entry>
+    <Entry key="GUI_INNOCENT_BUTTON">清白</Entry>
+    <Entry key="GUI_ABSTAIN_BUTTON">弃权</Entry>
     <Entry key="GUI_CHECK_INTERNET">Please check your internet connection and try again.</Entry>
-    <Entry key="GUI_ERROR">Error</Entry>
-    <Entry key="GUI_UNKNOWN_ERROR">Unknown Error</Entry>
+    <Entry key="GUI_ERROR">错误</Entry>
+    <Entry key="GUI_UNKNOWN_ERROR">未知错误</Entry>
     <Entry key="GUI_CONNECTING_TO_SERVER">Connecting to server...</Entry>
     <Entry key="GUI_FAILED_TO_CONNECT">Failed to Connect.</Entry>
     <Entry key="GUI_ERROR_CONNECTING_TO_SERVER">Error connecting to server.
@@ -244,9 +244,9 @@ Please choose another.</Entry>
     <Entry key="GUI_HOME_NO_ITEMS">No Items</Entry>
     <Entry key="GUI_HOME_CUSTOMIZATION">Customization</Entry>
     <Entry key="GUI_HOME_CAULDRON">Cauldron</Entry>
-    <Entry key="GUI_HOME_SHOP">Shop</Entry>
-    <Entry key="GUI_HOME_PROFILE">Profile</Entry>
-    <Entry key="GUI_HOME_ACHIEVEMENTS">Achievements</Entry>
+    <Entry key="GUI_HOME_SHOP">商店</Entry>
+    <Entry key="GUI_HOME_PROFILE">个人资料</Entry>
+    <Entry key="GUI_HOME_ACHIEVEMENTS">成就</Entry>
     <Entry key="GUI_LOADINGTIP_1">
         <![CDATA[<b><color=#FFBE00>Tip:</color></b> Click a quest in the top left to point you to its location.]]>
     </Entry>
@@ -301,60 +301,60 @@ Browser</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS">Toggle FPS</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS_TOOLTIP">Turn the display of Frames Per Second on or off</Entry>
     <Entry key="GUI_SETTINGS_FPS_PENDING">FPS pending...</Entry>
-    <Entry key="GUI_START">Start</Entry>
-    <Entry key="GUI_START_FROM_BROWSER_TOOLTIP">Join the selected game</Entry>
-    <Entry key="GUI_START_GAME">Start Game!</Entry>
+    <Entry key="GUI_START">开始</Entry>
+    <Entry key="GUI_START_FROM_BROWSER_TOOLTIP">加入选中的游戏</Entry>
+    <Entry key="GUI_START_GAME">开始游戏！</Entry>
     <Entry key="GUI_REFRESH">刷新</Entry>
-    <Entry key="GUI_REFRESH_TOOLTIP">Refresh the Game Browser</Entry>
-    <Entry key="GUI_QUICK_PLAY_BUTTON">Classic (Text)</Entry>
-    <Entry key="GUI_QUICK_PLAY_VOICE_BUTTON">Classic (Voice)</Entry>
+    <Entry key="GUI_REFRESH_TOOLTIP">刷新浏览器</Entry>
+    <Entry key="GUI_QUICK_PLAY_BUTTON">经典（文字）</Entry>
+    <Entry key="GUI_QUICK_PLAY_VOICE_BUTTON">经典（语音）</Entry>
     <Entry key="GUI_QUICK_PLAY_BUTTON_TOOLTIP">Join the next available game immediately</Entry>
-    <Entry key="GUI_CREATE_BUTTON">创建房间</Entry>
+    <Entry key="GUI_CREATE_BUTTON">创建游戏</Entry>
     <Entry key="GUI_JOIN_RANDOM_BUTTON">加入随机游戏</Entry>
-    <Entry key="GUI_CREATE_BUTTON_TOOLTIP">Create a new custom game</Entry>
-    <Entry key="GUI_JOIN_RANDOM_CUSTOM_TOOLTIP">Quicly join a random custom game</Entry>
+    <Entry key="GUI_CREATE_BUTTON_TOOLTIP">创建一个自定义游戏</Entry>
+    <Entry key="GUI_JOIN_RANDOM_CUSTOM_TOOLTIP">快速加入一场随机自定义游戏</Entry>
     <Entry key="GUI_CLASSIC_MODE_BANNER">经典模式</Entry>
-    <Entry key="GUI_GAME_BROWSER_TITLE">浏览房间</Entry>
-    <Entry key="GUI_GAME_BROWSER_BUTTON">浏览房间</Entry>
+    <Entry key="GUI_GAME_BROWSER_TITLE">游戏浏览器</Entry>
+    <Entry key="GUI_GAME_BROWSER_BUTTON">浏览游戏</Entry>
     <Entry key="GUI_GAME_BROWSER_BUTTON_TOOLTIP">浏览游戏</Entry>
-    <Entry key="GUI_GAME_BROWSER_VOICE_CHAT_LABEL">Voice:</Entry>
-    <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_BOTH">Both</Entry>
+    <Entry key="GUI_GAME_BROWSER_VOICE_CHAT_LABEL">语音：</Entry>
+    <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_BOTH">全部</Entry>
     <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_YES">Yes</Entry>
     <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_NO">No</Entry>
     <Entry key="GUI_EMPTY_SAVE_SLOT">Empty Save Slot</Entry>
-    <Entry key="GUI_UNNAMED_GAME">Unnamed Name</Entry>
+    <Entry key="GUI_UNNAMED_GAME">未命名</Entry>
     <Entry key="GUI_DECK_MANAGER_TITLE">Deck Manager</Entry>
-    <Entry key="GUI_GAME_CLOSE_BROWSER_BUTTON">Return Home</Entry>
-    <Entry key="GUI_CLOSE_GAME_BROWSER_BUTTON_TOOLTIP">Close the Game Browser</Entry>
-    <Entry key="GUI_JOIN_BUTTON">Join</Entry>
-    <Entry key="GUI_JOIN_BUTTON_TOOLTIP">Join a specific game using a code</Entry>
-    <Entry key="GUI_ENTER_CODE">Enter Code...</Entry>
-    <Entry key="GUI_TOGGLE_VISIBLE">Toggle Visible</Entry>
-    <Entry key="GUI_TOGGLE_VISIBLE_BUTTON_TOOLTIP">Toggle the lobby code between hidden and shown</Entry>
+    <Entry key="GUI_GAME_CLOSE_BROWSER_BUTTON">返回主菜单</Entry>
+    <Entry key="GUI_CLOSE_GAME_BROWSER_BUTTON_TOOLTIP">关闭游戏浏览器</Entry>
+    <Entry key="GUI_JOIN_BUTTON">加入</Entry>
+    <Entry key="GUI_JOIN_BUTTON_TOOLTIP">通过代码加入指定游戏</Entry>
+    <Entry key="GUI_ENTER_CODE">输入代码...</Entry>
+    <Entry key="GUI_TOGGLE_VISIBLE">切换显示</Entry>
+    <Entry key="GUI_TOGGLE_VISIBLE_BUTTON_TOOLTIP">切换显示或隐藏房间代码</Entry>
     <Entry key="GUI_PARTY_BUTTON">Party</Entry>
     <Entry key="GUI_FRIENDS_BUTTON">Friends</Entry>
     <Entry key="GUI_PLAYERS_IN_LOBBY">Show Players in Lobby: %num%</Entry>
     <Entry key="GUI_PLAYERS">Players</Entry>
-    <Entry key="GUI_ROLES_IN_LOBBY">Roles: %num% | Players: %num2%</Entry>
-    <Entry key="GUI_OPEN_OPTIONS_BUTTON_TOOLTIP">Toggle Options Panel</Entry>
-    <Entry key="GUI_ROLE_DECK_BUTTON_TOOLTIP">Toggle Role Deck</Entry>
-    <Entry key="GUI_TOGGLE_CHAT_TOOLTIP">Toggle Chat</Entry>
-    <Entry key="GUI_TOGGLE_CHATLOG_TOOLTIP">Toggle Chat Log</Entry>
-    <Entry key="GUI_TOGGLE_MAP_TOOLTIP">Toggle Map</Entry>
-    <Entry key="GUI_TOGGLE_PLAYERLIST_TOOLTIP">Toggle Player List</Entry>
-    <Entry key="GUI_TOGGLE_GRAVEYARD_TOOLTIP">Toggle Graveyard</Entry>
-    <Entry key="GUI_TOGGLE_ROLELIST_TOOLTIP">Toggle Role List</Entry>
-    <Entry key="GUI_TOGGLE_SETTINGS_TOOLTIP">Open Settings</Entry>
-    <Entry key="GUI_TOGGLE_SPELLBOOK_TOOLTIP">Toggle Spellbook</Entry>
-    <Entry key="GUI_DECK_MANAGER_TOOLTIP">Toggle Deck Manager</Entry>
-    <Entry key="GUI_WARDROBE">Wardrobe</Entry>
-    <Entry key="GUI_WARDROBE_BUTTON_TOOLTIP">Customize Your Name, Skin, and Pet</Entry>
-    <Entry key="GUI_GAME_OPTIONS_BUTTON_TOOLTIP">Show Game Options</Entry>
-    <Entry key="GUI_GAME_OPTIONS_PUBLIC">Public</Entry>
-    <Entry key="GUI_GAME_OPTIONS_PRIVATE">Private</Entry>
-    <Entry key="GUI_GAME_OPTIONS_ROLE_DECK">Role Deck</Entry>
-    <Entry key="GUI_GAME_OPTIONS_CUSTOM_SETTINGS">Custom Options</Entry>
-    <Entry key="GUI_GAME_OPTIONS_REMOVE">REMOVE?</Entry>
+    <Entry key="GUI_ROLES_IN_LOBBY">身份: %num% | 玩家: %num2%</Entry>
+    <Entry key="GUI_OPEN_OPTIONS_BUTTON_TOOLTIP">选项面板</Entry>
+    <Entry key="GUI_ROLE_DECK_BUTTON_TOOLTIP">身份池</Entry>
+    <Entry key="GUI_TOGGLE_CHAT_TOOLTIP">聊天</Entry>
+    <Entry key="GUI_TOGGLE_CHATLOG_TOOLTIP">聊天记录</Entry>
+    <Entry key="GUI_TOGGLE_MAP_TOOLTIP">地图</Entry>
+    <Entry key="GUI_TOGGLE_PLAYERLIST_TOOLTIP">玩家列表</Entry>
+    <Entry key="GUI_TOGGLE_GRAVEYARD_TOOLTIP">墓地</Entry>
+    <Entry key="GUI_TOGGLE_ROLELIST_TOOLTIP">身份列表</Entry>
+    <Entry key="GUI_TOGGLE_SETTINGS_TOOLTIP">打开设置</Entry>
+    <Entry key="GUI_TOGGLE_SPELLBOOK_TOOLTIP">法术书</Entry>
+    <Entry key="GUI_DECK_MANAGER_TOOLTIP">管理身份池</Entry>
+    <Entry key="GUI_WARDROBE">化妆柜</Entry>
+    <Entry key="GUI_WARDROBE_BUTTON_TOOLTIP">自定义你的名字，皮肤和宠物</Entry>
+    <Entry key="GUI_GAME_OPTIONS_BUTTON_TOOLTIP">显示游戏选项</Entry>
+    <Entry key="GUI_GAME_OPTIONS_PUBLIC">公开</Entry>
+    <Entry key="GUI_GAME_OPTIONS_PRIVATE">私人</Entry>
+    <Entry key="GUI_GAME_OPTIONS_ROLE_DECK">身份池</Entry>
+    <Entry key="GUI_GAME_OPTIONS_CUSTOM_SETTINGS">自定义选项</Entry>
+    <Entry key="GUI_GAME_OPTIONS_REMOVE">移除？</Entry>
     <!--NONE = 0, -->
     <Entry key="GUI_GAME_START_REASON_0">Error: Divide by cucumber.</Entry>
     <!--PLAYERS_NOT_READY = 1, -->
@@ -943,8 +943,8 @@ Are you sure you want to leave?
     <Entry key="GUI_END_GAME_WINS">Wins</Entry>
     <Entry key="GUI_END_GAME_LOSSES">Losses</Entry>
     <Entry key="GUI_END_GAME_DRAWS">Draws</Entry>
-    <Entry key="GUI_VICTORY">Victory!</Entry>
-    <Entry key="GUI_DEFEAT">Defeat!</Entry>
+    <Entry key="GUI_VICTORY">胜利！</Entry>
+    <Entry key="GUI_DEFEAT">失败！</Entry>
     <Entry key="GUI_TP_AMT">%x% TP</Entry>
     <Entry key="GUI_USD_AMT">$%x% USD</Entry>
     <Entry key="GUI_TOWN_POINTS">Town Points</Entry>
@@ -1050,58 +1050,58 @@ UserLevel: {nUserLevel}
 SteamID: {nSteamID}</Entry><Entry key="MOD_14">Message rejected for vulgarity.
 Continued use of vulgar language may result in automatic suspension.</Entry><Entry key="MOD_15">PromotionID invalid. Do you already own items in promotion?</Entry><Entry key="MOD_17">ItemID was invalid. Do you already own it?</Entry><Entry key="MOD_18">Successfully set tutorial progress.</Entry><Entry key="MOD_19">Successfully reloaded promotion xml.</Entry><Entry key="MOD_20">Successfully granted promotion to user.</Entry><Entry key="MOD_21">Successfully set your role.</Entry><Entry key="MOD_22">Failed to set your role.</Entry><Entry key="MOD_23">Successfully granted user 5200 Merit Points.</Entry><Entry key="MOD_24">{}: set global free currency multiplier.</Entry><Entry key="MOD_25">You Referred a Friend.</Entry><Entry key="MOD_26">Successfully reset caches.</Entry><Entry key="MOD_27">Successfully reset cauldron cooldown timer.</Entry><Entry key="MOD_28">Toggled Test Purchasing to {}.</Entry><Entry key="MOD_29">Toggled Server Free Coven 1=On, 0=Off (Value={})</Entry><Entry key="MOD_30">Toggled Account Feature 1=On, 0=Off (Value={})</Entry><Entry key="MOD_35">Successfully kicked user.</Entry><Entry key="MOD_36">Moderator has kicked {}.</Entry><Entry key="MOD_37">Successfully granted Mobile Premium.</Entry><Entry key="MOD_38">Successfully banned user IP.</Entry><Entry key="MOD_39">Successfully granted Unrestricted.</Entry>
     -->
-    <Entry key="NPC_NAME_1">Jacqueline</Entry>
-    <Entry key="NPC_NAME_2">Reverend Parris</Entry>
-    <Entry key="NPC_NAME_3">Farmer John</Entry>
-    <Entry key="NPC_NAME_4">Mrs. Putnam</Entry>
-    <Entry key="NPC_NAME_5">Thomas</Entry>
-    <Entry key="NPC_NAME_6">Madam Martha</Entry>
-    <Entry key="NPC_NAME_7">Reverend Hale</Entry>
-    <Entry key="NPC_NAME_8">Mr. Stuffins</Entry>
-    <Entry key="NPC_NAME_9">Sister Mercy</Entry>
-    <Entry key="NPC_NAME_10">Eden</Entry>
-    <Entry key="NPC_NAME_11">Betty</Entry>
-    <Entry key="NPC_NAME_12">Leo</Entry>
-    <Entry key="NPC_NAME_13">Rebecca</Entry>
-    <Entry key="NPC_NAME_14">Merman</Entry>
-    <Entry key="NPC_NAME_15">Crowe</Entry>
-    <Entry key="NPC_NAME_16">Demon Dog</Entry>
-    <Entry key="NPC_NAME_17">Sheep</Entry>
-    <Entry key="NPC_NAME_18">Sheep</Entry>
-    <Entry key="NPC_NAME_19">Sheep</Entry>
+    <Entry key="NPC_NAME_1">杰奎琳</Entry>
+    <Entry key="NPC_NAME_2">牧师帕里斯</Entry>
+    <Entry key="NPC_NAME_3">农夫约翰</Entry>
+    <Entry key="NPC_NAME_4">帕南夫人</Entry>
+    <Entry key="NPC_NAME_5">托马斯</Entry>
+    <Entry key="NPC_NAME_6">玛莎女士</Entry>
+    <Entry key="NPC_NAME_7">牧师黑尔</Entry>
+    <Entry key="NPC_NAME_8">斯塔芬斯先生</Entry>
+    <Entry key="NPC_NAME_9">修女默茜</Entry>
+    <Entry key="NPC_NAME_10">伊登</Entry>
+    <Entry key="NPC_NAME_11">贝蒂</Entry>
+    <Entry key="NPC_NAME_12">莱昂</Entry>
+    <Entry key="NPC_NAME_13">丽贝卡</Entry>
+    <Entry key="NPC_NAME_14">默尔曼</Entry>
+    <Entry key="NPC_NAME_15">克罗</Entry>
+    <Entry key="NPC_NAME_16">地狱犬</Entry>
+    <Entry key="NPC_NAME_17">羊</Entry>
+    <Entry key="NPC_NAME_18">羊</Entry>
+    <Entry key="NPC_NAME_19">羊</Entry>
     <Entry key="NPC_NAME_101">Shooter</Entry>
-    <Entry key="NPC_NAME_102">John Jr</Entry>
-    <Entry key="NPC_NAME_201">Puck</Entry>
-    <Entry key="NPC_NAME_202">Sabrina</Entry>
-    <Entry key="NPC_NAME_301">Giles Corey</Entry>
-    <Entry key="NPC_JOB_1">Bartender</Entry>
-    <Entry key="NPC_JOB_2">Old Priest</Entry>
-    <Entry key="NPC_JOB_3">Farmer</Entry>
-    <Entry key="NPC_JOB_4">Deputy Mayor</Entry>
-    <Entry key="NPC_JOB_5">Gravedigger</Entry>
-    <Entry key="NPC_JOB_6">Fortune Teller</Entry>
-    <Entry key="NPC_JOB_7">Young Priest</Entry>
-    <Entry key="NPC_JOB_8">Scarecrow</Entry>
-    <Entry key="NPC_JOB_9">Nun</Entry>
-    <Entry key="NPC_JOB_10">Gardener</Entry>
-    <Entry key="NPC_JOB_11">Maid</Entry>
-    <Entry key="NPC_JOB_12">Butler</Entry>
-    <Entry key="NPC_JOB_13">Ghost</Entry>
-    <Entry key="NPC_JOB_14">Boatman</Entry>
-    <Entry key="NPC_JOB_15">Boatman</Entry>
-    <Entry key="NPC_JOB_16">Guard</Entry>
-    <Entry key="NPC_JOB_101">Range Instructor</Entry>
-    <Entry key="NPC_JOB_102">Farmer's Son</Entry>
+    <Entry key="NPC_NAME_102">小约翰</Entry>
+    <Entry key="NPC_NAME_201">帕克</Entry>
+    <Entry key="NPC_NAME_202">萨布里纳</Entry>
+    <Entry key="NPC_NAME_301">吉尔斯科利</Entry>
+    <Entry key="NPC_JOB_1">酒保</Entry>
+    <Entry key="NPC_JOB_2">老牧师</Entry>
+    <Entry key="NPC_JOB_3">农夫</Entry>
+    <Entry key="NPC_JOB_4">代理镇长</Entry>
+    <Entry key="NPC_JOB_5">掘墓人</Entry>
+    <Entry key="NPC_JOB_6">算命者</Entry>
+    <Entry key="NPC_JOB_7">年轻牧师</Entry>
+    <Entry key="NPC_JOB_8">稻草人</Entry>
+    <Entry key="NPC_JOB_9">修女</Entry>
+    <Entry key="NPC_JOB_10">园丁</Entry>
+    <Entry key="NPC_JOB_11">女仆</Entry>
+    <Entry key="NPC_JOB_12">管家</Entry>
+    <Entry key="NPC_JOB_13">鬼魂</Entry>
+    <Entry key="NPC_JOB_14">船夫</Entry>
+    <Entry key="NPC_JOB_15">船夫</Entry>
+    <Entry key="NPC_JOB_16">警卫</Entry>
+    <Entry key="NPC_JOB_101">靶场教练</Entry>
+    <Entry key="NPC_JOB_102">农夫之子</Entry>
     <Entry key="NPC_JOB_201">Satyr</Entry>
-    <Entry key="NPC_JOB_202">Cat Burglar</Entry>
+    <Entry key="NPC_JOB_202">飞贼</Entry>
     <Entry key="NPC_JOB_203">Satyr</Entry>
     <!--Temp-->
     <Entry key="NPC_JOB_301">Rock Farmer</Entry>
-    <Entry key="GUI_ROLE_LIST">Role List</Entry>
-    <Entry key="GUI_GRAVEYARD">Graveyard</Entry>
-    <Entry key="GUI_UNREPORTED_DEAD">Unreported Dead</Entry>
+    <Entry key="GUI_ROLE_LIST">身份列表</Entry>
+    <Entry key="GUI_GRAVEYARD">墓地</Entry>
+    <Entry key="GUI_UNREPORTED_DEAD">未报告的死者</Entry>
     <Entry key="GUI_GAME_YOU_ARE_HOST">You are the host!</Entry>
-    <Entry key="GUI_GAME_WAITING_FOR_HOST">Waiting for host...</Entry>
+    <Entry key="GUI_GAME_WAITING_FOR_HOST">正在等待房主...</Entry>
     <Entry key="GUI_GAME_WAIT_FOR">Wait For...</Entry>
     <Entry key="GUI_GAME_YOU_VOTED_TO_REPICK">You voted to repick the host.</Entry>
     <Entry key="GUI_GAME_X_VOTED_TO_REPICK">%name% voted to repick the host.</Entry>
@@ -1113,13 +1113,13 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_YOUR_ROLE">You are a %role%!</Entry>
     <Entry key="GUI_GAME_YOU_DIED">You died!</Entry>
     <Entry key="GUI_GAME_SENSE_OF_DOOM">You are filled with a sense of doom!</Entry>
-    <Entry key="GUI_GAME_PROSECUTOR_SENSE_OF_GUILT">You are filled with a sense of guilt for prosecuting a Townie! You are doomed!</Entry>
-    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT">The Vigilante, %name%, has died of guilt!</Entry>
-    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT_ME">You have died of guilt!</Entry>
-    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT">The Prosecutor, %name%, has died of guilt for prosecuting a Townie to their death!</Entry>
-    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT_ME">You have died of guilt for prosecuting a Townie to their death!</Entry>
-    <Entry key="GUI_GAME_EXECUTIONER_DOOM">The Executioner has doomed %name%.</Entry>
-    <Entry key="GUI_GAME_EXECUTIONER_DOOM_ME">The Executioner has doomed you.</Entry>
+    <Entry key="GUI_GAME_PROSECUTOR_SENSE_OF_GUILT">你因起诉了一名小镇成员而充满罪恶感！你完蛋了！</Entry>
+    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT">民兵 %name% 死于罪恶感！</Entry>
+    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT_ME">你死于罪恶感！</Entry>
+    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT">检察官 %name% 因起诉了一名小镇成员而死于罪恶感！</Entry>
+    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT_ME">你因起诉了一名小镇成员而死于罪恶感！</Entry>
+    <Entry key="GUI_GAME_EXECUTIONER_DOOM">处刑人诅咒了 %name%。</Entry>
+    <Entry key="GUI_GAME_EXECUTIONER_DOOM_ME">处刑人诅咒了你。</Entry>
     <Entry key="GUI_GAME_EXE_DIED_IN_VICTORY">The Executioner, %name%, returns to the underworld victorious!</Entry>
     <Entry key="GUI_GAME_EXE_TARGET_DIED">%name% has died to the Executioner's doom!</Entry>
     <Entry key="GUI_GAME_EXE_TARGET_DIED_ME">You have died to the Executioner's doom!</Entry>
@@ -1972,18 +1972,18 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_28">Good eye! You have found and opened the hidden passageway.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_30">Sapper! The drawbridge has been raised and sabotaged.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_32">Croakers! You have retrieved the frog! Find John Jr and deliver the frog to him.</Entry>
-    <Entry key="GUI_TIMER_DISCUSSION">Discussion</Entry>
-    <Entry key="GUI_TIMER_VOTING">Voting</Entry>
-    <Entry key="GUI_TIMER_LASTWORDS">Last Words</Entry>
+    <Entry key="GUI_TIMER_DISCUSSION">讨论</Entry>
+    <Entry key="GUI_TIMER_VOTING">正在投票</Entry>
+    <Entry key="GUI_TIMER_LASTWORDS">遗言</Entry>
     <Entry key="GUI_TIMER_MINIGAME">Placeholder Minigame</Entry>
-    <Entry key="GUI_TIMER_BLOODMOONSPELL">Blood Moon Spell</Entry>
-    <Entry key="GUI_TIMER_LOCKOUTSPELL">Summon Brambles Spell</Entry>
-    <Entry key="GUI_TIMER_HEXSPELL">Curse Spell</Entry>
-    <Entry key="GUI_TIMER_ICESTORMSPELL">Ice Storm Spell</Entry>
-    <Entry key="GUI_TIMER_DISPLACESPELL">Displace Spell</Entry>
-    <Entry key="GUI_TIMER_CONFUSESPELL">Confuse Spell</Entry>
-    <Entry key="GUI_TIMER_SEEINGDOUBLESPELL">Seeing Double Spell</Entry>
-    <Entry key="GUI_BANNER_DAYTIME">The sun is rising!</Entry>
+    <Entry key="GUI_TIMER_BLOODMOONSPELL">血月法术</Entry>
+    <Entry key="GUI_TIMER_LOCKOUTSPELL">召唤荆棘法术</Entry>
+    <Entry key="GUI_TIMER_HEXSPELL">诅咒法术</Entry>
+    <Entry key="GUI_TIMER_ICESTORMSPELL">暴风雪法术</Entry>
+    <Entry key="GUI_TIMER_DISPLACESPELL">移形换位法术</Entry>
+    <Entry key="GUI_TIMER_CONFUSESPELL">晕头转向法术</Entry>
+    <Entry key="GUI_TIMER_SEEINGDOUBLESPELL">幻觉法术</Entry>
+    <Entry key="GUI_BANNER_DAYTIME">太阳正在升起！</Entry>
     <Entry key="GUI_BANNER_NIGHTTIME">Nightfall is here!</Entry>
     <Entry key="GUI_DISCUSSION_HEADER">Who will the Town vote to the Gallows?</Entry>
     <Entry key="GUI_DISCUSSION_HEADER_RESULTS">The town has decided that a trial will commence.</Entry>
@@ -1994,43 +1994,43 @@ VOTED</Entry>
     <Entry key="GUI_FACTION_EVIL_ROLE">Evil Role</Entry>
     <Entry key="GUI_ROLE_DESC_RANDOM_TOWN">•Any Town aligned role.
 </Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_POWER_TOWN">•Any Town role that has strong powers. 
-•Mayor
-•Vigilante
-•Veteran
-•Prosecutor
-•King</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_INVESTIGATIVE_TOWN">•Any Town role that has an ability that gives clues who the Traitor is. 
-•Sheriff
-•Tracker
-•Seer
-•Investigator
-•Medium</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_UTILITY_TOWN">•Any Town role whose ability allows them to find the Traitors, or do their tasks more efficiently. 
-•Transporter
-•Coroner
-•Saint
-•Lookout
-•Psychic</Entry>
+    <Entry key="GUI_ROLE_DESC_RANDOM_POWER_TOWN">•任意拥有强大力量的小镇成员。
+•镇长
+•民兵
+•退伍老兵
+•检察官
+•国王</Entry>
+    <Entry key="GUI_ROLE_DESC_RANDOM_INVESTIGATIVE_TOWN">•任意能获取叛徒身份线索的小镇成员。
+•警长
+•追踪者
+•先知
+•调查员
+•灵媒</Entry>
+    <Entry key="GUI_ROLE_DESC_RANDOM_UTILITY_TOWN">•任意能找到叛徒或高效完成任务的小镇成员。
+•车夫
+•验尸官
+•圣人
+•守望者
+•通灵师</Entry>
     <Entry key="GUI_ROLE_DESC_RANDOM_TRAITOR">•Any Traitor aligned role. 
 </Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_POWER_TRAITOR">•Any Traitor role that can kill multiple players at once. 
-•Serial Killer
-•HexMaster
-•Cultist
-•Necromancer</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_DECEPTIVE_TRAITOR">•Any Traitor role that has an ability meant to spread misinformation. 
-•Arsonist
-•Poisoner
-•Disguiser
-•Illusionist
-•Wraith</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_UTILITY_TRAITOR">•Any Traitor role whose ability makes it easier for them to kill their target. 
-•Jester
-•Executioner
-•Inquisitor
+    <Entry key="GUI_ROLE_DESC_RANDOM_POWER_TRAITOR">•任意能一次性杀死多名玩家的叛徒成员。
+•连环杀手
+•巫术师
+•邪教徒
+•死灵法师</Entry>
+    <Entry key="GUI_ROLE_DESC_RANDOM_DECEPTIVE_TRAITOR">•任意能散播错误信息的叛徒成员。
+•纵火犯
+•投毒者
+•易容师
+•幻术师
+•幽灵</Entry>
+    <Entry key="GUI_ROLE_DESC_RANDOM_UTILITY_TRAITOR">•任意能更容易杀死目标的叛徒成员。
+•小丑
+•处刑人
+•异端审判官
 •Wildling
-•Banshee</Entry>
+•女妖</Entry>
     <Entry key="GUI_ROLE_DESC_RANDOM_ANY">•Any role in the game.
 </Entry>
     <Entry key="GUI_ROLE_DESC_TOWNIE">•You are an innocent member of the Town!
