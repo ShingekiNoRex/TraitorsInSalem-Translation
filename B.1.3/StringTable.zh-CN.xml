@@ -1113,11 +1113,11 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_YOUR_ROLE">You are a %role%!</Entry>
     <Entry key="GUI_GAME_YOU_DIED">You died!</Entry>
     <Entry key="GUI_GAME_SENSE_OF_DOOM">You are filled with a sense of doom!</Entry>
-    <Entry key="GUI_GAME_PROSECUTOR_SENSE_OF_GUILT">你因起诉了一名小镇成员而充满罪恶感！你完蛋了！</Entry>
-    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT">民兵 %name% 死于罪恶感！</Entry>
-    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT_ME">你死于罪恶感！</Entry>
-    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT">检察官 %name% 因起诉了一名小镇成员而死于罪恶感！</Entry>
-    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT_ME">你因起诉了一名小镇成员而死于罪恶感！</Entry>
+    <Entry key="GUI_GAME_PROSECUTOR_SENSE_OF_GUILT">你因起诉了一名小镇成员而充满愧疚感！你完蛋了！</Entry>
+    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT">民兵 %name% 死于愧疚！</Entry>
+    <Entry key="GUI_GAME_VIG_DIED_OF_GUILT_ME">你死于愧疚！</Entry>
+    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT">检察官 %name% 因起诉了一名小镇成员而死于愧疚！</Entry>
+    <Entry key="GUI_GAME_PROSECUTOR_DIED_OF_GUILT_ME">你因起诉了一名小镇成员而死于愧疚！</Entry>
     <Entry key="GUI_GAME_EXECUTIONER_DOOM">处刑人诅咒了 %name%。</Entry>
     <Entry key="GUI_GAME_EXECUTIONER_DOOM_ME">处刑人诅咒了你。</Entry>
     <Entry key="GUI_GAME_EXE_DIED_IN_VICTORY">The Executioner, %name%, returns to the underworld victorious!</Entry>
@@ -2029,175 +2029,175 @@ VOTED</Entry>
 •小丑
 •处刑人
 •异端审判官
-•Wildling
+•野人
 •女妖</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_ANY">•Any role in the game.
+    <Entry key="GUI_ROLE_DESC_RANDOM_ANY">•任意身份。
 </Entry>
-    <Entry key="GUI_ROLE_DESC_TOWNIE">•You are an innocent member of the Town!
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_TOWNIE_EVIL">•You are an evil member of the Town!
-•Use your kill button to kill the highlighted player.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_TRAITOR">•Use your kill button to kill the highlighted player.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died! </Entry>
-    <Entry key="GUI_ROLE_DESC_JESTER">•Use your kill button to kill the highlighted player.
-•If you are hanged one player who didn't vote innocent will die.
-•Once dead you will be able to possess a living player for a short period of time, and kill as that player!
-•You win when all the Town members have died! </Entry>
-    <Entry key="GUI_ROLE_DESC_VIGILANTE">•Use your kill button to kill the highlighted player.
-•If you kill a Town member you will die of guilt.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_VIGILANTE_EVIL">•Use your kill button to kill the highlighted player.
-•You have lost the ability to shoot.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_TRANSPORTER">•Use your ability button while standing on a teleporter to travel around the map.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_TRANSPORTER_EVIL">•Use your kill button to kill the highlighted player.
-•Use your ability button while standing on a teleporter to travel around the map.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_SHERIFF">•Use your ability button to investigate the highlighted player to learn if they are good or evil.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_SHERIFF_EVIL">•Use your kill button to kill the highlighted player.
-•Use your ability button to investigate the highlighted player to learn if they are good or evil.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_LOOKOUT">•Use your ability button to increase your vision radius for a short time.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_LOOKOUT_EVIL">•Use your kill button to kill the highlighted player.
-•Use your ability button to increase your vision radius for a short time.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_EXECUTIONER">•Use your kill button to kill the highlighted player.
-•Use your ability button to select a target.
-•If your target is hanged, then one player who didn't vote innocent will die, and you can choose another target. If your target is killed by a player, then you can select a new target. 
-•You win when all the Town members have died! </Entry>
-    <Entry key="GUI_ROLE_DESC_ARSONIST">•Use your kill button to kill the highlighted player.
-•The bodies of players killed by you disappear after a period of time.
-•You win when all the Town members have died! </Entry>
-    <Entry key="GUI_ROLE_DESC_PSYCHIC">•You will be told when a player dies anywhere on the map.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_PSYCHIC_EVIL">•Use your kill button to kill the highlighted player.
-•You will be told when a player dies anywhere on the map.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_WRAITH">•Use your kill button to kill the highlighted player.
-•Use your ability button to go invisible for a period of time.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_DISGUISER">•Use your kill button to kill the highlighted player.
-•Use your ability button to sample a player you wish to disguise as. Using it again will turn you into that player for a period of time.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_INQUISITOR">•Use your kill button to kill the highlighted player.
-•Use your ability button to discover a player's role for all Traitors.
-•You win when all the Town members have died! </Entry>
-    <Entry key="GUI_ROLE_DESC_POISONER">•Use your kill button to kill the highlighted player.
-•Use your ability button to poison the highlighted player causing them to die after a period of time.
-•You win when all the Town members have died!</Entry>
+    <Entry key="GUI_ROLE_DESC_TOWNIE">•你是一名无辜的小镇成员！
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_TOWNIE_EVIL">•你是小镇中的一名邪恶成员！
+•使用杀戮按钮来杀死高亮的玩家。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_TRAITOR">•使用杀戮按钮来杀死高亮的玩家。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。 </Entry>
+    <Entry key="GUI_ROLE_DESC_JESTER">•使用杀戮按钮来杀死高亮的玩家。
+•如果你被投票吊死，那么一名未投清白票的玩家会死亡。
+•一旦死亡，你能够在一小段时间内占据一名活着的玩家身体，并作为该玩家杀人！
+•获胜条件：所有小镇成员皆死亡。 </Entry>
+    <Entry key="GUI_ROLE_DESC_VIGILANTE">•使用杀戮按钮来杀死高亮的玩家。
+•如果你杀死了一名小镇成员，你会死于愧疚。
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_VIGILANTE_EVIL">•使用杀戮按钮来杀死高亮的玩家。
+•你已失去开枪射击的能力。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_TRANSPORTER">•在传送点上使用能力按钮进行传送旅行。在传送点上使用能力按钮进行传送旅行。
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_TRANSPORTER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
+•在传送点上使用能力按钮进行传送旅行。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_SHERIFF">•使用能力按钮调查高亮的玩家，可以得知其是否为好人。
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_SHERIFF_EVIL">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮调查高亮的玩家，可以得知其是否为好人。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_LOOKOUT">•使用能力按钮在短时间内扩大视野范围。
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_LOOKOUT_EVIL">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮在短时间内扩大视野范围。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_EXECUTIONER">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮来选择你的目标。
+•如果你的目标被吊死，一名未投清白票的玩家会死亡，随后你可以重新选择目标。如果你的目标被其他玩家杀死，你可以重新选择目标。
+•获胜条件：所有小镇成员皆死亡。 </Entry>
+    <Entry key="GUI_ROLE_DESC_ARSONIST">•使用杀戮按钮来杀死高亮的玩家。
+•被你杀死的玩家尸体会在一段时间后消失。
+•获胜条件：所有小镇成员皆死亡。 </Entry>
+    <Entry key="GUI_ROLE_DESC_PSYCHIC">•如果有玩家死亡，你会被告知。
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_PSYCHIC_EVIL">•使用杀戮按钮来杀死高亮的玩家。
+•如果有玩家死亡，你会被告知。
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_WRAITH">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮在一段时间内隐身。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_DISGUISER">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮对一名玩家采样。再次使用能让你在一段时间内变成该玩家的模样。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_INQUISITOR">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮来替所有叛徒获取一名玩家的身份。
+•获胜条件：所有小镇成员皆死亡。 </Entry>
+    <Entry key="GUI_ROLE_DESC_POISONER">•使用杀戮按钮来杀死高亮的玩家。
+•使用能力按钮来对高亮的玩家下毒，使其在一段时间后死亡。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_VETERAN">•Use your ability button to enter a state of high alert and counter attack anyone who tries to attack you for a period of time.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_VETERAN_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_VETERAN_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to enter a state of high alert and counter attack anyone who tries to attack you for a period of time.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_INVESTIGATOR">•Use your ability button to tell if a player has killed someone recently.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_INVESTIGATOR_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_INVESTIGATOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to tell if a player has killed someone recently.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_MAYOR">•Use your ability button to reveal that you are a Mayor making all your votes count for one more.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_MAYOR_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_MAYOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to reveal that you are a Mayor making all your votes count for one more.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_WILDLING">•Use your kill button to kill the highlighted player.
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_WILDLING">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to gain the ability to see players through walls.
-•You win when all the Town members have died!</Entry>
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_PROSECUTOR">•Use your ability button to force a player to the stand to die.
 •If your target is innocent you will die.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_PROSECUTOR_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_PROSECUTOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •You have lost the ability to prosecute.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_SERIALKILLER">•Use your kill button to kill the highlighted player.
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_SERIALKILLER">•使用杀戮按钮来杀死高亮的玩家。
 •When you kill a player you can temporarily kill again for a short period of time.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_BANSHEE">•Use your kill button to kill the highlighted player.
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_BANSHEE">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to lock out all Town members from using their abilities for a period of time.
 •You win when all the Town members have died.</Entry>
-    <Entry key="GUI_ROLE_DESC_NECROMANCER">•Use your kill button to kill the highlighted player.
+    <Entry key="GUI_ROLE_DESC_NECROMANCER">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to summon a minion to kill your target.
 •Your minion will spawn at the graveyard, getting faster the longer it exists until it kills your target.
-•You win when all the Town members have died!</Entry>
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_CORONER">•Use your ability button on a dead body to perform an autopsy.
 •Use your second ability button on a living player to see if they were the killer.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_CORONER_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_CORONER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button on a dead body to perform an autopsy.
 •Use your second ability button on a living player to see if they were the killer.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_SEER">•Use your ability button to compare two player's factions to see if they are the same faction.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_SEER_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_SEER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to compare two player's factions to see if they are the same faction.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_SAINT">•When you are killed you will double the cooldowns on your killers abilities.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_SAINT_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_SAINT_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •When you are killed you will double the cooldowns on your killers abilities.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_HEXMASTER">•Use your kill button to kill the highlighted player.
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_HEXMASTER">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to hex a player. When all living Town members are hexed they will all die.
-•You win when all the Town members have died! </Entry>
+•获胜条件：所有小镇成员皆死亡。 </Entry>
     <Entry key="GUI_ROLE_DESC_TRACKER">•Use your ability button on a dead body to pick up the scent of the killer, allowing you to track them down.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_TRACKER_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_TRACKER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button on a dead body to pick up the scent of the killer, allowing you to track them down.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_MEDIUM">•For a short time after being killed during the roaming phase you may reveal a player's role to everyone. You can not reveal the role of your killer.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_MEDIUM_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_MEDIUM_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •For a short time after being killed during the roaming phase you may reveal a player's role to everyone.. You can not reveal the role of your killer.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_KING">•Use your ability button to knight the highlighted player causing their votes to count for one more.
-•Work with the other Town members to rid the town of evil.
-•You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
-    <Entry key="GUI_ROLE_DESC_KING_EVIL">•Use your kill button to kill the highlighted player.
+•与其他小镇成员合作铲除邪恶。
+•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+    <Entry key="GUI_ROLE_DESC_KING_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to knight the highlighted player causing their votes to count for one more.
-•Work against the other Town members to bring the Town to its knees.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_ILLUSIONIST">•Use your kill button to kill the highlighted player.
+•与其他小镇成员作对，使他们屈膝投降。
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_ILLUSIONIST">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to inspect a player you wish to create an illusion of. Using the button again will cause an illusion of that player to spawn and run to the second closest teleporter and use it.
-•You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_CULTIST">•Use your kill button to kill the highlighted player.
+•获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_CULTIST">•使用杀戮按钮来杀死高亮的玩家。
 •Use your ability button to convert another player into a cultist.
 •Most converts will keep their original role's abilities, while gaining the ability to kill.
-•You win when all the Town members have died!</Entry>
+•获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_BLURB_TOWNIE">You are an innocent member of the Town.</Entry>
     <Entry key="GUI_ROLE_BLURB_TRAITOR">Kill all of the Town members.</Entry>
     <Entry key="GUI_ROLE_BLURB_JESTER">Possess Townies after being hanged.</Entry>
