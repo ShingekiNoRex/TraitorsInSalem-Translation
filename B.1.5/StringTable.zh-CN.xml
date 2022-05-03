@@ -120,11 +120,11 @@ Common Steps to Resolution:
     <Entry key="GUI_ATTEMPTING_LOGIN">正在尝试登录...</Entry>
     <Entry key="GUI_LOGIN_ACCOUNT_BANNED">Account banned!</Entry>
     <Entry key="GUI_LOGIN_ACCOUNT_SUSPENDED">Account suspended!</Entry>
-    <Entry key="GUI_LOGIN_AUTOLOGIN">自动登录</Entry>
+    <Entry key="GUI_LOGIN_AUTOLOGIN">        自动登录</Entry>
     <Entry key="GUI_LOGIN_AUTOLOGIN_TOOLTIP">勾选以在将来自动登录。</Entry>
     <Entry key="GUI_LOGIN_AGAIN">Please try to log in again.</Entry>
-    <Entry key="GUI_CHECKING_FOR_UPDATES">正在检查更新...请稍后</Entry>
-    <Entry key="GUI_UPDATING">正在更新...请稍后</Entry>
+    <Entry key="GUI_CHECKING_FOR_UPDATES">正在检查更新...请稍候</Entry>
+    <Entry key="GUI_UPDATING">正在更新...请稍候</Entry>
     <Entry key="GUI_INFO">信息</Entry>
     <Entry key="GUI_OKAY">OK</Entry>
     <Entry key="GUI_HELP">帮助</Entry>
@@ -146,7 +146,7 @@ Common Steps to Resolution:
     <Entry key="GUI_CR"></Entry>
     <Entry key="GUI_DBL_CR"></Entry>
     <Entry key="GUI_YOU">You</Entry>
-    <Entry key="GUI_PLEASE_WAIT">请稍后...</Entry>
+    <Entry key="GUI_PLEASE_WAIT">请稍候...</Entry>
     <Entry key="GUI_ENTER_TEXT">输入文字...</Entry>
     <Entry key="GUI_COMING_SOON">Coming soon</Entry>
     <Entry key="GUI_FLUMMERY">Flummery!</Entry>
@@ -233,7 +233,7 @@ Please choose another.</Entry>
     <Entry key="GUI_RECONNECT_MESSAGE_3">Already logged in! Unable to reestablish connection with this client.</Entry>
     <Entry key="GUI_RECONNECT_MESSAGE_4">UUID Expired or Invalid! Unable to reestablish connection.</Entry>
     <Entry key="GUI_MAX_CONNECTIONS_ATTEMPTED">Server connection has been lost and reconnection attempts failed.</Entry>
-    <Entry key="GUI_HOME">Home</Entry>
+    <Entry key="GUI_HOME">主菜单</Entry>
     <Entry key="GUI_HOME_SOCIAL_MEDIA">Social Media</Entry>
     <Entry key="GUI_HOME_FOLLOW_US">Follow Us</Entry>
     <Entry key="GUI_HOME_ANNOUNCEMENTS">Latest Forum Announcements</Entry>
@@ -294,7 +294,7 @@ Please choose another.</Entry>
     <Entry key="GUI_SETTINGS">设置</Entry>
     <Entry key="GUI_SETTINGS_TOOLTIP">打开设置</Entry>
     <Entry key="GUI_SETTINGS_QUALITY">画质</Entry>
-    <Entry key="GUI_SETTINGS_TOGGLE_FPS">Toggle FPS</Entry>
+    <Entry key="GUI_SETTINGS_TOGGLE_FPS">显示FPS</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS_TOOLTIP">Turn the display of Frames Per Second on or off</Entry>
     <Entry key="GUI_SETTINGS_FPS_PENDING">FPS pending...</Entry>
     <Entry key="GUI_START">开始</Entry>
@@ -541,8 +541,8 @@ Please choose another.</Entry>
     <Entry key="GUI_SETTINGS_VOICE_INPUT_LABEL">语音设备</Entry>
     <Entry key="GUI_SETTINGS_VOICE_MIC_TEST_START">开始麦克风测试</Entry>
     <Entry key="GUI_SETTINGS_VOICE_MIC_TEST_STOP">停止麦克风测试</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_OUTPUT">我的声音</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_INPUT">他人声音</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_OUTPUT">我的音量</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_INPUT">他人音量</Entry>
     <Entry key="GUI_SETTINGS_VOICE_OUTPUT_TOGGLE_TOOLTIP">Change the volume of your own voice.</Entry>
     <Entry key="GUI_SETTINGS_VOICE_INPUT_TOGGLE_TOOLTIP">The volume you hear other people's voices.</Entry>
     <Entry key="GUI_SETTINGS_QUEUE_LABEL">Preferred Chat Language</Entry>
@@ -1169,7 +1169,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_REPORT_BODY_ZINGER_2">%reporter% 目击了 %body% 的尸体！</Entry>
     <Entry key="GUI_RING_BELL_ZINGER_0">%ringer% 发起了一场集会！</Entry>
     <Entry key="GUI_HEXMASTER_CINEMATIC_TEXT">巫术师施法消灭了整个小镇！</Entry>
-    <Entry key="GUI_BANISHMENT_CINEMATIC_TEXT">小镇放逐了死灵之书！</Entry>
+    <Entry key="GUI_BANISHMENT_CINEMATIC_TEXT">小镇驱逐了死灵之书！</Entry>
     <Entry key="GUI_GAME_OVER_CINEMATIC_TEXT">游戏结束！</Entry>
     <Entry key="GUI_CURSE_TOTEM_CINEMATIC_TEXT">一种致命的诅咒摧毁了小镇！</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_1">Alerted Veteran</Entry>
@@ -1213,21 +1213,21 @@ They will have revenge from beyond the grave!</Entry>
     <!--KILL-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_2">你被杀了！</Entry>
     <!--KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_2_ME">You have incinerated %target%'s body.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_2_ME">你焚烧了 %target% 的尸体。</Entry>
     <!--BURN-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_2">%source% incinerated %target%'s body.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_2">%source% 焚烧了 %target% 的尸体。</Entry>
     <!--BURN-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_ME_0">Your interrogation revealed that %target% appears innocent.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_ME_0">你审问了 %target%，他看起来是清白的。</Entry>
     <!--INTERROGATE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_ME_1">Your interrogation revealed that %target% appears evil.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_ME_1">你审问了 %target%，他看起来是邪恶的。</Entry>
     <!--INTERROGATE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_0">%source%'s interrogation revealed that %target% appears innocent.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_0">%source% 审问了 %target%，他看起来是清白的。</Entry>
     <!--INTERROGATE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_1">%source%'s interrogation revealed that %target% appears evil.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_3_1">%source% 审问了 %target%，他看起来是邪恶的。</Entry>
     <!--INTERROGATE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_4_ME_0">Your investigation revealed that %target%'s hands are clean.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_4_ME_0">你的调查表明 %target% 的双手是干净的。</Entry>
     <!--INVESTIGATE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_4_ME_1">Your investigation revealed that %target% has bloody hands.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_4_ME_1">你的调查表明 %target% 的双手沾满鲜血。</Entry>
     <!--INVESTIGATE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_4_0">%source%'s investigation revealed that %target%'s hands are clean.</Entry>
     <!--INVESTIGATE-->
@@ -1245,9 +1245,9 @@ They will have revenge from beyond the grave!</Entry>
     <!--DEPRECATED-->
     <!--<Entry key="GUI_CHAT_LOG_ABILITY_MSG_8">unneeded</Entry>-->
     <!--TRANSITION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_9_ME">You are now a ghost.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_9_ME">你现在是鬼魂。</Entry>
     <!--GHOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_9">%source% is now a ghost.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_9">%source% 现在是鬼魂。</Entry>
     <!--GHOST-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_10_ME_ON">You have the eye of the Eagle!</Entry>
     <!--EAGLE_EYE-->
@@ -1621,28 +1621,28 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META_AN">%name% was killed by an %killerrole%%where%.%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_DISCONNECTED_META">%name% %killerrole%%where%.%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_UNKNOWN_ASSAILANT_ROLE">unknown assailant</Entry>
-    <Entry key="GUI_GAME_KNIGHTED_INFO">%name% was knighted by a King!</Entry>
+    <Entry key="GUI_GAME_KNIGHTED_INFO">%name% 被国王封爵！</Entry>
     <!--Leading space b/c it can go after a sentence-->
-    <Entry key="GUI_GAME_WHO_DIED_VICTIM_ROLE_KNOWN"> They were a %role%.</Entry>
-    <Entry key="GUI_GAME_WHO_DIED_VICTIM_ROLE_KNOWN_AN"> They were an %role%.</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_VICTIM_ROLE_KNOWN"> 他的身份是 %role%。</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_VICTIM_ROLE_KNOWN_AN"> 他的身份是 %role%。</Entry>
     <Entry key="GUI_GAME_WHO_DIED_VICTIM_ZONE_KNOWN"> at the %zone%</Entry>
     <!--Both victim and killer roles are known-->
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_1_1">%name% was killed by a %role%.</Entry>
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_1_2">%name%'s role was %role%!</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_1_1">%name% 被 %role% 杀害了。</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_1_2">%name% 的身份是 %role%！</Entry>
     <!--Neither victim nor killer roles are known-->
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_2_1">%name% was killed by an unknown assailant.</Entry>
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_2_2">We were unable to determine %name%'s role.</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_2_1">%name% 被不明人士杀害了。</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_2_2">我们无法判断 %name% 的身份。</Entry>
     <!--Victim's role is known but not killer-->
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_3_1">%name% was killed by an unknown assailant.</Entry>
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_3_2">%name%'s role was %role%!</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_3_1">%name% 被不明人士杀害了。</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_3_2">%name% 的身份是 %role%！</Entry>
     <!--Victim's role is not known but killer's role is known-->
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_4_1">%name% was killed by a %role%.</Entry>
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_4_2">We were unable to determine %name%'s role.</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_4_1">%name% 被 %role% 杀害了。</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_4_2">我们无法判断 %name% 的身份。</Entry>
     <!-- Zone names and subzone names-->
-    <Entry key="GUI_GAME_ZONE_0">Unknown</Entry>
+    <Entry key="GUI_GAME_ZONE_0">不明</Entry>
     <Entry key="GUI_GAME_ZONE_1">酒馆</Entry>
     <Entry key="GUI_GAME_ZONE_2">教堂</Entry>
-    <Entry key="GUI_GAME_ZONE_3">Observatory</Entry>
+    <Entry key="GUI_GAME_ZONE_3">观测台</Entry>
     <Entry key="GUI_GAME_ZONE_4">小镇广场</Entry>
     <Entry key="GUI_GAME_ZONE_5">墓地</Entry>
     <Entry key="GUI_GAME_ZONE_6">地下</Entry>
@@ -1728,145 +1728,145 @@ They will have revenge from beyond the grave!</Entry>
     </Entry>
     <Entry key="GUI_GAME_RETURN_TO_PLAY">%name% 现在可以重回游戏了。</Entry>
     <Entry key="GUI_GAME_PHASE">阶段：</Entry>
-    <Entry key="GUI_GAME_MINION_SUMMONED">You have summoned a zombie to attack your target.</Entry>
-    <Entry key="GUI_GAME_MINION_ATTACKED">Your zombie killed its prey.</Entry>
-    <Entry key="GUI_GAME_MINION_UNABLE_TO_KILL">Your zombie was unable to kill its prey.</Entry>
-    <Entry key="GUI_GAME_MINION_WAS_KILLED">Your zombie was killed before completing its mission.</Entry>
-    <Entry key="GUI_GAME_MINION_TARGET_PREEMPTED">Your target was killed before your zombie could reach them.</Entry>
-    <Entry key="GUI_GAME_SHOOTING_RANGE_CLOSED">The Shooting Range is closed at night. Return in the morning to finish qualifying as Marksman.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_1_0">Find Fruit for Potions</Entry>
-    <Entry key="GUI_DIALOG_1_0">I'm running out o' fruit to make potions! There be a fruit tree at the farm. Bring me back some fruit before I run out.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_1_2">Quest Complete!</Entry>
-    <Entry key="GUI_DIALOG_1_2">Bless you for bringin' me this wonderful fruit! I can return to makin' potions now.</Entry>
+    <Entry key="GUI_GAME_MINION_SUMMONED">你召唤了一个僵尸攻击你的目标。</Entry>
+    <Entry key="GUI_GAME_MINION_ATTACKED">你的僵尸杀死了它的猎物。</Entry>
+    <Entry key="GUI_GAME_MINION_UNABLE_TO_KILL">你的僵尸无法杀死它的猎物。</Entry>
+    <Entry key="GUI_GAME_MINION_WAS_KILLED">你的僵尸在完成它的任务前被杀死了。</Entry>
+    <Entry key="GUI_GAME_MINION_TARGET_PREEMPTED">你的目标在僵尸靠近他之前就被杀死了。</Entry>
+    <Entry key="GUI_GAME_SHOOTING_RANGE_CLOSED">靶场夜间闭门，请于早上再回来完成神射手挑战。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_1_0">寻找制药用的水果</Entry>
+    <Entry key="GUI_DIALOG_1_0">我用来制药的水果快用完了！在农场那有一颗果树，请在我用完前帮我带一些水果回来。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_1_2">任务完成！</Entry>
+    <Entry key="GUI_DIALOG_1_2">谢谢你给我带来了这么棒的水果！我现在可以回去继续制药了。</Entry>
     <!--No entry for Quest 2 as there is no dialog with NPC-->
-    <Entry key="GUI_DIALOG_TITLE_3_0">Read Your Fortune?</Entry>
-    <Entry key="GUI_DIALOG_3_0">I will tell your fortune! Your role will be revealed to everyone in the Tavern.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_4_0">Fetch the Holy Water</Entry>
-    <Entry key="GUI_DIALOG_4_0">The pipes in the rear of the Church are broken. Fix them and then take some Holy Water to Reverend Hale at the Cave.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_4_2">Holy Water Quest Complete!</Entry>
-    <Entry key="GUI_DIALOG_4_2">Thank you for fetching this Holy Water! We'll need this to help banish the Necronomicon.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_5_0">驱散魔法 in the Cave</Entry>
-    <Entry key="GUI_DIALOG_5_0">Foul magic has been gathering in this cave. Find the Rune in my cave and cast out the evil witchcraft so we can use the cave in our ceremony to banish the Necronomicon.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_6_0">驱散魔法 at the Graveyard</Entry>
-    <Entry key="GUI_DIALOG_6_0">The graveyard is blighted with evil sorcery. Find the Rune in my Graveyard and end the vile incantation.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_7_0">驱散魔法 at the Farm</Entry>
-    <Entry key="GUI_DIALOG_7_0">An unholy curse is killing my crop. Find the Rune on my Farm and dispel the wicked bewitchment.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_8_0">驱散魔法 in the Mansion</Entry>
-    <Entry key="GUI_DIALOG_8_0">I'm afraid because an evil enchantment is spreading in my home. Find the Rune in the Mansion and scatter the foul magic.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_9_0">驱散魔法 at Town Center</Entry>
-    <Entry key="GUI_DIALOG_9_0">A nasty jinx is spreadin' in the Town. Find the Rune in the Town Center and rid us o' this wicked sorcery.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_10_0">Prepare the Ritual Circle!</Entry>
-    <Entry key="GUI_DIALOG_10_0">We're getting close to being ready to banish the Necronomicon! Go to the center of the cave and prepare the ritual circle!</Entry>
-    <Entry key="GUI_DIALOG_TITLE_10_2">Ritual Circle Quest Complete!</Entry>
-    <Entry key="GUI_DIALOG_10_2">Excellent! The cave is prepared for the banishment ceremony. Hopefully the rest of the town will complete their tasks so we can rid ourselves of that cursed Necronomicon!</Entry>
-    <Entry key="GUI_DIALOG_TITLE_11_0">Chop Firewood in Clearing</Entry>
-    <Entry key="GUI_DIALOG_11_0">Reverend Hale needs firewood for the banishment ritual. Chop some firewood in the clearing and then take the wood to him in the Cave.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_11_2">Firewood Quest Complete!</Entry>
-    <Entry key="GUI_DIALOG_11_2">Thanks for bringing this firewood! As soon as the other tasks are completed, we'll be ready to perform the Banishment ritual.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_12_0">Collect Fire in Town Center</Entry>
-    <Entry key="GUI_DIALOG_12_0">Reverend Hale needs fire brought to him for the banishment ritual. Collect some fire from the torch in the Town Center and then take it to him in the Cave.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_12_2">Fire Quest Complete!</Entry>
-    <Entry key="GUI_DIALOG_12_2">Thanks for bringing this fire so I can light the torches! As soon as the other tasks are completed, we'll be ready to perform the Banishment ritual.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_13_0">Escort Reverend Parris to the Cave</Entry>
-    <Entry key="GUI_DIALOG_13_0">Escort me to the cave so Reverend Hale and I can perform the ritual to banish the Necronomicon forever!</Entry>
-    <Entry key="GUI_DIALOG_TITLE_13_1">Banish the Necronomicon!</Entry>
-    <Entry key="GUI_DIALOG_13_1">The time has come! Assist us in performing the ritual to banish the Necronomicon forever!</Entry>
-    <Entry key="GUI_DIALOG_TITLE_15_0">Take the Boat to the North Dock</Entry>
-    <Entry key="GUI_DIALOG_15_0">Would you like me to give you a ride to the North Dock?</Entry>
-    <Entry key="GUI_DIALOG_TITLE_16_0">Take the Boat to the South Dock</Entry>
-    <Entry key="GUI_DIALOG_16_0">Would you like me to give you a ride to the South Dock?</Entry>
-    <Entry key="GUI_DIALOG_TITLE_20_0">Improve your Marksmanship</Entry>
-    <Entry key="GUI_DIALOG_20_0">With the Necronomicon threatening the Town, we must improve our weapons skills. The range is closed at night, but if you practice shooting at the range during the daytime and become a Marksman, I'll give you a barkskin shield to protect yourself.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_20_2">Marksman!</Entry>
-    <Entry key="GUI_DIALOG_20_2">Great shooting! Here is the barkskin shield I promised you. It won't protect you from being hanged since they'll take your shield, but it will provide a one-time protection from other types of killing attacks.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_22_0">Collect Spellbook from Mansion</Entry>
-    <Entry key="GUI_DIALOG_22_0">We must have the spellbook from the library in the Mansion. It contains the banishment spell. Retrieve the spellbook and bring it to me.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_22_2">Spellbook Retrieved!</Entry>
-    <Entry key="GUI_DIALOG_22_2">Thank you for retrieving the spellbook.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_23_0">Collect Dagger from Mansion</Entry>
-    <Entry key="GUI_DIALOG_23_0">We must have the dagger from the Mansion war room. Retrieve the dagger and bring it to Reverend Parris in the Church.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_23_2">Dagger Retrieved!</Entry>
-    <Entry key="GUI_DIALOG_23_2">Thank you for retrieving the dagger.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_24_0">Retrieve Pan's Flute</Entry>
-    <Entry key="GUI_DIALOG_24_0">I must have Pan's Flute to play at the banishment ceremony. The Necronomicon has taken it and summoned a Demon Dog to guard it at the Glade. Please, retrieve the flute and bring it back to me for a handsome reward. The Demon Dog is easily woken, so take great care.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_24_2">Pan's Flute Retrieved!</Entry>
-    <Entry key="GUI_DIALOG_24_2">Outstanding! I thought for sure the Demon Dog would kill you, yet here you are with my flute! Now, I'll teach you to move as fast as a Satyr!</Entry>
-    <Entry key="GUI_DIALOG_TITLE_26_0">Catch Loose Sheep</Entry>
-    <Entry key="GUI_DIALOG_26_0">Tarnation! That crooked book done run off my sheep and now they're wanderin' all over town. If'n you'd round up my sheep, I'll larn you a trick to get an extra ring of the Town Bell.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_26_4">Loose Sheep Captured!</Entry>
-    <Entry key="GUI_DIALOG_26_4">Well, I'm happy as a pig in slop! Thanks for roundin' up all my sheep! Now, I'll larn you the trick to get an extra ring of the Town Bell!</Entry>
-    <Entry key="GUI_DIALOG_TITLE_27_0">Unlock Safe in Mansion</Entry>
-    <Entry key="GUI_DIALOG_27_0">Excuse me, but you look like someone who might consider bending some rules. Perhaps you can help me with a task of...um...questionable lawfulness. Despite many nights of trying, I've been unable to pick the lock on the safe in the Mansion. Please, if you could pick the lock and bring me the contents of the safe, I can teach you cat-like reflexes that will help speed up your recovery after using an ability.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_27_2">Safe Contents Retrieved!</Entry>
-    <Entry key="GUI_DIALOG_27_2">Aha! I knew when I first laid eyes on you that you had a scoundrel spirit! Now, I will teach you the ways of the cat!</Entry>
+    <Entry key="GUI_DIALOG_TITLE_3_0">算算你的命运？</Entry>
+    <Entry key="GUI_DIALOG_3_0">我接下来会帮你算命！你的身份会展示给所有酒馆里的人。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_4_0">获取圣水</Entry>
+    <Entry key="GUI_DIALOG_4_0">教堂后方的水管坏了。请修好它们，并带些圣水给洞穴里的牧师黑尔。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_4_2">圣水任务完成！</Entry>
+    <Entry key="GUI_DIALOG_4_2">感谢你带来了圣水！这对驱逐死灵之书很有帮助。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_5_0">驱散洞穴中的魔法</Entry>
+    <Entry key="GUI_DIALOG_5_0">邪恶的魔法正在这洞穴中聚集！找到洞穴中的符文，并驱逐邪恶的巫术。这样我们就可以利用这个洞穴来举行驱逐死灵之书的仪式。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_6_0">驱散墓地的魔法</Entry>
+    <Entry key="GUI_DIALOG_6_0">墓地正被邪恶的秘术侵蚀。找到墓地的符文，并终结这该死的咒语。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_7_0">驱散农场的魔法</Entry>
+    <Entry key="GUI_DIALOG_7_0">某种不洁的诅咒正在摧残我的庄稼。找到农场的符文，并驱散这邪恶的魔法。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_8_0">驱散宅邸的魔法</Entry>
+    <Entry key="GUI_DIALOG_8_0">太可怕了！有股邪恶的魔力在我家中蔓延。找到宅邸的符文，并驱散黑魔法。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_9_0">驱散小镇中心的魔法</Entry>
+    <Entry key="GUI_DIALOG_9_0">某个邪恶的意志正在小镇中肆意妄为。找到小镇中心的符文，并终结这令人作呕的巫术。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_10_0">准备仪式魔法阵！</Entry>
+    <Entry key="GUI_DIALOG_10_0">我们很快就能准备好驱逐死灵之书了！前往洞穴中心，并准备好仪式魔法阵！</Entry>
+    <Entry key="GUI_DIALOG_TITLE_10_2">仪式魔法阵任务完成！</Entry>
+    <Entry key="GUI_DIALOG_10_2">太棒了！洞穴已经准备好举行驱逐仪式了。但愿剩下的小镇成员们能完成他们的任务，然后我们就可以摆脱这邪恶的黑魔导书了。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_11_0">在林中空地砍柴</Entry>
+    <Entry key="GUI_DIALOG_11_0">牧师黑尔需要一些柴火来进行驱逐仪式。前往林中空地砍一些木柴，并带到洞穴中。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_11_2">木柴任务完成！</Entry>
+    <Entry key="GUI_DIALOG_11_2">感谢你带来了柴火！一旦其它的任务完成，我们就可以准备举行驱逐仪式了。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_12_0">在小镇中心收集火种</Entry>
+    <Entry key="GUI_DIALOG_12_0">牧师黑尔需要火种来进行驱逐仪式。从小镇中心的火炬收集火种，并带到洞穴中。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_12_2">火种任务完成！</Entry>
+    <Entry key="GUI_DIALOG_12_2">感谢你带来了火种，这样我就可以点燃火炬了！一旦其它的任务完成，我们就可以准备举行驱逐仪式了。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_13_0">护送牧师帕里斯前往洞穴</Entry>
+    <Entry key="GUI_DIALOG_13_0">请护送我前往洞穴，这样牧师黑尔和我就能一同举行驱逐死灵之书的仪式了！</Entry>
+    <Entry key="GUI_DIALOG_TITLE_13_1">驱逐死灵之书！</Entry>
+    <Entry key="GUI_DIALOG_13_1">时辰已至！帮助我们驱逐死灵之书！</Entry>
+    <Entry key="GUI_DIALOG_TITLE_15_0">乘船前往北码头</Entry>
+    <Entry key="GUI_DIALOG_15_0">你想要搭船去北码头吗？</Entry>
+    <Entry key="GUI_DIALOG_TITLE_16_0">乘船前往南码头</Entry>
+    <Entry key="GUI_DIALOG_16_0">你想要搭船去南码头吗？</Entry>
+    <Entry key="GUI_DIALOG_TITLE_20_0">提升射术</Entry>
+    <Entry key="GUI_DIALOG_20_0">现在死灵之书正威胁着小镇的安宁，我们必须提升我们的武器技艺。这里的靶场在晚上是关闭的，但你可以在白天前来练习并成为一个神射手！我会给你一面树皮盾来保护你自己。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_20_2">神射手！</Entry>
+    <Entry key="GUI_DIALOG_20_2">射的好！这就是我答应过你的树皮盾。它不会让你免于绞刑，毕竟在上绞刑架之前你的盾会被没收。但它能从其它形式的攻击中为你提供一次性的保护。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_22_0">从宅邸中收集法术书</Entry>
+    <Entry key="GUI_DIALOG_22_0">我们需要宅邸图书馆中的法术书，其中记载了驱逐法术。请拿到那本法术书并带给我。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_22_2">获得法术书！</Entry>
+    <Entry key="GUI_DIALOG_22_2">感谢你帮我拿到法术书。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_23_0">从宅邸中收集匕首</Entry>
+    <Entry key="GUI_DIALOG_23_0">我们需要宅邸作战室中的匕首。请拿到匕首并带给教堂的牧师帕里斯。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_23_2">获得匕首！</Entry>
+    <Entry key="GUI_DIALOG_23_2">感谢你帮我拿到匕首。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_24_0">得到蕴魔长笛</Entry>
+    <Entry key="GUI_DIALOG_24_0">我需要在驱逐仪式上吹奏蕴魔长笛。但死灵之书夺走并召唤了一只地狱犬来看守它。请前往林中空地拿到长笛并带给我，我会给你回报的。请小心地狱犬，它很容易被惊醒。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_24_2">获得蕴魔长笛！</Entry>
+    <Entry key="GUI_DIALOG_24_2">太棒了！我还以为你会被地狱犬杀了，然而你带着长笛回来了！我会遵守承诺，教你如何跑得和萨堤尔一样快！</Entry>
+    <Entry key="GUI_DIALOG_TITLE_26_0">抓住失散的羊群</Entry>
+    <Entry key="GUI_DIALOG_26_0">该死的！那本破书放跑了我的羊群，现在它们在全镇乱跑！如果你能帮我抓回我的羊，我会教你一个小技巧，让你能额外再敲一次小镇的钟。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_26_4">抓获失散的羊群！</Entry>
+    <Entry key="GUI_DIALOG_26_4">太好了，我大喜过望！谢谢你帮我抓回了我的羊！现在我会教你额外敲钟的技巧！</Entry>
+    <Entry key="GUI_DIALOG_TITLE_27_0">解锁宅邸的保险箱</Entry>
+    <Entry key="GUI_DIALOG_27_0">打扰一下，你看起来不是那么死板的人。也许你能帮我...呃...干一些脏活。我试了很多次，但仍无法撬开宅邸保险箱的锁。如果你能撬开，并把里面的东西带给我，我会教你猫一般的反射神经，让你能在使用能力后加速恢复。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_27_2">获得保险箱物品！</Entry>
+    <Entry key="GUI_DIALOG_27_2">啊哈！我就知道我没看错人！现在，我会教你如何像猫一样行动！</Entry>
     <!--No entry for Quest 30 as there is no dialog with NPC-->
-    <Entry key="GUI_DIALOG_TITLE_32_0">Retrieve John Jr's Frog</Entry>
-    <Entry key="GUI_DIALOG_32_0">Well, that darn book has scared my magic frog off. I reckon he's over yonder on the other side of the corral. If'n you bring him back to me, I'll get my frog to fix up your eyesight better.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_32_2">John Jr's Frog Retrieved!</Entry>
-    <Entry key="GUI_DIALOG_32_2">Thanks for findin' my frog! Froggy, kindly fix up my buddy here with some good eyesight!</Entry>
-    <Entry key="GUI_QUEST_TASK_1_0">Speak with Jacqueline in the Tavern</Entry>
-    <Entry key="GUI_QUEST_TASK_1_1">Go collect fruit for Jacqueline</Entry>
-    <Entry key="GUI_QUEST_TASK_1_2">Deliver fruit to Jacqueline in the Tavern</Entry>
-    <Entry key="GUI_QUEST_TASK_2_0">Fix Drawbridge Gears</Entry>
-    <Entry key="GUI_QUEST_TASK_3_0">Visit Madam Martha in the Tavern</Entry>
-    <Entry key="GUI_QUEST_TASK_4_0">Speak with Sister Mercy at the Church</Entry>
-    <Entry key="GUI_QUEST_TASK_4_1">Fetch the Holy Water in back of Church</Entry>
-    <Entry key="GUI_QUEST_TASK_4_2">Deliver Holy Water to Reverend Hale at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_5_0">Visit Reverend Hale at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_5_1">Use Rune in the Cave to 驱散魔法</Entry>
-    <Entry key="GUI_QUEST_TASK_6_0">Visit the Gravedigger at the Graveyard</Entry>
-    <Entry key="GUI_QUEST_TASK_6_1">Use Rune at the Graveyard to 驱散魔法</Entry>
-    <Entry key="GUI_QUEST_TASK_7_0">Visit Mr. Stuffins at the Farm</Entry>
-    <Entry key="GUI_QUEST_TASK_7_1">Use Rune at the Farm to 驱散魔法</Entry>
-    <Entry key="GUI_QUEST_TASK_8_0">Visit Mrs. Putnam at the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_8_1">Use Rune in the Mansion to 驱散魔法</Entry>
-    <Entry key="GUI_QUEST_TASK_9_0">Visit Jacqueline at the Tavern</Entry>
-    <Entry key="GUI_QUEST_TASK_9_1">Use Rune at Town Center to 驱散魔法</Entry>
-    <Entry key="GUI_QUEST_TASK_10_0">Visit Reverend Hale at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_10_1">Prepare the Ritual Circle</Entry>
-    <Entry key="GUI_QUEST_TASK_10_2">Speak to Reverend Hale in the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_11_0">Visit Maid Betty at the Mansion Pantry</Entry>
-    <Entry key="GUI_QUEST_TASK_11_1">Chop wood in the clearing</Entry>
-    <Entry key="GUI_QUEST_TASK_11_2">Take wood to Reverend Hale at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_12_0">Visit Leo at the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_12_1">Collect fire from the Town Center torch</Entry>
-    <Entry key="GUI_QUEST_TASK_12_2">Take fire to Reverend Hale at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_13_0">Visit Reverend Parris at the Church</Entry>
-    <Entry key="GUI_QUEST_TASK_13_0_EVIL">Stop the Town from visiting Reverend Parris at the Church</Entry>
-    <Entry key="GUI_QUEST_TASK_13_1">Escort Reverend Parris to the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_13_1_EVIL">Stop the Town from escorting Reverend Parris to the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_14_0">Destroy the Curse Totem at the Graveyard!</Entry>
-    <Entry key="GUI_QUEST_TASK_14_0_EVIL">The Town will try to stop the Curse at the Graveyard!</Entry>
-    <Entry key="GUI_QUEST_TASK_15_0">Summon Boat to South Dock</Entry>
-    <Entry key="GUI_QUEST_TASK_16_0">Summon Boat to North Dock</Entry>
-    <Entry key="GUI_QUEST_TASK_20_0">Speak with Eden</Entry>
-    <Entry key="GUI_QUEST_TASK_20_1">Practice at the Shooting Range (Daytime only)</Entry>
-    <Entry key="GUI_QUEST_TASK_20_2">Speak with Eden</Entry>
-    <Entry key="GUI_QUEST_TASK_21_0">Destroy the Ice Totem in the Mansion!</Entry>
-    <Entry key="GUI_QUEST_TASK_21_0_EVIL">The Town will try to stop the Ice Storm in the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_22_0">Visit Reverend Parris at the Church</Entry>
-    <Entry key="GUI_QUEST_TASK_22_1">Retrieve the Spellbook from the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_22_2">Return to Reverend Parris at the Church</Entry>
-    <Entry key="GUI_QUEST_TASK_23_0">Visit Leo at the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_23_1">Retrieve the Dagger from the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_23_2">Take the Dagger to Reverend Parris in the Church</Entry>
-    <Entry key="GUI_QUEST_TASK_24_0">Find and speak with Puck</Entry>
-    <Entry key="GUI_QUEST_TASK_24_1">Retrieve Pan's Flute at the Glade</Entry>
-    <Entry key="GUI_QUEST_TASK_24_2">Take Pan's Flute to Puck</Entry>
-    <Entry key="GUI_QUEST_TASK_26_0">Find and speak with John Jr.</Entry>
-    <Entry key="GUI_QUEST_TASK_26_1">Catch the loose sheep with yellow marking</Entry>
-    <Entry key="GUI_QUEST_TASK_26_2">Catch the loose sheep with red marking</Entry>
-    <Entry key="GUI_QUEST_TASK_26_3">Catch the loose sheep with green marking</Entry>
-    <Entry key="GUI_QUEST_TASK_26_4">Return to John Jr.</Entry>
-    <Entry key="GUI_QUEST_TASK_27_0">Find and speak with Sabrina</Entry>
-    <Entry key="GUI_QUEST_TASK_27_1">Unlock the safe at the Mansion Library</Entry>
-    <Entry key="GUI_QUEST_TASK_27_2">Speak with Sabrina</Entry>
-    <Entry key="GUI_QUEST_TASK_30_0">Sabotage the Drawbridge Gears</Entry>
-    <Entry key="GUI_QUEST_TASK_31_0">Destroy the Blood Totem at the Farm!</Entry>
-    <Entry key="GUI_QUEST_TASK_31_0_EVIL">The Town will try to stop the Blood Moon at the Farm</Entry>
-    <Entry key="GUI_QUEST_TASK_32_0">Find and speak with John Jr at the Farm</Entry>
-    <Entry key="GUI_QUEST_TASK_32_1">Open the corral gate and find the frog</Entry>
-    <Entry key="GUI_QUEST_TASK_32_2">Return the frog to John Jr</Entry>
+    <Entry key="GUI_DIALOG_TITLE_32_0">获取小约翰的青蛙</Entry>
+    <Entry key="GUI_DIALOG_32_0">那该死的书把我的魔法青蛙吓跑了。我估计他现在在围栏的另一边。如果你能把他带回来给我，我会让我的青蛙帮你提升夜间视力。</Entry>
+    <Entry key="GUI_DIALOG_TITLE_32_2">获得小约翰的青蛙！</Entry>
+    <Entry key="GUI_DIALOG_32_2">谢谢你帮我找到了我的青蛙！小青蛙，帮我的朋友提升他的夜视能力吧！</Entry>
+    <Entry key="GUI_QUEST_TASK_1_0">与酒馆中的杰奎琳谈话</Entry>
+    <Entry key="GUI_QUEST_TASK_1_1">帮杰奎琳收集水果</Entry>
+    <Entry key="GUI_QUEST_TASK_1_2">把水果送给酒馆中的杰奎琳</Entry>
+    <Entry key="GUI_QUEST_TASK_2_0">修复吊桥齿轮</Entry>
+    <Entry key="GUI_QUEST_TASK_3_0">前往酒馆拜访玛莎女士</Entry>
+    <Entry key="GUI_QUEST_TASK_4_0">与教堂中的修女默茜谈话</Entry>
+    <Entry key="GUI_QUEST_TASK_4_1">获取教堂后面的圣水</Entry>
+    <Entry key="GUI_QUEST_TASK_4_2">将圣水带给洞穴中的牧师黑尔</Entry>
+    <Entry key="GUI_QUEST_TASK_5_0">前往洞穴拜访牧师黑尔</Entry>
+    <Entry key="GUI_QUEST_TASK_5_1">使用洞穴中的符文驱散魔法</Entry>
+    <Entry key="GUI_QUEST_TASK_6_0">前往墓地拜访掘墓人</Entry>
+    <Entry key="GUI_QUEST_TASK_6_1">使用墓地的符文驱散魔法</Entry>
+    <Entry key="GUI_QUEST_TASK_7_0">前往农场拜访斯塔芬斯先生</Entry>
+    <Entry key="GUI_QUEST_TASK_7_1">使用农场的符文驱散魔法</Entry>
+    <Entry key="GUI_QUEST_TASK_8_0">前往宅邸拜访帕南夫人</Entry>
+    <Entry key="GUI_QUEST_TASK_8_1">使用宅邸的符文驱散魔法</Entry>
+    <Entry key="GUI_QUEST_TASK_9_0">前往酒馆拜访杰奎琳</Entry>
+    <Entry key="GUI_QUEST_TASK_9_1">使用小镇中心的符文驱散魔法</Entry>
+    <Entry key="GUI_QUEST_TASK_10_0">前往洞穴拜访牧师黑尔</Entry>
+    <Entry key="GUI_QUEST_TASK_10_1">准备仪式魔法阵</Entry>
+    <Entry key="GUI_QUEST_TASK_10_2">与洞穴中的牧师黑尔谈话</Entry>
+    <Entry key="GUI_QUEST_TASK_11_0">前往宅邸储藏室拜访女仆贝蒂</Entry>
+    <Entry key="GUI_QUEST_TASK_11_1">在林中空地砍柴</Entry>
+    <Entry key="GUI_QUEST_TASK_11_2">将柴火带给洞穴中的牧师黑尔</Entry>
+    <Entry key="GUI_QUEST_TASK_12_0">拜访宅邸的莱昂</Entry>
+    <Entry key="GUI_QUEST_TASK_12_1">从小镇中心的火炬收集火种</Entry>
+    <Entry key="GUI_QUEST_TASK_12_2">将火种带给洞穴中的牧师黑尔</Entry>
+    <Entry key="GUI_QUEST_TASK_13_0">前往教堂拜访牧师帕里斯</Entry>
+    <Entry key="GUI_QUEST_TASK_13_0_EVIL">阻止小镇前往教堂拜访牧师帕里斯</Entry>
+    <Entry key="GUI_QUEST_TASK_13_1">护送牧师帕里斯前往洞穴</Entry>
+    <Entry key="GUI_QUEST_TASK_13_1_EVIL">阻止小镇护送牧师帕里斯前往洞穴</Entry>
+    <Entry key="GUI_QUEST_TASK_14_0">摧毁墓地中的诅咒图腾！</Entry>
+    <Entry key="GUI_QUEST_TASK_14_0_EVIL">小镇会试着阻止在墓地中的诅咒！</Entry>
+    <Entry key="GUI_QUEST_TASK_15_0">召唤前往南码头的船</Entry>
+    <Entry key="GUI_QUEST_TASK_16_0">召唤前往北码头的船</Entry>
+    <Entry key="GUI_QUEST_TASK_20_0">与伊登对话</Entry>
+    <Entry key="GUI_QUEST_TASK_20_1">在靶场训练（仅限白天）</Entry>
+    <Entry key="GUI_QUEST_TASK_20_2">与伊登对话</Entry>
+    <Entry key="GUI_QUEST_TASK_21_0">摧毁宅邸中的冰图腾！</Entry>
+    <Entry key="GUI_QUEST_TASK_21_0_EVIL">小镇会试着阻止在宅邸中的暴风雪！</Entry>
+    <Entry key="GUI_QUEST_TASK_22_0">前往教堂拜访牧师帕里斯</Entry>
+    <Entry key="GUI_QUEST_TASK_22_1">从宅邸中收集法术书</Entry>
+    <Entry key="GUI_QUEST_TASK_22_2">回到教堂中的牧师帕里斯那边</Entry>
+    <Entry key="GUI_QUEST_TASK_23_0">前往宅邸拜访莱昂</Entry>
+    <Entry key="GUI_QUEST_TASK_23_1">从宅邸中收集匕首</Entry>
+    <Entry key="GUI_QUEST_TASK_23_2">将匕首带给教堂中的牧师帕里斯</Entry>
+    <Entry key="GUI_QUEST_TASK_24_0">找到并与帕克对话</Entry>
+    <Entry key="GUI_QUEST_TASK_24_1">从林间空地获得蕴魔长笛</Entry>
+    <Entry key="GUI_QUEST_TASK_24_2">将蕴魔长笛带给帕克</Entry>
+    <Entry key="GUI_QUEST_TASK_26_0">找到并与小约翰对话</Entry>
+    <Entry key="GUI_QUEST_TASK_26_1">抓到黄色标记的羊</Entry>
+    <Entry key="GUI_QUEST_TASK_26_2">抓到红色标记的羊</Entry>
+    <Entry key="GUI_QUEST_TASK_26_3">抓到绿色标记的羊</Entry>
+    <Entry key="GUI_QUEST_TASK_26_4">回到小约翰那边</Entry>
+    <Entry key="GUI_QUEST_TASK_27_0">找到并与萨布丽娜对话</Entry>
+    <Entry key="GUI_QUEST_TASK_27_1">解锁宅邸图书馆的保险箱</Entry>
+    <Entry key="GUI_QUEST_TASK_27_2">与萨布丽娜对话</Entry>
+    <Entry key="GUI_QUEST_TASK_30_0">破坏吊桥齿轮</Entry>
+    <Entry key="GUI_QUEST_TASK_31_0">摧毁农场中的血图腾！</Entry>
+    <Entry key="GUI_QUEST_TASK_31_0_EVIL">小镇会试着阻止农场中的血月！</Entry>
+    <Entry key="GUI_QUEST_TASK_32_0">前往农场找到并与小约翰对话</Entry>
+    <Entry key="GUI_QUEST_TASK_32_1">打开围栏大门并找到青蛙</Entry>
+    <Entry key="GUI_QUEST_TASK_32_2">将青蛙带回给小约翰</Entry>
 	<Entry key="GUI_QUEST_PROGRESS_TOOLTIP">任务完成进度</Entry>
     <Entry key="GUI_QUEST_TASK_1_TOOLTIP_TITLE">收集水果</Entry>
     <Entry key="GUI_QUEST_TASK_2_TOOLTIP_TITLE">修复吊桥</Entry>
@@ -1877,27 +1877,27 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_7_TOOLTIP_TITLE">驱散农场的魔法</Entry>
     <Entry key="GUI_QUEST_TASK_8_TOOLTIP_TITLE">驱散宅邸的魔法</Entry>
     <Entry key="GUI_QUEST_TASK_9_TOOLTIP_TITLE">驱散广场的魔法</Entry>
-    <Entry key="GUI_QUEST_TASK_10_TOOLTIP_TITLE">Prepare the Ritual Circle</Entry>
-    <Entry key="GUI_QUEST_TASK_11_TOOLTIP_TITLE">Collect Wood for Banishment Ritual</Entry>
-    <Entry key="GUI_QUEST_TASK_12_TOOLTIP_TITLE">Bring Fire</Entry>
-    <Entry key="GUI_QUEST_TASK_13_TOOLTIP_TITLE">Banish the Necronomicon!</Entry>
-    <Entry key="GUI_QUEST_TASK_13_TOOLTIP_TITLE_EVIL">Prevent the Banishment Ritual!</Entry>
-    <Entry key="GUI_QUEST_TASK_14_TOOLTIP_TITLE">Stop the Deadly Curse Spell</Entry>
-    <Entry key="GUI_QUEST_TASK_14_TOOLTIP__TITLE_EVIL">Defend the Deadly Curse Totem!</Entry>
-    <Entry key="GUI_QUEST_TASK_15_TOOLTIP_TITLE">Summon Boat to South Dock</Entry>
-    <Entry key="GUI_QUEST_TASK_16_TOOLTIP_TITLE">Summon Boat to North Dock</Entry>
-    <Entry key="GUI_QUEST_TASK_20_TOOLTIP_TITLE">Practice at the Shooting Range</Entry>
-    <Entry key="GUI_QUEST_TASK_21_TOOLTIP_TITLE">Stop the Ice Storm Spell</Entry>
-    <Entry key="GUI_QUEST_TASK_21_TOOLTIP_TITLE_EVIL">Defend the Ice Totem!</Entry>
-    <Entry key="GUI_QUEST_TASK_22_TOOLTIP_TITLE">Retrieve Spellbook</Entry>
-    <Entry key="GUI_QUEST_TASK_23_TOOLTIP_TITLE">Retrieve Dagger</Entry>
-    <Entry key="GUI_QUEST_TASK_24_TOOLTIP_TITLE">Retrieve Pan's Flute</Entry>
-    <Entry key="GUI_QUEST_TASK_26_TOOLTIP_TITLE">Catch Loose Animals</Entry>
-    <Entry key="GUI_QUEST_TASK_27_TOOLTIP_TITLE">Unlock the Safe</Entry>
-    <Entry key="GUI_QUEST_TASK_30_TOOLTIP_TITLE">Sabotage the Drawbridge Gears</Entry>
-    <Entry key="GUI_QUEST_TASK_31_TOOLTIP_TITLE">Stop the Blood Moon Spell</Entry>
-    <Entry key="GUI_QUEST_TASK_31_TOOLTIP_TITLE_EVIL">Defend the Blood Totem!</Entry>
-    <Entry key="GUI_QUEST_TASK_32_TOOLTIP_TITLE">Retrieve John Jr's Frog</Entry>
+    <Entry key="GUI_QUEST_TASK_10_TOOLTIP_TITLE">准备仪式魔法阵</Entry>
+    <Entry key="GUI_QUEST_TASK_11_TOOLTIP_TITLE">收集驱逐仪式需要的木柴</Entry>
+    <Entry key="GUI_QUEST_TASK_12_TOOLTIP_TITLE">带来火种</Entry>
+    <Entry key="GUI_QUEST_TASK_13_TOOLTIP_TITLE">驱逐死灵之书！</Entry>
+    <Entry key="GUI_QUEST_TASK_13_TOOLTIP_TITLE_EVIL">阻止放逐仪式！</Entry>
+    <Entry key="GUI_QUEST_TASK_14_TOOLTIP_TITLE">阻止致命的诅咒法术</Entry>
+    <Entry key="GUI_QUEST_TASK_14_TOOLTIP__TITLE_EVIL">保护致命的诅咒图腾！</Entry>
+    <Entry key="GUI_QUEST_TASK_15_TOOLTIP_TITLE">召唤前往南码头的船</Entry>
+    <Entry key="GUI_QUEST_TASK_16_TOOLTIP_TITLE">召唤前往北码头的船</Entry>
+    <Entry key="GUI_QUEST_TASK_20_TOOLTIP_TITLE">在靶场训练</Entry>
+    <Entry key="GUI_QUEST_TASK_21_TOOLTIP_TITLE">阻止暴风雪法术</Entry>
+    <Entry key="GUI_QUEST_TASK_21_TOOLTIP_TITLE_EVIL">保护冰图腾！</Entry>
+    <Entry key="GUI_QUEST_TASK_22_TOOLTIP_TITLE">获取法术书</Entry>
+    <Entry key="GUI_QUEST_TASK_23_TOOLTIP_TITLE">获取匕首</Entry>
+    <Entry key="GUI_QUEST_TASK_24_TOOLTIP_TITLE">获取蕴魔长笛</Entry>
+    <Entry key="GUI_QUEST_TASK_26_TOOLTIP_TITLE">抓到失散的动物</Entry>
+    <Entry key="GUI_QUEST_TASK_27_TOOLTIP_TITLE">解锁保险箱</Entry>
+    <Entry key="GUI_QUEST_TASK_30_TOOLTIP_TITLE">破坏吊桥齿轮</Entry>
+    <Entry key="GUI_QUEST_TASK_31_TOOLTIP_TITLE">阻止血月法术</Entry>
+    <Entry key="GUI_QUEST_TASK_31_TOOLTIP_TITLE_EVIL">保护血图腾！</Entry>
+    <Entry key="GUI_QUEST_TASK_32_TOOLTIP_TITLE">获取小约翰的青蛙</Entry>
     <Entry key="GUI_BLOOD_TOTEM">血图腾</Entry>
     <Entry key="GUI_ICE_STORM_TOTEM">冰图腾</Entry>
     <Entry key="GUI_CURSE_TOTEM">诅咒图腾</Entry>
@@ -2034,7 +2034,7 @@ They will have revenge from beyond the grave!</Entry>
 </Entry>
     <Entry key="GUI_ROLE_DESC_TOWNIE">•你是一名无辜的小镇成员！
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_TOWNIE_EVIL">•你是小镇中的一名邪恶成员！
 •使用杀戮按钮来杀死高亮的玩家。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2049,28 +2049,28 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ROLE_DESC_VIGILANTE">•使用杀戮按钮来杀死高亮的玩家。
 •如果你杀死了一名小镇成员，你会死于愧疚。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_VIGILANTE_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •你已失去开枪射击的能力。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_TRANSPORTER">•在传送点上使用能力按钮进行传送旅行。在传送点上使用能力按钮进行传送旅行。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_TRANSPORTER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •在传送点上使用能力按钮进行传送旅行。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_SHERIFF">•使用能力按钮调查高亮的玩家，可以得知其是否为好人。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_SHERIFF_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮调查高亮的玩家，可以得知其是否为好人。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_LOOKOUT">•使用能力按钮在短时间内扩大视野范围。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_LOOKOUT_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮在短时间内扩大视野范围。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2084,7 +2084,7 @@ They will have revenge from beyond the grave!</Entry>
 •获胜条件：所有小镇成员皆死亡。 </Entry>
     <Entry key="GUI_ROLE_DESC_PSYCHIC">•如果有玩家死亡，你会被告知。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_PSYCHIC_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •如果有玩家死亡，你会被告知。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2102,21 +2102,21 @@ They will have revenge from beyond the grave!</Entry>
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_VETERAN">•使用能力按钮进入高度戒备状态，在一段时间内反击所有试着攻击你的人。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_VETERAN_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮进入高度戒备状态，在一段时间内反击所有试着攻击你的人。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_INVESTIGATOR">•使用能力按钮来检查一名玩家是否在近期杀害他人。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_INVESTIGATOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮来检查一名玩家是否在近期杀害他人。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_MAYOR">•使用能力按钮来展示你的镇长身份，并使你的投票数加一。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_MAYOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮来展示你的镇长身份，并使你的投票数加一。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2127,7 +2127,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ROLE_DESC_PROSECUTOR">•使用能力按钮来强制处决一名玩家。
 •如果你的目标是清白的，你会死亡。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_PROSECUTOR_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •你失去了起诉他人的能力。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2145,7 +2145,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ROLE_DESC_CORONER">•对一具尸体使用能力按钮进行验尸。
 •对一名活着的玩家使用你的第二能力按钮，查看其是否是杀手。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_CORONER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮对一具尸体进行验尸。
 •对一名活着的玩家使用你的第二能力按钮，查看其是否是杀手。
@@ -2153,14 +2153,14 @@ They will have revenge from beyond the grave!</Entry>
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_SEER">•使用你的能力按钮比对两名玩家的阵营，查看他们是否同属一个阵营。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_SEER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用你的能力按钮比对两名玩家的阵营，查看他们是否同属一个阵营。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_SAINT">•当你被杀害，你会使杀死你的人技能冷却时间翻倍。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_SAINT_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •当你被杀害，你会使杀死你的人技能冷却时间翻倍。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2170,21 +2170,21 @@ They will have revenge from beyond the grave!</Entry>
 •获胜条件：所有小镇成员皆死亡。 </Entry>
     <Entry key="GUI_ROLE_DESC_TRACKER">•对一具尸体使用能力按钮来获取杀手的气味，让你能够追踪杀手。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_TRACKER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •对一具尸体使用能力按钮来获取杀手的气味，让你能够追踪杀手。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_MEDIUM">•当你在漫游阶段被杀死后，你能在一小段时间内向所有玩家展示一名玩家的身份。你不能展示杀死你的人的身份。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_MEDIUM_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •当你在漫游阶段被杀死后，你能在一小段时间内向所有玩家展示一名玩家的身份。你不能展示杀死你的人的身份。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_KING">•使用能力按钮对高亮的玩家封爵，使其投票数加一。
 •与其他小镇成员合作铲除邪恶。
-•获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
+•获胜条件：所有叛徒皆死亡，或驱逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_KING_EVIL">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮对高亮的玩家封爵，使其投票数加一。
 •与其他小镇成员作对，使他们屈膝投降。
@@ -2351,7 +2351,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_11">Snuff</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_BUTTON_12">DEPRECATED - Summon Boat</Entry>-->
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_13">发起小镇集会</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_14">收集魔法书</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_14">收集法术书</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_15">练习射击</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_16">接水果</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_17">修理水管</Entry>
