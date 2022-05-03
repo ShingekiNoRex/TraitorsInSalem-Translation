@@ -80,7 +80,7 @@
     <Entry key="GUI_LOGIN">登录</Entry>
     <Entry key="GUI_LOGIN_ERROR_EMPTYERROR">Error: Username or password is empty! Please check your entries and try again.</Entry>
     <Entry key="GUI_OR">OR</Entry>
-    <Entry key="GUI_VERSION">Version</Entry>
+    <Entry key="GUI_VERSION">版本</Entry>
     <Entry key="GUI_USER_NAME">用户名</Entry>
     <Entry key="GUI_REGISTER">注册账号</Entry>
     <Entry key="GUI_REGISTER_WELCOME0">我们需要为您注册一个账号。</Entry>
@@ -119,14 +119,14 @@ Common Steps to Resolution:
     <Entry key="GUI_PATCH_NOTES">更新日志</Entry>
     <Entry key="GUI_PATCH_NOTES_TOOLTIP">Read the latest Patch Notes</Entry>
     <Entry key="GUI_UILANGUAGE_LABEL">UI Language</Entry>
-    <Entry key="GUI_ATTEMPTING_LOGIN">Attempting Login...</Entry>
+    <Entry key="GUI_ATTEMPTING_LOGIN">正在尝试登录...</Entry>
     <Entry key="GUI_LOGIN_ACCOUNT_BANNED">Account banned!</Entry>
     <Entry key="GUI_LOGIN_ACCOUNT_SUSPENDED">Account suspended!</Entry>
-    <Entry key="GUI_LOGIN_AUTOLOGIN">Log Me In Automatically</Entry>
-    <Entry key="GUI_LOGIN_AUTOLOGIN_TOOLTIP">Check the box to be logged in automatically in the future.</Entry>
+    <Entry key="GUI_LOGIN_AUTOLOGIN">自动登录</Entry>
+    <Entry key="GUI_LOGIN_AUTOLOGIN_TOOLTIP">勾选以在将来自动登录。</Entry>
     <Entry key="GUI_LOGIN_AGAIN">Please try to log in again.</Entry>
-    <Entry key="GUI_CHECKING_FOR_UPDATES">Checking for updates...please wait.</Entry>
-    <Entry key="GUI_UPDATING">Updating...please wait.</Entry>
+    <Entry key="GUI_CHECKING_FOR_UPDATES">正在检查更新...请稍后</Entry>
+    <Entry key="GUI_UPDATING">正在更新...请稍后</Entry>
     <Entry key="GUI_INFO">信息</Entry>
     <Entry key="GUI_OKAY">OK</Entry>
     <Entry key="GUI_HELP">帮助</Entry>
@@ -317,8 +317,8 @@ Please choose another.</Entry>
     <Entry key="GUI_GAME_BROWSER_BUTTON_TOOLTIP">浏览游戏</Entry>
     <Entry key="GUI_GAME_BROWSER_VOICE_CHAT_LABEL">语音：</Entry>
     <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_BOTH">全部</Entry>
-    <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_YES">Yes</Entry>
-    <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_NO">No</Entry>
+    <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_YES">有</Entry>
+    <Entry key="GUI_GAME_BROWSER_VOICE_DROPDOWN_NO">无</Entry>
     <Entry key="GUI_EMPTY_SAVE_SLOT">Empty Save Slot</Entry>
     <Entry key="GUI_UNNAMED_GAME">未命名</Entry>
     <Entry key="GUI_DECK_MANAGER_TITLE">Deck Manager</Entry>
@@ -517,32 +517,32 @@ Please choose another.</Entry>
     <Entry key="GUI_NAME_DBL_SPACE">Name may not contain double spaces.</Entry>
     <Entry key="GUI_MENU">Menu</Entry>
     <Entry key="GUI_LOADING">Loading</Entry>
-    <Entry key="GUI_SETTINGS_HEADER">Settings</Entry>
+    <Entry key="GUI_SETTINGS_HEADER">设置</Entry>
     <Entry key="GUI_SETTINGS_LANGUAGE_TAB">Language</Entry>
-    <Entry key="GUI_SETTINGS_SOUND_TAB">Sound</Entry>
-    <Entry key="GUI_SETTINGS_LOCALIZATION_TAB">Language</Entry>
-    <Entry key="GUI_SETTINGS_CHAT_TAB">Chat</Entry>
-    <Entry key="GUI_SETTINGS_GENERAL_TAB">General</Entry>
-    <Entry key="GUI_SETTINGS_DISPLAY_TAB">Display</Entry>
-    <Entry key="GUI_SETTINGS_HELP_TAB">Help</Entry>
-    <Entry key="GUI_SETTINGS_BUG_TAB">Report Bug</Entry>
-    <Entry key="GUI_SETTINGS_EXIT_TIS">Exit Traitors in Salem</Entry>
-    <Entry key="GUI_SETTINGS_EXIT_TIS_TITLE">Exit Traitors in Salem?</Entry>
-    <Entry key="GUI_SETTINGS_EXIT_TIS_BLURB">Are you sure you want to exit and close Traitors in Salem?</Entry>
-    <Entry key="GUI_SETTINGS_RETURN_HOME">Return Home</Entry>
-    <Entry key="GUI_SETTINGS_RETURN_HOME_TITLE">Return Home?</Entry>
-    <Entry key="GUI_SETTINGS_RETURN_HOME_BLURB">Are you sure you want to abandon the game and return home?</Entry>
-    <Entry key="GUI_SETTINGS_SOUND_TITLE">Sound Settings</Entry>
-    <Entry key="GUI_SETTINGS_MUSIC_CHECKBOX">Music</Entry>
-    <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">Effects</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_CHECKBOX">Voice</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_AUTODETECT_CHECKBOX">Auto Detect Voice</Entry>
+    <Entry key="GUI_SETTINGS_SOUND_TAB">声音</Entry>
+    <Entry key="GUI_SETTINGS_LOCALIZATION_TAB">语言</Entry>
+    <Entry key="GUI_SETTINGS_CHAT_TAB">聊天</Entry>
+    <Entry key="GUI_SETTINGS_GENERAL_TAB">一般</Entry>
+    <Entry key="GUI_SETTINGS_DISPLAY_TAB">显示</Entry>
+    <Entry key="GUI_SETTINGS_HELP_TAB">帮助</Entry>
+    <Entry key="GUI_SETTINGS_BUG_TAB">报告Bug</Entry>
+    <Entry key="GUI_SETTINGS_EXIT_TIS">退出 Traitors in Salem</Entry>
+    <Entry key="GUI_SETTINGS_EXIT_TIS_TITLE">退出 Traitors in Salem ？</Entry>
+    <Entry key="GUI_SETTINGS_EXIT_TIS_BLURB">是否确认退出并关闭 Traitors in Salem ？</Entry>
+    <Entry key="GUI_SETTINGS_RETURN_HOME">返回主菜单</Entry>
+    <Entry key="GUI_SETTINGS_RETURN_HOME_TITLE">返回主菜单？</Entry>
+    <Entry key="GUI_SETTINGS_RETURN_HOME_BLURB">是否确认离开游戏并返回主菜单？</Entry>
+    <Entry key="GUI_SETTINGS_SOUND_TITLE">声音设置</Entry>
+    <Entry key="GUI_SETTINGS_MUSIC_CHECKBOX">音乐</Entry>
+    <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">音效</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_CHECKBOX">语音</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_AUTODETECT_CHECKBOX">自动检测声音</Entry>
     <Entry key="GUI_SETTINGS_VOICE_AUTODETECT_TOOLTIP">On: Voice will be automatically detected. Off: Voice will only be detected when the Push-To-Talk hotkey is used.</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_INPUT_LABEL">Voice Device</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_MIC_TEST_START">Start Mic Test</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_MIC_TEST_STOP">Stop Mic Test</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_OUTPUT">My Voice</Entry>
-    <Entry key="GUI_SETTINGS_VOICE_INPUT">Other Voices</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_INPUT_LABEL">语音设备</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_MIC_TEST_START">开始麦克风测试</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_MIC_TEST_STOP">停止麦克风测试</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_OUTPUT">我的声音</Entry>
+    <Entry key="GUI_SETTINGS_VOICE_INPUT">他人声音</Entry>
     <Entry key="GUI_SETTINGS_VOICE_OUTPUT_TOGGLE_TOOLTIP">Change the volume of your own voice.</Entry>
     <Entry key="GUI_SETTINGS_VOICE_INPUT_TOGGLE_TOOLTIP">The volume you hear other people's voices.</Entry>
     <Entry key="GUI_SETTINGS_QUEUE_LABEL">Preferred Chat Language</Entry>
@@ -552,13 +552,13 @@ Please choose another.</Entry>
     <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_1">English</Entry>
     <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_2">Türkçe</Entry>
     <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_3">Español</Entry>
-    <Entry key="GUI_SETTINGS_CHAT_FILTER_CHECKBOX">Enable Chat Filter</Entry>
+    <Entry key="GUI_SETTINGS_CHAT_FILTER_CHECKBOX">启用聊天过滤</Entry>
     <Entry key="GUI_SETTINGS_CHAT_FILTER_TOOLTIP">Enable the chat filter to replace potentially abusive or bullying language.</Entry>
-    <Entry key="GUI_SETTINGS_DISPLAY_TITLE">Display Settings</Entry>
-    <Entry key="GUI_SETTINGS_FULLSCREEN_BUTTON">Toggle Fullscreen</Entry>
-    <Entry key="GUI_SETTINGS_FULLSCREEN_CHECKBOX">Enable Fullscreen</Entry>
+    <Entry key="GUI_SETTINGS_DISPLAY_TITLE">显示设置</Entry>
+    <Entry key="GUI_SETTINGS_FULLSCREEN_BUTTON">切换全屏模式</Entry>
+    <Entry key="GUI_SETTINGS_FULLSCREEN_CHECKBOX">启用全屏模式</Entry>
     <Entry key="GUI_SETTINGS_FULLSCREEN_TOOLTIP">On: Fullscreen mode. Off: Windowed mode</Entry>
-    <Entry key="GUI_SETTINGS_VSYNC_CHECKBOX">Enable VSync</Entry>
+    <Entry key="GUI_SETTINGS_VSYNC_CHECKBOX">启用垂直同步</Entry>
     <Entry key="GUI_SETTINGS_VSYNC_TOOLTIP">On: sync game frame rate with monitor refresh rate (more stable). Off: potentially higher frame rate with possible tearing and other artifacts.</Entry>
     <Entry key="GUI_SETTINGS_RESET_KEYBINDINGS">Reset keybindings to default</Entry>
     <Entry key="GUI_SETTINGS_RESET_KEYBINDINGS_TITLE">Reset Keybindings to Default?</Entry>
@@ -570,8 +570,8 @@ Please choose another.</Entry>
     <Entry key="GUI_SETTINGS_KEYBINDING_FEEDBACK_2">The key you entered is disallowed for binding.</Entry>
     <Entry key="GUI_SETTINGS_KEYBINDING_FEEDBACK_3">The item you selected has been successfully rebound.</Entry>
     <Entry key="GUI_SETTINGS_KEYBINDING_FEEDBACK_4">Key Bindings have been successfully reset to defaults.</Entry>
-    <Entry key="GUI_SETTINGS_RESOLUTION">Resolution</Entry>
-    <Entry key="GUI_REPORT_PLAYER">Report Player</Entry>
+    <Entry key="GUI_SETTINGS_RESOLUTION">分辨率</Entry>
+    <Entry key="GUI_REPORT_PLAYER">举报玩家</Entry>
     <Entry key="GUI_SETTINGS_ENVIRONMENT_DROPDOWN">Choose the Environment to connect to:</Entry>
     <Entry key="GUI_SETTINGS_ENABLE_TOASTER_NOTIFICATIONS_CHECKBOX">Show Toaster Notifications</Entry>
     <Entry key="GUI_SETTINGS_ENABLE_TOASTER_NOTIFICATIONS_TOOLTIP">Enable 'Show Toaster Notifications' to show incoming chat messages and game invites in a toaster notification.</Entry>
@@ -603,29 +603,29 @@ Would you like to clear your Player Prefs?</Entry>
     <!--Key "GUI_SELECT_LANGUAGE_ITEM_TEXT" has the same text as key "GUI_SETTINGS_SELECT_LANGUAGE"-->
     <Entry key="GUI_SELECT_LANGUAGE_ITEM_TEXT">Select Language</Entry>
     <!--Key "GUI_SETTINGS_QUIT_BUTTON" has the same text as key "GUI_QUIT"-->
-    <Entry key="GUI_SETTINGS_QUIT_BUTTON">Quit</Entry>
+    <Entry key="GUI_SETTINGS_QUIT_BUTTON">退出</Entry>
     <Entry key="GUI_SETTINGS_LANGUAGE_ONLY_AT_LOGIN">Language selection may only be changed from the Options screen available at the Login screen. Please log out of the application and make your selection before logging in.</Entry>
     <Entry key="GUI_SETTINGS_DISPLAY_SETTINGS">Display Settings</Entry>
-    <Entry key="GUI_SETTINGS_SAVE">Save</Entry>
+    <Entry key="GUI_SETTINGS_SAVE">保存</Entry>
     <Entry key="GUI_SETTINGS_TOOLTIP_REPORT_ABUG">Report a bug</Entry>
-    <Entry key="GUI_SETTINGS_TOOLTIP_HELP">Help</Entry>
-    <Entry key="GUI_SETTINGS_HOTKEY_TITLE">Key Bindings</Entry>
+    <Entry key="GUI_SETTINGS_TOOLTIP_HELP">帮助</Entry>
+    <Entry key="GUI_SETTINGS_HOTKEY_TITLE">按键绑定</Entry>
     <Entry key="GUI_IO_FILE_NOT_FOUND">File not found.</Entry>
     <Entry key="GUI_IO_COMPLETE">Complete</Entry>
     <Entry key="GUI_IO_FILE_DELETED">File successfully deleted.</Entry>
     <Entry key="GUI_IO_NOT_SUPPORTED">This operation is not supported on this operating system.</Entry>
     <Entry key="GUI_CUSTOMIZATION_SETTINGS_TOOLTIP">Customization
 Settings</Entry>
-    <Entry key="GUI_CUSTOMIZATION_NAME">In-game Name:</Entry>
-    <Entry key="GUI_CUSTOMIZATION_APPLY">Apply</Entry>
-    <Entry key="GUI_CUSTOMIZATION_SAVE">Save</Entry>
+    <Entry key="GUI_CUSTOMIZATION_NAME">游戏内名称：</Entry>
+    <Entry key="GUI_CUSTOMIZATION_APPLY">应用</Entry>
+    <Entry key="GUI_CUSTOMIZATION_SAVE">保存</Entry>
     <Entry key="GUI_CUSTOMIZATION_SELECTION_LABEL">Selected</Entry>
-    <Entry key="GUI_CUSTOMIZATION_NAME_LABEL">Name</Entry>
-    <Entry key="GUI_CUSTOMIZATION_NAME_PLACEHOLDER">Enter Name</Entry>
+    <Entry key="GUI_CUSTOMIZATION_NAME_LABEL">名称</Entry>
+    <Entry key="GUI_CUSTOMIZATION_NAME_PLACEHOLDER">输入名称</Entry>
     <Entry key="GUI_CUSTOMIZATION_NAME_CHANGE_INSTRUCTIONS">You can enter a new name below to be used as your in-game name that other players will see.</Entry>
-    <Entry key="GUI_CUSTOMIZATION_CHARACTERS_LABEL">Characters</Entry>
-    <Entry key="GUI_CUSTOMIZATION_SKINS_LABEL">Skins</Entry>
-    <Entry key="GUI_CUSTOMIZATION_PETS_LABEL">Pets</Entry>
+    <Entry key="GUI_CUSTOMIZATION_CHARACTERS_LABEL">角色</Entry>
+    <Entry key="GUI_CUSTOMIZATION_SKINS_LABEL">皮肤</Entry>
+    <Entry key="GUI_CUSTOMIZATION_PETS_LABEL">宠物</Entry>
     <Entry key="GUI_CUSTOMIZATION_TP_LABEL">Town Points</Entry>
     <Entry key="GUI_CUSTOMIZATION_ACCOUNT_LABEL">Account</Entry>
     <Entry key="GUI_CUSTOMIZATION_RANDOM_SKIN_LABEL">Random Skin</Entry>
@@ -1077,7 +1077,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="NPC_JOB_3">农夫</Entry>
     <Entry key="NPC_JOB_4">代理镇长</Entry>
     <Entry key="NPC_JOB_5">掘墓人</Entry>
-    <Entry key="NPC_JOB_6">算命者</Entry>
+    <Entry key="NPC_JOB_6">算命人</Entry>
     <Entry key="NPC_JOB_7">年轻牧师</Entry>
     <Entry key="NPC_JOB_8">稻草人</Entry>
     <Entry key="NPC_JOB_9">修女</Entry>
@@ -1098,7 +1098,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_ROLE_LIST">身份列表</Entry>
     <Entry key="GUI_GRAVEYARD">墓地</Entry>
     <Entry key="GUI_UNREPORTED_DEAD">未报告的死者</Entry>
-    <Entry key="GUI_GAME_YOU_ARE_HOST">You are the host!</Entry>
+    <Entry key="GUI_GAME_YOU_ARE_HOST">你是房主！</Entry>
     <Entry key="GUI_GAME_WAITING_FOR_HOST">正在等待房主...</Entry>
     <Entry key="GUI_GAME_WAIT_FOR">正在等待...</Entry>
     <Entry key="GUI_GAME_YOU_VOTED_TO_REPICK">You voted to repick the host.</Entry>
@@ -1152,7 +1152,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_DISCUSSION_PHASE">Discuss!</Entry>
     <Entry key="GUI_BIG_ZINGER_0">%killer% 杀死了 %victim%！</Entry>
     <Entry key="GUI_BIG_ZINGER_1">%victim% 被 %killer% 杀死了！</Entry>
-    <Entry key="GUI_BIG_ZINGER_2">%killer% savoured the squelch of %victim%’s skull.</Entry>
+    <Entry key="GUI_BIG_ZINGER_2">%killer% 享用了 %victim% 的头骨。</Entry>
     <Entry key="GUI_BIG_ZINGER_3">%victim%’s heresy was halted by %killer%!</Entry>
     <Entry key="GUI_BIG_ZINGER_4">%victim% was trounced by %killer%!</Entry>
     <Entry key="GUI_BIG_ZINGER_5">%killer% was hellbent on %victim%’s plight.</Entry>
@@ -1164,14 +1164,14 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_BIG_ZINGER_11">%victim%’s toil was turned to trouble by %killer%.</Entry>
     <Entry key="GUI_BIG_ZINGER_12">%victim%’s body was battered by %killer%!</Entry>
     <Entry key="GUI_BIG_ZINGER_13">%killer% scorned %victim%!</Entry>
-    <Entry key="GUI_REPORT_BODY_ZINGER_0">%reporter% has found the body of %body%!</Entry>
-    <Entry key="GUI_REPORT_BODY_ZINGER_1">%reporter% stumbled upon %body%!</Entry>
-    <Entry key="GUI_REPORT_BODY_ZINGER_2">%reporter% witnessed the body of %body%!</Entry>
-    <Entry key="GUI_RING_BELL_ZINGER_0">%ringer% has called a town meeting!</Entry>
-    <Entry key="GUI_HEXMASTER_CINEMATIC_TEXT">The Hex Master has hexed the Town</Entry>
-    <Entry key="GUI_BANISHMENT_CINEMATIC_TEXT">The Town has banished the Necronomicon!</Entry>
-    <Entry key="GUI_GAME_OVER_CINEMATIC_TEXT">Game Over!</Entry>
-    <Entry key="GUI_CURSE_TOTEM_CINEMATIC_TEXT">A deadly Curse has destroyed the Town!</Entry>
+    <Entry key="GUI_REPORT_BODY_ZINGER_0">%reporter% 发现了 %body% 的尸体！</Entry>
+    <Entry key="GUI_REPORT_BODY_ZINGER_1">%reporter% 撞见了 %body% 的尸体！</Entry>
+    <Entry key="GUI_REPORT_BODY_ZINGER_2">%reporter% 目击了 %body% 的尸体！</Entry>
+    <Entry key="GUI_RING_BELL_ZINGER_0">%ringer% 发起了一场集会！</Entry>
+    <Entry key="GUI_HEXMASTER_CINEMATIC_TEXT">巫术师施法消灭了整个小镇！</Entry>
+    <Entry key="GUI_BANISHMENT_CINEMATIC_TEXT">小镇放逐了死灵之书！</Entry>
+    <Entry key="GUI_GAME_OVER_CINEMATIC_TEXT">游戏结束！</Entry>
+    <Entry key="GUI_CURSE_TOTEM_CINEMATIC_TEXT">一种致命的诅咒摧毁了小镇！</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_1">Alerted Veteran</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_2">Cultist Convert</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_3">Active Bloodlust</Entry>
@@ -1201,17 +1201,17 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_ABILITY_USED">Ability Used</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_DISCUSSION_VOTE">Discussion Vote</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_TRIAL_VOTE">Trial Vote</Entry>
-    <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_TOWN_MEETING">Town Meeting</Entry>
+    <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_TOWN_MEETING">小镇集会</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_FORTUNE_TELLER">Fortune Teller Role Reveal</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_CUSTOM_MESSAGE">Message</Entry>
-    <Entry key="GUI_CHAT_LOG_FORTUNE_TELLER_REVEAL">The fortune teller revealed that %name% is a %role%!</Entry>
-    <Entry key="GUI_CHAT_LOG_FORTUNE_TELLER_REVEAL_YOU">The fortune teller revealed that you are a %role%!</Entry>
+    <Entry key="GUI_CHAT_LOG_FORTUNE_TELLER_REVEAL">算命人展示了 %name% 的身份是 %role%！</Entry>
+    <Entry key="GUI_CHAT_LOG_FORTUNE_TELLER_REVEAL_YOU">算命人展示了你的身份是 %role%！</Entry>
     <!--Entries for chat log abilities used-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_ME_1">You killed %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_ME_1">你杀死了 %target%。</Entry>
     <!--KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_1">%source% killed %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_1">%source% 杀死了 %target%。</Entry>
     <!--KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_2">You were killed!</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_1_2">你被杀了！</Entry>
     <!--KILL-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_2_ME">You have incinerated %target%'s body.</Entry>
     <!--BURN-->
@@ -1640,31 +1640,31 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_4_2">We were unable to determine %name%'s role.</Entry>
     <!-- Zone names and subzone names-->
     <Entry key="GUI_GAME_ZONE_0">Unknown</Entry>
-    <Entry key="GUI_GAME_ZONE_1">Tavern</Entry>
-    <Entry key="GUI_GAME_ZONE_2">Church</Entry>
+    <Entry key="GUI_GAME_ZONE_1">酒馆</Entry>
+    <Entry key="GUI_GAME_ZONE_2">教堂</Entry>
     <Entry key="GUI_GAME_ZONE_3">Observatory</Entry>
-    <Entry key="GUI_GAME_ZONE_4">Town Square</Entry>
-    <Entry key="GUI_GAME_ZONE_5">Graveyard</Entry>
-    <Entry key="GUI_GAME_ZONE_6">Underground</Entry>
-    <Entry key="GUI_GAME_ZONE_7">Farm</Entry>
-    <Entry key="GUI_GAME_ZONE_8">Mansion</Entry>
-    <Entry key="GUI_GAME_ZONE_6_1">Underground Cave</Entry>
-    <Entry key="GUI_GAME_ZONE_6_2">Underground Mines</Entry>
-    <Entry key="GUI_GAME_ZONE_8_1">Mansion Entrance</Entry>
-    <Entry key="GUI_GAME_ZONE_8_2">Mansion Dining Room</Entry>
-    <Entry key="GUI_GAME_ZONE_8_3">Mansion Library</Entry>
-    <Entry key="GUI_GAME_ZONE_8_4">Mansion War Room</Entry>
-    <Entry key="GUI_GAME_ZONE_8_5">Mansion Pantry</Entry>
-    <Entry key="GUI_GAME_ZONE_8_6">Mansion Fountain</Entry>
-    <Entry key="GUI_GAME_ZONE_8_7">Mansion Music Room</Entry>
-    <Entry key="GUI_GAME_ZONE_8_8">Mansion Hedge Maze</Entry>
-    <Entry key="GUI_GAME_FOUND_DEAD">(Found Dead)</Entry>
-    <Entry key="GUI_GAME_DEAD">(Dead)</Entry>
-    <Entry key="GUI_GAME_DIED_AT_X">Died at %location%</Entry>
-    <Entry key="GUI_GAME_DIED_OF_X">Died of %x%</Entry>
+    <Entry key="GUI_GAME_ZONE_4">小镇广场</Entry>
+    <Entry key="GUI_GAME_ZONE_5">墓地</Entry>
+    <Entry key="GUI_GAME_ZONE_6">地下</Entry>
+    <Entry key="GUI_GAME_ZONE_7">农场</Entry>
+    <Entry key="GUI_GAME_ZONE_8">宅邸</Entry>
+    <Entry key="GUI_GAME_ZONE_6_1">地下洞穴</Entry>
+    <Entry key="GUI_GAME_ZONE_6_2">地下矿洞</Entry>
+    <Entry key="GUI_GAME_ZONE_8_1">宅邸入口</Entry>
+    <Entry key="GUI_GAME_ZONE_8_2">宅邸餐厅</Entry>
+    <Entry key="GUI_GAME_ZONE_8_3">宅邸图书馆</Entry>
+    <Entry key="GUI_GAME_ZONE_8_4">宅邸作战室</Entry>
+    <Entry key="GUI_GAME_ZONE_8_5">宅邸储物室</Entry>
+    <Entry key="GUI_GAME_ZONE_8_6">宅邸喷泉</Entry>
+    <Entry key="GUI_GAME_ZONE_8_7">宅邸音乐室</Entry>
+    <Entry key="GUI_GAME_ZONE_8_8">宅邸树篱迷宫</Entry>
+    <Entry key="GUI_GAME_FOUND_DEAD">（被发现死亡）</Entry>
+    <Entry key="GUI_GAME_DEAD">（死亡）</Entry>
+    <Entry key="GUI_GAME_DIED_AT_X">死在了 %location%</Entry>
+    <Entry key="GUI_GAME_DIED_OF_X">死于 %x%</Entry>
     <Entry key="GUI_GAME_LYNCHED">Lynched</Entry>
-    <Entry key="GUI_GAME_REPORTER">(Reporter)</Entry>
-    <Entry key="GUI_GAME_SKIP">Skip</Entry>
+    <Entry key="GUI_GAME_REPORTER">（报告人）</Entry>
+    <Entry key="GUI_GAME_SKIP">跳过</Entry>
     <Entry key="GUI_GAME_LISTEN">Listen</Entry>
     <Entry key="GUI_GAME_DEFEND">Defend</Entry>
     <Entry key="GUI_GAME_WAIT">Wait</Entry>
@@ -1672,62 +1672,62 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_AWAIT_VOTE">Await Vote</Entry>
     <Entry key="GUI_GAME_DISCUSS">Discuss</Entry>
     <Entry key="GUI_GAME_PROSECUTION">Prosecution</Entry>
-    <Entry key="GUI_GAME_DISCUSSION_VOTE">%name% voted against %name2%.</Entry>
-    <Entry key="GUI_GAME_DISCUSSION_VOTE_SKIP">%name% voted to skip.</Entry>
-    <Entry key="GUI_GAME_DISCUSSION_VOTE_CANCELLED">%name% cancelled their vote.</Entry>
-    <Entry key="GUI_GAME_DISCUSSION_VOTE_FINAL_RESULT">%name% was voted up to trial.</Entry>
-    <Entry key="GUI_GAME_DISCUSSION_VOTE_FINAL_RESULT_NOBODY">There will be no trial. No one was voted up.</Entry>
-    <Entry key="GUI_PHASE_PROSECUTION">Prosecution Phase</Entry>
-    <Entry key="GUI_PHASE_DEFENSE">Defense Phase</Entry>
-    <Entry key="GUI_PHASE_VOTING">Voting Phase</Entry>
-    <Entry key="GUI_GAME_DEFENSE">%name%, what is your defense?</Entry>
-    <Entry key="GUI_GAME_YOUR_TRIAL_IS_STARTING">%name%, your trial is starting now.</Entry>
+    <Entry key="GUI_GAME_DISCUSSION_VOTE">%name% 投票反对 %name2%。</Entry>
+    <Entry key="GUI_GAME_DISCUSSION_VOTE_SKIP">%name% 投票跳过。</Entry>
+    <Entry key="GUI_GAME_DISCUSSION_VOTE_CANCELLED">%name% 取消了投票。</Entry>
+    <Entry key="GUI_GAME_DISCUSSION_VOTE_FINAL_RESULT">%name% 被投票面临审判。</Entry>
+    <Entry key="GUI_GAME_DISCUSSION_VOTE_FINAL_RESULT_NOBODY">因无人被投票，审判不会开始。</Entry>
+    <Entry key="GUI_PHASE_PROSECUTION">控诉阶段</Entry>
+    <Entry key="GUI_PHASE_DEFENSE">辩护阶段</Entry>
+    <Entry key="GUI_PHASE_VOTING">投票阶段</Entry>
+    <Entry key="GUI_GAME_DEFENSE">%name%，你如何为自己辩护？</Entry>
+    <Entry key="GUI_GAME_YOUR_TRIAL_IS_STARTING">%name%，对你的审判马上开始。</Entry>
     <Entry key="GUI_GAME_PHASE_UNHANDLED">%name%, phase unhandled (%phase%).</Entry>
     <Entry key="GUI_GAME_PUT_SOMEONE_ON_TRIAL">Put someone on trial?</Entry>
     <Entry key="GUI_GAME_VOTING_TITLE">What will your vote for %name% be?</Entry>
     <Entry key="GUI_GAME_VOTING_ME_TITLE">The town is voting on the fate of %name%.</Entry>
-    <Entry key="GUI_GAME_VOTED_INNOCENT_SINGLE">%name% voted 
-        <![CDATA[<b><color=#00FF92>]]>innocent!
+    <Entry key="GUI_GAME_VOTED_INNOCENT_SINGLE">%name% 投了 
+        <![CDATA[<b><color=#00FF92>]]>清白！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_VOTED_GUILTY_SINGLE">%name% voted 
-        <![CDATA[<b><color=#FF004E>]]>guilty!
+    <Entry key="GUI_GAME_VOTED_GUILTY_SINGLE">%name% 投了 
+        <![CDATA[<b><color=#FF004E>]]>有罪！
         <![CDATA[</color></b>]]>
     </Entry>
     <Entry key="GUI_GAME_VOTED_ABSTAINED_SINGLE">%name% 
-        <![CDATA[<b><color=#FFBE00>]]>abstained!
+        <![CDATA[<b><color=#FFBE00>]]>弃权！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_VOTED_INNOCENT_SINGLE_CHANGED">%name% changed their vote to  
-        <![CDATA[<b><color=#00FF92>]]>innocent!
+    <Entry key="GUI_GAME_VOTED_INNOCENT_SINGLE_CHANGED">%name% 改投 
+        <![CDATA[<b><color=#00FF92>]]>清白！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_VOTED_GUILTY_SINGLE_CHANGED">%name% changed their vote to 
-        <![CDATA[<b><color=#FF004E>]]>guilty!
+    <Entry key="GUI_GAME_VOTED_GUILTY_SINGLE_CHANGED">%name% 改投 
+        <![CDATA[<b><color=#FF004E>]]>有罪！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_VOTED_ABSTAINED_SINGLE_CHANGED">%name% changed their vote to 
-        <![CDATA[<b><color=#FFBE00>]]>abstain!
+    <Entry key="GUI_GAME_VOTED_ABSTAINED_SINGLE_CHANGED">%name% 改投 
+        <![CDATA[<b><color=#FFBE00>]]>弃权！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_VOTED_GUILTY">%name% was found 
-        <![CDATA[<b><color=#FF004E>]]>guilty!
+    <Entry key="GUI_GAME_VOTED_GUILTY">%name% 被判 
+        <![CDATA[<b><color=#FF004E>]]>有罪！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_VOTED_INNOCENT">%name% was found 
-        <![CDATA[<b><color=#00FF92>]]>innocent!
+    <Entry key="GUI_GAME_VOTED_INNOCENT">%name% 被判 
+        <![CDATA[<b><color=#00FF92>]]>无罪！
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_LAST_WORDS">%name%, you have been judged 
-        <![CDATA[<b><color=#FF004E>]]>guilty!
-        <![CDATA[</color></b>]]> Do you have any last words?
+    <Entry key="GUI_GAME_LAST_WORDS">%name%，你已被判 
+        <![CDATA[<b><color=#FF004E>]]>有罪！
+        <![CDATA[</color></b>]]> 请发表遗言。
     </Entry>
-    <Entry key="GUI_GAME_OTHER_LAST_WORDS">%name% has been judged 
-        <![CDATA[<b><color=#FF004E>]]>guilty!
-        <![CDATA[</color></b>]]> These are their last words.
+    <Entry key="GUI_GAME_OTHER_LAST_WORDS">%name% 已被判 
+        <![CDATA[<b><color=#FF004E>]]>有罪！
+        <![CDATA[</color></b>]]> 接下来是其遗言。
     </Entry>
-    <Entry key="GUI_GAME_RETURN_TO_PLAY">%name% may now return to play.</Entry>
-    <Entry key="GUI_GAME_PHASE">Phase:</Entry>
+    <Entry key="GUI_GAME_RETURN_TO_PLAY">%name% 现在可以重回游戏了。</Entry>
+    <Entry key="GUI_GAME_PHASE">阶段：</Entry>
     <Entry key="GUI_GAME_MINION_SUMMONED">You have summoned a zombie to attack your target.</Entry>
     <Entry key="GUI_GAME_MINION_ATTACKED">Your zombie killed its prey.</Entry>
     <Entry key="GUI_GAME_MINION_UNABLE_TO_KILL">Your zombie was unable to kill its prey.</Entry>
@@ -1745,15 +1745,15 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_DIALOG_4_0">The pipes in the rear of the Church are broken. Fix them and then take some Holy Water to Reverend Hale at the Cave.</Entry>
     <Entry key="GUI_DIALOG_TITLE_4_2">Holy Water Quest Complete!</Entry>
     <Entry key="GUI_DIALOG_4_2">Thank you for fetching this Holy Water! We'll need this to help banish the Necronomicon.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_5_0">Dispel Magic in the Cave</Entry>
+    <Entry key="GUI_DIALOG_TITLE_5_0">驱散魔法 in the Cave</Entry>
     <Entry key="GUI_DIALOG_5_0">Foul magic has been gathering in this cave. Find the Rune in my cave and cast out the evil witchcraft so we can use the cave in our ceremony to banish the Necronomicon.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_6_0">Dispel Magic at the Graveyard</Entry>
+    <Entry key="GUI_DIALOG_TITLE_6_0">驱散魔法 at the Graveyard</Entry>
     <Entry key="GUI_DIALOG_6_0">The graveyard is blighted with evil sorcery. Find the Rune in my Graveyard and end the vile incantation.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_7_0">Dispel Magic at the Farm</Entry>
+    <Entry key="GUI_DIALOG_TITLE_7_0">驱散魔法 at the Farm</Entry>
     <Entry key="GUI_DIALOG_7_0">An unholy curse is killing my crop. Find the Rune on my Farm and dispel the wicked bewitchment.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_8_0">Dispel Magic in the Mansion</Entry>
+    <Entry key="GUI_DIALOG_TITLE_8_0">驱散魔法 in the Mansion</Entry>
     <Entry key="GUI_DIALOG_8_0">I'm afraid because an evil enchantment is spreading in my home. Find the Rune in the Mansion and scatter the foul magic.</Entry>
-    <Entry key="GUI_DIALOG_TITLE_9_0">Dispel Magic at Town Center</Entry>
+    <Entry key="GUI_DIALOG_TITLE_9_0">驱散魔法 at Town Center</Entry>
     <Entry key="GUI_DIALOG_9_0">A nasty jinx is spreadin' in the Town. Find the Rune in the Town Center and rid us o' this wicked sorcery.</Entry>
     <Entry key="GUI_DIALOG_TITLE_10_0">Prepare the Ritual Circle!</Entry>
     <Entry key="GUI_DIALOG_10_0">We're getting close to being ready to banish the Necronomicon! Go to the center of the cave and prepare the ritual circle!</Entry>
@@ -1813,15 +1813,15 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_4_1">Fetch the Holy Water in back of Church</Entry>
     <Entry key="GUI_QUEST_TASK_4_2">Deliver Holy Water to Reverend Hale at the Cave</Entry>
     <Entry key="GUI_QUEST_TASK_5_0">Visit Reverend Hale at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_5_1">Use Rune in the Cave to Dispel Magic</Entry>
+    <Entry key="GUI_QUEST_TASK_5_1">Use Rune in the Cave to 驱散魔法</Entry>
     <Entry key="GUI_QUEST_TASK_6_0">Visit the Gravedigger at the Graveyard</Entry>
-    <Entry key="GUI_QUEST_TASK_6_1">Use Rune at the Graveyard to Dispel Magic</Entry>
+    <Entry key="GUI_QUEST_TASK_6_1">Use Rune at the Graveyard to 驱散魔法</Entry>
     <Entry key="GUI_QUEST_TASK_7_0">Visit Mr. Stuffins at the Farm</Entry>
-    <Entry key="GUI_QUEST_TASK_7_1">Use Rune at the Farm to Dispel Magic</Entry>
+    <Entry key="GUI_QUEST_TASK_7_1">Use Rune at the Farm to 驱散魔法</Entry>
     <Entry key="GUI_QUEST_TASK_8_0">Visit Mrs. Putnam at the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_8_1">Use Rune in the Mansion to Dispel Magic</Entry>
+    <Entry key="GUI_QUEST_TASK_8_1">Use Rune in the Mansion to 驱散魔法</Entry>
     <Entry key="GUI_QUEST_TASK_9_0">Visit Jacqueline at the Tavern</Entry>
-    <Entry key="GUI_QUEST_TASK_9_1">Use Rune at Town Center to Dispel Magic</Entry>
+    <Entry key="GUI_QUEST_TASK_9_1">Use Rune at Town Center to 驱散魔法</Entry>
     <Entry key="GUI_QUEST_TASK_10_0">Visit Reverend Hale at the Cave</Entry>
     <Entry key="GUI_QUEST_TASK_10_1">Prepare the Ritual Circle</Entry>
     <Entry key="GUI_QUEST_TASK_10_2">Speak to Reverend Hale in the Cave</Entry>
@@ -1871,11 +1871,11 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_2_TOOLTIP_TITLE">Fix Drawbridge Gears</Entry>
     <Entry key="GUI_QUEST_TASK_3_TOOLTIP_TITLE">Have Your Fortune Told</Entry>
     <Entry key="GUI_QUEST_TASK_4_TOOLTIP_TITLE">Holy Water</Entry>
-    <Entry key="GUI_QUEST_TASK_5_TOOLTIP_TITLE">Dispel Magic at the Cave</Entry>
-    <Entry key="GUI_QUEST_TASK_6_TOOLTIP_TITLE">Dispel Magic at the Graveyard</Entry>
-    <Entry key="GUI_QUEST_TASK_7_TOOLTIP_TITLE">Dispel Magic at the Farm</Entry>
-    <Entry key="GUI_QUEST_TASK_8_TOOLTIP_TITLE">Dispel Magic at the Mansion</Entry>
-    <Entry key="GUI_QUEST_TASK_9_TOOLTIP_TITLE">Dispel Magic at the Town Square</Entry>
+    <Entry key="GUI_QUEST_TASK_5_TOOLTIP_TITLE">驱散魔法 at the Cave</Entry>
+    <Entry key="GUI_QUEST_TASK_6_TOOLTIP_TITLE">驱散魔法 at the Graveyard</Entry>
+    <Entry key="GUI_QUEST_TASK_7_TOOLTIP_TITLE">驱散魔法 at the Farm</Entry>
+    <Entry key="GUI_QUEST_TASK_8_TOOLTIP_TITLE">驱散魔法 at the Mansion</Entry>
+    <Entry key="GUI_QUEST_TASK_9_TOOLTIP_TITLE">驱散魔法 at the Town Square</Entry>
     <Entry key="GUI_QUEST_TASK_10_TOOLTIP_TITLE">Prepare the Ritual Circle</Entry>
     <Entry key="GUI_QUEST_TASK_11_TOOLTIP_TITLE">Collect Wood for Banishment Ritual</Entry>
     <Entry key="GUI_QUEST_TASK_12_TOOLTIP_TITLE">Bring Fire</Entry>
@@ -1897,18 +1897,18 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP_TITLE">Stop the Blood Moon Spell</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP_TITLE_EVIL">Defend the Blood Totem!</Entry>
     <Entry key="GUI_QUEST_TASK_32_TOOLTIP_TITLE">Retrieve John Jr's Frog</Entry>
-    <Entry key="GUI_BLOOD_TOTEM">Blood Totem</Entry>
-    <Entry key="GUI_ICE_STORM_TOTEM">Ice Totem</Entry>
-    <Entry key="GUI_CURSE_TOTEM">Curse Totem</Entry>
+    <Entry key="GUI_BLOOD_TOTEM">血图腾</Entry>
+    <Entry key="GUI_ICE_STORM_TOTEM">冰图腾</Entry>
+    <Entry key="GUI_CURSE_TOTEM">诅咒图腾</Entry>
     <Entry key="GUI_QUEST_TASK_1_TOOLTIP">Jacqueline, the local barmaid at the Tavern, needs fruit to make her potions. After you speak with her, she will send you to the fruit tree at the farm where you can collect the fruit. Once you've collected enough fruit, return to the Tavern and give Jacqueline the fruit. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_2_TOOLTIP">A Traitor has raised and sabotaged the drawbridge. Fix the gears on the drawbridge to lower it again. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_3_TOOLTIP">Madam Martha, the local fortune teller, would like to tell your fortune. Speak with Martha at the Tavern and she will reveal your role and alignment to everybody that is in the Tavern. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_4_TOOLTIP">Sister Mercy wants to give some holy water to Reverend Hale. However, the water system in the Church is broken. Speak with Sister Mercy at the Church, then go to the back of the Church and fix the pipes. Once complete, collect some holy water and bring it to Reverend Hale at the Cave. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TASK_5_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Reverend Hale at the Cave and he will give you a quest to dispel magic at the Cave. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TASK_6_TOOLTIP">The Necronomicon is spreading its evil magic. Visit gravedigger Thomas at the Graveyard and he will give you a quest to dispel magic at the Graveyard. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TASK_7_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Mr. Stuffins at the Farm and he will give you a quest to dispel magic at the Farm. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TASK_8_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Mrs. Putnam at the Mansion and she will give you a quest to dispel magic at the Mansion. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TASK_9_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Jacqueline O'Lantern at the Tavern and she will give you a quest to dispel magic at the Town Center. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
+    <Entry key="GUI_QUEST_TASK_5_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Reverend Hale at the Cave and he will give you a quest to 驱散魔法 at the Cave. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
+    <Entry key="GUI_QUEST_TASK_6_TOOLTIP">The Necronomicon is spreading its evil magic. Visit gravedigger Thomas at the Graveyard and he will give you a quest to 驱散魔法 at the Graveyard. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
+    <Entry key="GUI_QUEST_TASK_7_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Mr. Stuffins at the Farm and he will give you a quest to 驱散魔法 at the Farm. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
+    <Entry key="GUI_QUEST_TASK_8_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Mrs. Putnam at the Mansion and she will give you a quest to 驱散魔法 at the Mansion. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
+    <Entry key="GUI_QUEST_TASK_9_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Jacqueline O'Lantern at the Tavern and she will give you a quest to 驱散魔法 at the Town Center. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_10_TOOLTIP">Reverend Hale is waiting at the cave. Visit him and he will give you a quest to prepare the Ritual Circle which is used in the Banishment Ritual. Once complete, speak with Reverend Hale once more. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_11_TOOLTIP">Maid Betty is waiting in the pantry at the Mansion. Visit her and she will ask you to collect some wood at the Farm. Once you've collected enough wood, bring it to Reverend Hale at the Cave. The wood will be used for the fire at the Banishment Ritual. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_12_TOOLTIP">Visit Leo at the Mansion and he will ask you to collect some fire from the Town Square and bring it to Reverend Hale at the Cave. The fire will be used set alight the firewood at the Banishment Ritual. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
@@ -1980,17 +1980,17 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_TIMER_ICESTORMSPELL">暴风雪法术</Entry>
     <Entry key="GUI_TIMER_DISPLACESPELL">移形换位法术</Entry>
     <Entry key="GUI_TIMER_CONFUSESPELL">晕头转向法术</Entry>
-    <Entry key="GUI_TIMER_SEEINGDOUBLESPELL">幻觉法术</Entry>
+    <Entry key="GUI_TIMER_SEEINGDOUBLESPELL">幻象法术</Entry>
     <Entry key="GUI_BANNER_DAYTIME">太阳正在升起！</Entry>
-    <Entry key="GUI_BANNER_NIGHTTIME">Nightfall is here!</Entry>
-    <Entry key="GUI_DISCUSSION_HEADER">Who will the Town vote to the Gallows?</Entry>
-    <Entry key="GUI_DISCUSSION_HEADER_RESULTS">The town has decided that a trial will commence.</Entry>
-    <Entry key="GUI_DISCUSSION_HEADER_RESULTS_SKIP">The town has decided not to hold a trial.</Entry>
-    <Entry key="GUI_DISCUSSION_X_OF_Y_VOTED">%x% of %y% 
-VOTED</Entry>
-    <Entry key="GUI_FACTION_TOWN_ROLE">Town Role</Entry>
-    <Entry key="GUI_FACTION_EVIL_ROLE">Evil Role</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_TOWN">•Any Town aligned role.
+    <Entry key="GUI_BANNER_NIGHTTIME">夜幕降临！</Entry>
+    <Entry key="GUI_DISCUSSION_HEADER">谁会被投票上绞刑架？</Entry>
+    <Entry key="GUI_DISCUSSION_HEADER_RESULTS">小镇决定开始进行一场审判。</Entry>
+    <Entry key="GUI_DISCUSSION_HEADER_RESULTS_SKIP">小镇决定不进行审判。</Entry>
+    <Entry key="GUI_DISCUSSION_X_OF_Y_VOTED">%x% / %y% 
+已投票</Entry>
+    <Entry key="GUI_FACTION_TOWN_ROLE">小镇身份</Entry>
+    <Entry key="GUI_FACTION_EVIL_ROLE">邪恶身份</Entry>
+    <Entry key="GUI_ROLE_DESC_RANDOM_TOWN">•任意小镇阵营的身份。
 </Entry>
     <Entry key="GUI_ROLE_DESC_RANDOM_POWER_TOWN">•任意拥有强大力量的小镇成员。
 •镇长
@@ -2010,7 +2010,7 @@ VOTED</Entry>
 •圣人
 •守望者
 •通灵师</Entry>
-    <Entry key="GUI_ROLE_DESC_RANDOM_TRAITOR">•Any Traitor aligned role. 
+    <Entry key="GUI_ROLE_DESC_RANDOM_TRAITOR">•任意叛徒阵营的身份。
 </Entry>
     <Entry key="GUI_ROLE_DESC_RANDOM_POWER_TRAITOR">•任意能一次性杀死多名玩家的叛徒成员。
 •连环杀手
@@ -2168,33 +2168,33 @@ VOTED</Entry>
     <Entry key="GUI_ROLE_DESC_HEXMASTER">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮对一名玩家施法。当所有活着的小镇成员都被施法后，他们全部死亡。
 •获胜条件：所有小镇成员皆死亡。 </Entry>
-    <Entry key="GUI_ROLE_DESC_TRACKER">•Use your ability button on a dead body to pick up the scent of the killer, allowing you to track them down.
+    <Entry key="GUI_ROLE_DESC_TRACKER">•对一具尸体使用能力按钮来获取杀手的气味，让你能够追踪杀手。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_TRACKER_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button on a dead body to pick up the scent of the killer, allowing you to track them down.
+•对一具尸体使用能力按钮来获取杀手的气味，让你能够追踪杀手。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_MEDIUM">•For a short time after being killed during the roaming phase you may reveal a player's role to everyone. You can not reveal the role of your killer.
+    <Entry key="GUI_ROLE_DESC_MEDIUM">•当你在漫游阶段被杀死后，你能在一小段时间内向所有玩家展示一名玩家的身份。你不能展示杀死你的人的身份。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_MEDIUM_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•For a short time after being killed during the roaming phase you may reveal a player's role to everyone.. You can not reveal the role of your killer.
+•当你在漫游阶段被杀死后，你能在一小段时间内向所有玩家展示一名玩家的身份。你不能展示杀死你的人的身份。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_DESC_KING">•Use your ability button to knight the highlighted player causing their votes to count for one more.
+    <Entry key="GUI_ROLE_DESC_KING">•使用能力按钮对高亮的玩家封爵，使其投票数加一。
 •与其他小镇成员合作铲除邪恶。
 •获胜条件：所有叛徒皆死亡，或放逐死灵之书。</Entry>
     <Entry key="GUI_ROLE_DESC_KING_EVIL">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to knight the highlighted player causing their votes to count for one more.
+•使用能力按钮对高亮的玩家封爵，使其投票数加一。
 •与其他小镇成员作对，使他们屈膝投降。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_ILLUSIONIST">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to inspect a player you wish to create an illusion of. Using the button again will cause an illusion of that player to spawn and run to the second closest teleporter and use it.
+•使用能力按钮选择一名玩家，再次使用能力按钮创造一个该玩家的幻象，该幻想会在生成后跑向距自己第二近的传送点并进行传送。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_CULTIST">•使用杀戮按钮来杀死高亮的玩家。
-•Use your ability button to convert another player into a cultist.
-•Most converts will keep their original role's abilities, while gaining the ability to kill.
+•使用能力按钮将另一名玩家转化成邪教徒。
+•大多数被转化的玩家会保留其原来的能力，同时获得杀死他人的能力。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_BLURB_TOWNIE">You are an innocent member of the Town.</Entry>
     <Entry key="GUI_ROLE_BLURB_TRAITOR">Kill all of the Town members.</Entry>
@@ -2227,59 +2227,59 @@ VOTED</Entry>
     <Entry key="GUI_ROLE_BLURB_KING">Knight a player to grant them extra votes.</Entry>
     <Entry key="GUI_ROLE_BLURB_ILLUSIONIST">Sample a player and send out illusions of them to cause confusion.</Entry>
     <Entry key="GUI_ROLE_BLURB_CULTIST">Convert a Townie to be your cult member granting them the ability to kill.</Entry>
-    <Entry key="GUI_WON">Won</Entry>
-    <Entry key="GUI_LOST">Lost</Entry>
-    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY">%name% has reported a body.</Entry>
-    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY_ANON">A body has been reported.</Entry>
-    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY_YOU">You reported a body.</Entry>
-    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL">%name% has called a Town meeting.</Entry>
-    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL_ANON">A Town meeting has been called.</Entry>
-    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL_YOU">You called a town meeting.</Entry>
-    <Entry key="GUI_GAME_CALLED_TOWN_MEETING_TOOLTIP">This person called the Town meeting.</Entry>
-    <Entry key="GUI_GAME_USE_USE">Use</Entry>
-    <Entry key="GUI_GAME_USE_CUSTOMIZE">Customize</Entry>
+    <Entry key="GUI_WON">获胜</Entry>
+    <Entry key="GUI_LOST">失败</Entry>
+    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY">%name% 报告了一具尸体。</Entry>
+    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY_ANON">有人报告了一具尸体。</Entry>
+    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY_YOU">你报告了一具尸体。</Entry>
+    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL">%name% 发起了一场集会。</Entry>
+    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL_ANON">有人发起了一场集会。</Entry>
+    <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL_YOU">你发起了一场集会。</Entry>
+    <Entry key="GUI_GAME_CALLED_TOWN_MEETING_TOOLTIP">此人发起了该集会。</Entry>
+    <Entry key="GUI_GAME_USE_USE">使用</Entry>
+    <Entry key="GUI_GAME_USE_CUSTOMIZE">自定义</Entry>
     <Entry key="GUI_GAME_USE_DESCEND">Descend</Entry>
-    <Entry key="GUI_GAME_USE_TRAVEL">Travel</Entry>
+    <Entry key="GUI_GAME_USE_TRAVEL">旅行</Entry>
     <Entry key="GUI_GAME_USE_EMERGE">Emerge</Entry>
-    <Entry key="GUI_GAME_SELECT_SPELL">Select Spell</Entry>
-    <Entry key="GUI_TOWN_MEETING">Town Meeting</Entry>
-    <Entry key="GUI_GAME_USE_CALL_TOWN_MEETING">Call Town Meeting</Entry>
-    <Entry key="GUI_GAME_USE_START_TRIAL">Report Body</Entry>
-    <Entry key="GUI_GAME_TALK_NPC">Talk</Entry>
+    <Entry key="GUI_GAME_SELECT_SPELL">选择法术</Entry>
+    <Entry key="GUI_TOWN_MEETING">小镇集会</Entry>
+    <Entry key="GUI_GAME_USE_CALL_TOWN_MEETING">发起小镇集会</Entry>
+    <Entry key="GUI_GAME_USE_START_TRIAL">报告尸体</Entry>
+    <Entry key="GUI_GAME_TALK_NPC">对话</Entry>
     <Entry key="GUI_GAME_CATCH_NPC">Send Home</Entry>
     <Entry key="GUI_GAME_USE_STOP_HEX">Stop Curse</Entry>
-    <Entry key="GUI_GAME_USE_USE_LADDER">Use Ladder</Entry>
-    <Entry key="GUI_GAME_ABILITY_INTERROGATE">Interrogate</Entry>
-    <Entry key="GUI_GAME_ABILITY_INVESTIGATE">Investigate</Entry>
-    <Entry key="GUI_GAME_ABILITY_KILL">Kill</Entry>
-    <Entry key="GUI_GAME_ABILITY_SHOOT">Shoot</Entry>
+    <Entry key="GUI_GAME_USE_USE_LADDER">使用梯子</Entry>
+    <Entry key="GUI_GAME_ABILITY_INTERROGATE">审问</Entry>
+    <Entry key="GUI_GAME_ABILITY_INVESTIGATE">调查</Entry>
+    <Entry key="GUI_GAME_ABILITY_KILL">杀戮</Entry>
+    <Entry key="GUI_GAME_ABILITY_SHOOT">开枪</Entry>
     <Entry key="GUI_GAME_ABILITY_IMMOLATE">Immolate</Entry>
-    <Entry key="GUI_GAME_ABILITY_EAGLE_EYE">Eagle Eye</Entry>
-    <Entry key="GUI_GAME_ABILITY_INVISIBILITY">Invisibility</Entry>
-    <Entry key="GUI_GAME_ABILITY_SAMPLE">Sample</Entry>
-    <Entry key="GUI_GAME_ABILITY_DISGUISE">Disguise</Entry>
-    <Entry key="GUI_GAME_ABILITY_INQUISITOR">Check</Entry>
-    <Entry key="GUI_GAME_ABILITY_POISON">Poison</Entry>
-    <Entry key="GUI_GAME_ABILITY_ALERT">Alert</Entry>
-    <Entry key="GUI_GAME_ABILITY_REVEAL">Reveal</Entry>
-    <Entry key="GUI_GAME_ABILITY_HEIGHTENED_SENSES">Heighten Senses</Entry>
-    <Entry key="GUI_GAME_ABILITY_PROSECUTE">Prosecute</Entry>
+    <Entry key="GUI_GAME_ABILITY_EAGLE_EYE">鹰眼</Entry>
+    <Entry key="GUI_GAME_ABILITY_INVISIBILITY">隐形</Entry>
+    <Entry key="GUI_GAME_ABILITY_SAMPLE">采样</Entry>
+    <Entry key="GUI_GAME_ABILITY_DISGUISE">易容</Entry>
+    <Entry key="GUI_GAME_ABILITY_INQUISITOR">检查</Entry>
+    <Entry key="GUI_GAME_ABILITY_POISON">下毒</Entry>
+    <Entry key="GUI_GAME_ABILITY_ALERT">警戒</Entry>
+    <Entry key="GUI_GAME_ABILITY_REVEAL">展示身份</Entry>
+    <Entry key="GUI_GAME_ABILITY_HEIGHTENED_SENSES">提升感官</Entry>
+    <Entry key="GUI_GAME_ABILITY_PROSECUTE">控诉</Entry>
     <Entry key="GUI_GAME_ABILITY_BLOODLUST">Bloodlust</Entry>
-    <Entry key="GUI_GAME_ABILITY_SILENCE">Silence</Entry>
-    <Entry key="GUI_GAME_ABILITY_SPELL">Spell</Entry>
-    <Entry key="GUI_GAME_ABILITY_AUTOPSY">Autopsy</Entry>
-    <Entry key="GUI_GAME_ABILITY_EXAMINE">Examine</Entry>
-    <Entry key="GUI_GAME_ABILITY_ZOMBIE_KILL">Zombie Attack</Entry>
+    <Entry key="GUI_GAME_ABILITY_SILENCE">沉默</Entry>
+    <Entry key="GUI_GAME_ABILITY_SPELL">法术</Entry>
+    <Entry key="GUI_GAME_ABILITY_AUTOPSY">验尸</Entry>
+    <Entry key="GUI_GAME_ABILITY_EXAMINE">检查</Entry>
+    <Entry key="GUI_GAME_ABILITY_ZOMBIE_KILL">使用僵尸攻击</Entry>
     <Entry key="GUI_GAME_ABILITY_SEER">Gaze</Entry>
     <Entry key="GUI_GAME_ABILITY_SEER_SECOND">Intuit</Entry>
-    <Entry key="GUI_GAME_ABILITY_HEX">Hex</Entry>
-    <Entry key="GUI_GAME_ABILITY_TRACK">Track</Entry>
-    <Entry key="GUI_GAME_ABILITY_MEDIUM_REVEAL">Reveal Role</Entry>
-    <Entry key="GUI_GAME_ABILITY_KING_KNIGHT">Knight</Entry>
-    <Entry key="GUI_GAME_ABILITY_CREATE_ILLUSION">Create Illusion</Entry>
-    <Entry key="GUI_GAME_ABILITY_CULT_CONVERT">Convert</Entry>
-    <Entry key="GUI_GAME_CHOOSE_TARGET">Choose Target</Entry>
-    <Entry key="GUI_GAME_POSSESS">Possess Townie</Entry>
+    <Entry key="GUI_GAME_ABILITY_HEX">施法</Entry>
+    <Entry key="GUI_GAME_ABILITY_TRACK">追踪</Entry>
+    <Entry key="GUI_GAME_ABILITY_MEDIUM_REVEAL">展示身份</Entry>
+    <Entry key="GUI_GAME_ABILITY_KING_KNIGHT">封爵</Entry>
+    <Entry key="GUI_GAME_ABILITY_CREATE_ILLUSION">创造幻象</Entry>
+    <Entry key="GUI_GAME_ABILITY_CULT_CONVERT">转化</Entry>
+    <Entry key="GUI_GAME_CHOOSE_TARGET">选择目标</Entry>
+    <Entry key="GUI_GAME_POSSESS">占据身体</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP_TITLE">Execute Your Target</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP_TITLE">Hang Them All!</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP">Convince the Town to hang %name% to doom a town member.</Entry>
@@ -2287,7 +2287,7 @@ VOTED</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE">Execute %name% to doom a town member.</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE">See someone hung to choose your next victim.</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_1">Mansion - Torch</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_2">Town Center - Dispel Magic</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_2">Town Center - 驱散魔法</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_3">Farm - Torch</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_4">Fix Gears - Placeholder Rune</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_5">Town Center - Torch</Entry>
@@ -2305,40 +2305,40 @@ VOTED</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_17">Church - Water Flow</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_18">Clearing - Chop Wood</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_19">Cave - Draw Ritual Circle</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_20">Teleport</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_21">Teleport</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_23">Teleport</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_24">Teleport</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_25">Teleport</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_26">Teleport</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_27">Stop the Curse in the Graveyard!</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_27_EVIL">The town will try to stop the Cruse in the Graveyard!</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_28">Unlock Safe</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_30">Use Stairs</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_31">Use Ladder</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_20">传送</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_21">传送</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_23">传送</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_24">传送</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_25">传送</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_26">传送</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_27">阻止在墓地中的诅咒！</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_27_EVIL">小镇会试着阻止在墓地中的诅咒！</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_28">解锁保险箱</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_30">使用楼梯</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_31">使用梯子</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_32">Customize</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_33">Use Telescope</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_34">Use Stairs</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_35">Use Stairs</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_36">Cave - Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_37">Graveyard - Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_38">Farm - Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_39">Mansion - Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_40">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_41">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_42">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_43">Use Ladder</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_33">使用望远镜</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_34">使用楼梯</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_35">使用楼梯</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_36">Cave - 驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_37">Graveyard - 驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_38">Farm - 驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_39">Mansion - 驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_40">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_41">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_42">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_43">使用梯子</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_LABEL_44">DEPRECATED - Use Boat</Entry><Entry key="GUI_GAME_INTERACTABLE_LABEL_45">DEPRECATED - Use Boat</Entry>-->
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_54">Destroy Totem</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_56">Collect Dagger</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_54">摧毁图腾</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_56">收集匕首</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_57">Sabotage Gears - Placeholder Rune</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_TOTEM">Destroy Totem</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_TOTEM">摧毁图腾</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_58">Pan's Flute</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_60">Hidden Passage - Placeholder Rune</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_61">Hidden Passage - Placeholder Rune</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_64">John Jr's Frog</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_1">Snuff</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_2">Dispel Magic</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_2">驱散魔法</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_3">Snuff</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_4">Fix Gears</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_5">Collect Fire</Entry>
@@ -2349,40 +2349,40 @@ VOTED</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_10">Snuff</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_11">Snuff</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_BUTTON_12">DEPRECATED - Summon Boat</Entry>-->
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_13">Call Town Meeting</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_14">Collect Spellbook</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_15">Practice Shooting</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_16">Catch Fruit</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_17">Fix Water Flow</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_18">Chop Wood</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_13">发起小镇集会</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_14">收集魔法书</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_15">练习射击</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_16">接水果</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_17">修理水管</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_18">伐木</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_19">Draw Ritual Circle</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_20">Travel</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_21">Travel</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_23">Travel</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_24">Travel</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_25">Travel</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_26">Travel</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_27">Stop the Curse</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_28">Unlock Safe</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_30">Use Stairs</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_31">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_32">Customize</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_33">Use Telescope</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_34">Use Stairs</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_35">Use Stairs</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_36">Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_37">Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_38">Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_39">Dispel Magic</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_40">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_41">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_42">Use Ladder</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_43">Use Ladder</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_20">旅行</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_21">旅行</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_23">旅行</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_24">旅行</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_25">旅行</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_26">旅行</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_27">阻止诅咒</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_28">解锁保险箱</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_30">使用楼梯</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_31">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_32">自定义</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_33">使用望远镜</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_34">使用楼梯</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_35">使用楼梯</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_36">驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_37">驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_38">驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_39">驱散魔法</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_40">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_41">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_42">使用梯子</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_43">使用梯子</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_BUTTON_44">DEPRECATED - Use Boat</Entry><Entry key="GUI_GAME_INTERACTABLE_BUTTON_45">DEPRECATED - Use Boat</Entry>-->
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_54">Destroy Totem</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_56">Collect Dagger</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_57">Sabotage Drawbridge</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_TOTEM">Destroy Totem</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_54">摧毁图腾</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_56">收集匕首</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_57">破坏吊桥</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_TOTEM">摧毁图腾</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_58">Collect Flute</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_60">Hidden Passage</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_61">Hidden Passage</Entry>
@@ -2394,11 +2394,11 @@ VOTED</Entry>
     <Entry key="GUI_GAME_TOWN_BELL_REASON_4">You've called too many meetings this game!</Entry>
     <Entry key="GUI_GAME_TOWN_BELL_REASON_5">A meeting has been called too recently.</Entry>
     <Entry key="GUI_GAME_TOWN_BELL_REASON_6">A powerful spell prevents you from using the town bell .</Entry>
-    <Entry key="GUI_GAME_MINIGAME_TASK_COMPLETE">Quest Complete!</Entry>
+    <Entry key="GUI_GAME_MINIGAME_TASK_COMPLETE">任务完成！</Entry>
     <Entry key="GUI_GAME_MINIGAME_DISPEL_THE_MAGIC">Dispel the magic by matching 3 or more runes!</Entry>
     <Entry key="GUI_GAME_MINIGAME_MATCHES_REMAINING">Matches Remaining: %value%</Entry>
-    <Entry key="GUI_GAME_MINIGAME_SHOOT_THE_TARGETS">Shoot The Targets: %value1%/%value2%</Entry>
-    <Entry key="GUI_GAME_MINIGAME_BOOKCASE">Find the right book!</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SHOOT_THE_TARGETS">射击靶子：%value1%/%value2%</Entry>
+    <Entry key="GUI_GAME_MINIGAME_BOOKCASE">找到正确的书本！</Entry>
     <Entry key="GUI_GAME_MINIGAME_UNLOCK_SAFE">Move the top pick left or right and then click the bottom pick to try to unlock the safe.</Entry>
     <Entry key="GUI_GAME_MINIGAME_CHOP_WOOD">Chop the Log into Firewood. Hold your mouse button down and slowly drag your mouse as shown by the arrow:
 
@@ -2453,13 +2453,13 @@ Task Complete!</Entry>
     <Entry key="GUI_GAME_ICE_STORM_CLEANSED_NOTIFICATION">The Ice Storm has dissipated!</Entry>
     <Entry key="GUI_GAME_DISPLACE_NOTIFICATION">A spell has displaced you!</Entry>
     <Entry key="GUI_GAME_DISPLACE_TRAITOR_NOTIFICATION">A spell has displaced you and the Town!</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_BLOODMOON">Blood Moon</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_LOCKOUT">Summon Brambles</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_HEX">Curse</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_CONFUSE">Confuse</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_SEEINGDOUBLE">Seeing Double</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_ICESTORM">Ice Storm</Entry>
-    <Entry key="GUI_GAME_SPELL_NAME_DISPLACE">Displace</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_BLOODMOON">血月</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_LOCKOUT">召唤荆棘</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_HEX">诅咒</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_CONFUSE">晕头转向</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_SEEINGDOUBLE">幻象</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_ICESTORM">暴风雪</Entry>
+    <Entry key="GUI_GAME_SPELL_NAME_DISPLACE">移形换位</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_CHAPTER">The Necronomicon has granted you the power to cast spells in its defense.</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_BLOODMOON">Create a totem that summons the Blood Moon reducing vision radius of Town players.</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_LOCKOUT">Summon Brambles to block doorways and passages.</Entry>
