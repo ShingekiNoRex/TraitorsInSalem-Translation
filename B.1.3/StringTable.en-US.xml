@@ -45,6 +45,8 @@
     <Entry key="ITEM_5_6_BLURB">After many mutations the Plaguebearer's diseases have evolved into a Pestilence.</Entry>
     <Entry key="ITEM_5_7">Famine</Entry>
     <Entry key="ITEM_5_7_BLURB">Once a bright eyed Baker, now their hunger can never be satiated.</Entry>
+    <Entry key="ITEM_5_8">Anubis</Entry>
+    <Entry key="ITEM_5_8_BLURB">Place your heart on the golden scales, does it weigh more than the feather of truth?</Entry>
     <!--Accessories-->
     <!--
     <Entry key="ITEM_3_1">Accessory 0</Entry><Entry key="ITEM_3_1_BLURB">Accessory 0, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry><Entry key="ITEM_3_2">Accessory 1</Entry><Entry key="ITEM_3_2_BLURB">Accessory 1, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry>
@@ -314,6 +316,8 @@ Browser</Entry>
     <Entry key="GUI_CREATE_BUTTON_TOOLTIP">Create a new custom game</Entry>
     <Entry key="GUI_JOIN_RANDOM_CUSTOM_TOOLTIP">Quicly join a random custom game</Entry>
     <Entry key="GUI_CLASSIC_MODE_BANNER">Classic Mode</Entry>
+    <Entry key="GUI_CTF_BANNER">Capture The Flag</Entry>
+    <Entry key="GUI_TUTORIAL_BANNER">Tutorial</Entry>
     <Entry key="GUI_GAME_BROWSER_TITLE">Game Browser</Entry>
     <Entry key="GUI_GAME_BROWSER_BUTTON">Game Browser</Entry>
     <Entry key="GUI_GAME_BROWSER_BUTTON_TOOLTIP">Browse games</Entry>
@@ -364,7 +368,7 @@ Browser</Entry>
     <!--ROLES_DO_NOT_MATCH_PLAYERS = 3, -->
     <Entry key="GUI_GAME_START_REASON_3">The number of players does not match the number of selected roles.</Entry>
     <!--NOT_ENOUGH_PLAYERS = 4, -->
-    <Entry key="GUI_GAME_START_REASON_4">You must have atleast 5 players to start a game</Entry>
+    <Entry key="GUI_GAME_START_REASON_4">You must have at least %num% players to start a game</Entry>
     <!--MISSING_BOTH_FACTIONS = 5, -->
     <Entry key="GUI_GAME_START_REASON_5">The role list must contain both Town and Traitor roles.</Entry>
     <!--MISSING_TOWN_FACTION = 6, -->
@@ -380,7 +384,7 @@ Browser</Entry>
     <!--NONE = 0, -->
     <Entry key="GUI_GAME_CANT_PUBLIC_REASON_0">Error: Divide by cucumber.</Entry>
     <!--NOT_ENOUGH_ROLES = 1, -->
-    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_1">The role list must contain a minimum of 5 roles.</Entry>
+    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_1">The role list must contain a minimum of %num% roles.</Entry>
     <!--TOO_MANY_ANY_ROLES = 2, -->
     <Entry key="GUI_GAME_CANT_PUBLIC_REASON_2">The role list cannot contain more than 3 Any roles.</Entry>
     <!--MISSING_BOTH_FACTIONS = 3, -->
@@ -758,9 +762,7 @@ No spaces or special characters are allowed.</Entry>
 
 You have been flagged for a mandatory account name change. Please change your account name.
     </Entry>
-    <Entry key="GUI_ACCOUNT_NAME_SUCCESSFULLY_CHANGED">'%name%' is your new account name.
-
-You will now need to use this name to log into the game.</Entry>
+    <Entry key="GUI_ACCOUNT_NAME_SUCCESSFULLY_CHANGED">'%name%' is your new account name.</Entry>
     <Entry key="GUI_ACCOUNT_NAME_NO_PURCHASE_OR_FLAG">Cannot change account name. You have not purchased an account name change and you have not been flagged for mandatory name change.</Entry>
     <Entry key="GUI_ACCOUNT_NAME_UNRECOGNIZED_RESPONSE">Cannot change account name. Unrecognized response received.</Entry>
     <Entry key="GUI_ACCOUNT_NAME_CHANGE_OK">Okay</Entry>
@@ -1012,7 +1014,7 @@ Please fill out the form completely.</Entry>
     <Entry key="GUI_ERROR_GAME_NOT_INITIALIZED">There was a problem initializing the game.</Entry>
     <Entry key="GUI_SUCCESS">Success</Entry>
     <Entry key="GUI_FAILURE">Failure</Entry>
-    <Entry key="MOD_1">Username or Account ID not found.</Entry>
+    <Entry key="MOD_1">Username not found.</Entry>
     <Entry key="MOD_2">Successfully banned user.</Entry>
     <Entry key="MOD_3">Invalid username.</Entry>
     <Entry key="MOD_4">Successfully suspended user.</Entry>
@@ -1039,6 +1041,8 @@ Please fill out the form completely.</Entry>
     <Entry key="MOD_28">Successful Global Message.</Entry>
     <Entry key="MOD_29">User is not online.</Entry>
     <Entry key="MOD_30">Successful Private Message.</Entry>
+    <Entry key="MOD_31">User has no achievements.</Entry>
+    <Entry key="MOD_32">AccountID not found.</Entry>
     <!--
     <Entry key="MOD_5">Moderator: {}</Entry><Entry key="MOD_6">Moderator has suspended {}.</Entry><Entry key="MOD_7">Moderator has banned {}.</Entry><Entry key="MOD_8">{}</Entry><Entry key="MOD_9">Moderator whispering: {}</Entry><Entry key="MOD_10">-AccountInfo-
 Username: {sUsername}
@@ -1803,7 +1807,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_DIALOG_27_2">Aha! I knew when I first laid eyes on you that you had a scoundrel spirit! Now, I will teach you the ways of the cat!</Entry>
     <!--No entry for Quest 30 as there is no dialog with NPC-->
     <Entry key="GUI_DIALOG_TITLE_32_0">Retrieve John Jr's Frog</Entry>
-    <Entry key="GUI_DIALOG_32_0">Well, that darn book has scared my magic frog off. I reckon he's over yonder on the other side of the barnyard. If'n you bring him back to me, I'll get my frog to fix up your eyesight better.</Entry>
+    <Entry key="GUI_DIALOG_32_0">Well, that darn book has scared my magic frog off. I reckon he's over yonder on the other side of the corral. If'n you bring him back to me, I'll get my frog to fix up your eyesight better.</Entry>
     <Entry key="GUI_DIALOG_TITLE_32_2">John Jr's Frog Retrieved!</Entry>
     <Entry key="GUI_DIALOG_32_2">Thanks for findin' my frog! Froggy, kindly fix up my buddy here with some good eyesight!</Entry>
     <Entry key="GUI_QUEST_TASK_1_0">Speak with Jacqueline in the Tavern</Entry>
@@ -1867,8 +1871,9 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_31_0">Destroy the Blood Totem at the Farm!</Entry>
     <Entry key="GUI_QUEST_TASK_31_0_EVIL">The Town will try to stop the Blood Moon at the Farm</Entry>
     <Entry key="GUI_QUEST_TASK_32_0">Find and speak with John Jr at the Farm</Entry>
-    <Entry key="GUI_QUEST_TASK_32_1">Open the barnyard gate and find the frog</Entry>
+    <Entry key="GUI_QUEST_TASK_32_1">Open the corral gate and find the frog</Entry>
     <Entry key="GUI_QUEST_TASK_32_2">Return the frog to John Jr</Entry>
+    <Entry key="GUI_QUEST_PROGRESS_TOOLTIP">Quest Completion Progress</Entry>
     <Entry key="GUI_QUEST_TASK_1_TOOLTIP_TITLE">Collect Fruit</Entry>
     <Entry key="GUI_QUEST_TASK_2_TOOLTIP_TITLE">Fix Drawbridge Gears</Entry>
     <Entry key="GUI_QUEST_TASK_3_TOOLTIP_TITLE">Have Your Fortune Told</Entry>
@@ -1931,7 +1936,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_30_TOOLTIP">Sabotage the gears on the drawbridge to leave it raised. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP">Get to the Blood Totem at the Farm as fast in order to get your vision back. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP_EVIL">The Town will try to stop the Blood Moon at the Farm. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TASK_32_TOOLTIP">John Jr has given you a quest to collect his frog at the Barnyard. Beware the farm animals milling about the yard. Once you have the frog, bring it back to John Jr. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
+    <Entry key="GUI_QUEST_TASK_32_TOOLTIP">John Jr has given you a quest to collect his frog at the Corral. Beware the farm animals milling about. Once you have the frog, bring it back to John Jr. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE">Complete Quests to help stop Evil</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_TITLE">Complete Quests to Banish the Necronomicon</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_DESC">The Town can complete quests to help banish the Necronomicon. Once enough tasks have been completed, the Old Priest can perform a ritual that will forever rid the town of the wretched book!</Entry>
@@ -2081,7 +2086,7 @@ VOTED</Entry>
 •If your target is hanged, then one player who didn't vote innocent will die, and you can choose another target. If your target is killed by a player, then you can select a new target. 
 •You win when all the Town members have died! </Entry>
     <Entry key="GUI_ROLE_DESC_ARSONIST">•Use your kill button to kill the highlighted player.
-•The bodies of players killed by you disappear after a period of time.
+•Use your immolate ability to burn corpses causing them to disappear after a short delay.
 •You win when all the Town members have died! </Entry>
     <Entry key="GUI_ROLE_DESC_PSYCHIC">•You will be told when a player dies anywhere on the map.
 •Work with the other Town members to rid the town of evil.
@@ -2099,8 +2104,7 @@ VOTED</Entry>
     <Entry key="GUI_ROLE_DESC_INQUISITOR">•Use your kill button to kill the highlighted player.
 •Use your ability button to discover a player's role for all Traitors.
 •You win when all the Town members have died! </Entry>
-    <Entry key="GUI_ROLE_DESC_POISONER">•Use your kill button to kill the highlighted player.
-•Use your ability button to poison the highlighted player causing them to die after a period of time.
+    <Entry key="GUI_ROLE_DESC_POISONER">•Use your ability button to poison the highlighted player causing them to die after a period of time.
 •You win when all the Town members have died!</Entry>
     <Entry key="GUI_ROLE_DESC_VETERAN">•Use your ability button to enter a state of high alert and counter attack anyone who tries to attack you for a period of time.
 •Work with the other Town members to rid the town of evil.
@@ -2237,7 +2241,8 @@ VOTED</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL">%name% has called a Town meeting.</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL_ANON">A Town meeting has been called.</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BELL_YOU">You called a town meeting.</Entry>
-    <Entry key="GUI_GAME_CALLED_TOWN_MEETING_TOOLTIP">This person called the Town meeting.</Entry>
+    <Entry key="GUI_GAME_CALLED_TOWN_MEETING_TOOLTIP">This person called the Town meeting</Entry>
+    <Entry key="GUI_GAME_DISCUSSION_GAVEL_TOOLTIP">This person has voted</Entry>
     <Entry key="GUI_GAME_USE_USE">Use</Entry>
     <Entry key="GUI_GAME_USE_CUSTOMIZE">Customize</Entry>
     <Entry key="GUI_GAME_USE_DESCEND">Descend</Entry>
@@ -2671,7 +2676,45 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>4/27/2022</b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>5/2/2022</b>
+
+• Added Anubis skin.
+• Added dead text chat during roaming phase.
+• Added new results phase for a transition overlay.
+• Prosecutors are now allowed to voice chat during prosecutions.
+• Added Prosecutor voice bubble during prosecution.
+• All players can now voice chat during an innocent vote announcement and while returning to roaming phase.
+• Settings: Fixed the mute buttons for My Voice and Other Voices so they each mute the proper item.
+• Settings: My Voice slider can now go up to 200%.
+• Role reveal screen animation fixed to go completely black at end.
+• Matte painting at top of map adjusted so it is not visible when in caves as a lookout/ghost.
+• Fixed being able to see the Gallows outside when player is inside a structure.
+• Seer ability uses reduced from 3 to 2.
+• Increased default discussion time by 15 seconds(25%).
+• Reduced the transition time from winning by hanging screen to victory screen.
+• Jester base kill ability increased from 45s to 60s to incentivize Jester to push towards being lynched to unlock their power.
+• Fixed a bug where the Jester possession cooldown was 15 seconds shorter than it should have been after being hanged.
+• Added a host option to allow a tuneable number of trials per discussion period.
+• Traitor ghosts are now visible on the Traitor Victory screen.
+• Transitions (moving from interior to exterior, ladders, etc.) and Teleporters can no longer interrupt the Displace spell.
+• On a classic game, if 2 out of 6 players vote to start, then 3 players leave, the game will no longer autostart. The minimum number of players is now enforced in this scenario.
+• You can no longer report bodies or use the town bell at exactly the same time as a prosecution starts.
+• Increased the starting speed of necro minions (they still ramp up speed over time).
+• Fixed an issue that could cause necro minions to get stuck (and potentially other NPCs).
+• Updated Arsonist role card to explicitly say use your ability to immolate bodies causing them to disappear, rather than implying that this happens automatically.
+• Updated the voice on/off icons.
+• Made large movement detected a bit harder to trigger.
+• Fixed an issue with tooltips occasionally leaving behind a very light shadow of themselves.
+• Added "Quest Completion Progress" tooltip to the progress bar in game.
+• Added "This person has voted" tooltip to the gavel on each player's list item in Discussion screen.
+• The successful username change confirmation message no longer states that you will need to login with the new username, as users don't login with usernames.
+• Fixed character popping between hanging and townies win screen.
+• Renamed Barnyard in all quest text to Corral.
+• Removed possibility of entering html in chat, game name, or lobby name.
+• Fixed an end game camera issue.
+• Fixed some map clipping issues.
+
+<align=center><b><size=110%>• • •</size></b></align><b>4/27/2022</b>
 
 • Many performance improvements.
 • Increased veteran alert duration from 5s to 10s
