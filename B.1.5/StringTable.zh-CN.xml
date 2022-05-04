@@ -293,7 +293,7 @@ Please choose another.</Entry>
     <Entry key="GUI_ACHIEVEMENT_BROWSER_TOOLTIP">成就浏览器</Entry>
     <Entry key="GUI_SETTINGS">设置</Entry>
     <Entry key="GUI_SETTINGS_TOOLTIP">打开设置</Entry>
-    <Entry key="GUI_SETTINGS_QUALITY">画质</Entry>
+    <Entry key="GUI_SETTINGS_QUALITY">品质</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS">显示FPS</Entry>
     <Entry key="GUI_SETTINGS_TOGGLE_FPS_TOOLTIP">Turn the display of Frames Per Second on or off</Entry>
     <Entry key="GUI_SETTINGS_FPS_PENDING">FPS pending...</Entry>
@@ -1119,36 +1119,36 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_EXECUTIONER_DOOM">处刑人诅咒了 %name%。</Entry>
     <Entry key="GUI_GAME_EXECUTIONER_DOOM_ME">处刑人诅咒了你。</Entry>
     <Entry key="GUI_GAME_EXE_DIED_IN_VICTORY">The Executioner, %name%, returns to the underworld victorious!</Entry>
-    <Entry key="GUI_GAME_EXE_TARGET_DIED">%name% has died to the Executioner's doom!</Entry>
-    <Entry key="GUI_GAME_EXE_TARGET_DIED_ME">You have died to the Executioner's doom!</Entry>
-    <Entry key="GUI_GAME_JESTER_DOOM">The Jester has doomed %name%.</Entry>
-    <Entry key="GUI_GAME_JESTER_DOOM_ME">The Jester has doomed you.</Entry>
-    <Entry key="GUI_GAME_YOU_ARE_POSSESSED">You are possessed!</Entry>
-    <Entry key="GUI_GAME_JESTER_TARGET_DIED">%name% has died to the Jester's doom!</Entry>
-    <Entry key="GUI_GAME_JESTER_TARGET_DIED_ME">You have died to the Jester's doom!</Entry>
-    <Entry key="GUI_GAME_DIED_OF_DOOM">%name% has died of doom!</Entry>
-    <Entry key="GUI_GAME_DIED_OF_DOOM_ME">You have died of doom!</Entry>
-    <Entry key="GUI_GAME_DIED_OF_LEFT_GAME">%name% disconnected from life.</Entry>
-    <Entry key="GUI_GAME_JESTER_REVENGE">%name% was a Jester!
-They will have revenge from beyond the grave!</Entry>
-    <Entry key="GUI_GAME_PSYCHIC_INSIGHT">You sense that %name% has died!</Entry>
-    <Entry key="GUI_GAME_IS_A_TRAITOR">%name% was a Traitor!</Entry>
-    <Entry key="GUI_PLAYER_WAS_A_ROLE">%name% was a %role%.</Entry>
-    <Entry key="GUI_PLAYER_WAS_AN_ROLE">%name% was an %role%.</Entry>
-    <Entry key="GUI_PLAYER_WAS_A_CULTIST_ROLE">%name% was a Cultist %role%.</Entry>
-    <Entry key="GUI_PLAYER_ROLE_UNKNOWN">We were unable to determine %name%'s role.</Entry>
-    <Entry key="GUI_GAME_IS_NOW_DEAD">%name% is now dead.</Entry>
-    <Entry key="GUI_GAME_NAME_HAS_DIED">%name% has died!</Entry>
-    <Entry key="GUI_GAME_CONVERTED_TO_CULT">You have been converted to a Cult Member!</Entry>
-    <Entry key="GUI_ROLE_DESC_CULT_MEMBER"> (cult member)</Entry>
+    <Entry key="GUI_GAME_EXE_TARGET_DIED">%name% 死于处刑人的诅咒！</Entry>
+    <Entry key="GUI_GAME_EXE_TARGET_DIED_ME">你死于处刑人的诅咒！</Entry>
+    <Entry key="GUI_GAME_JESTER_DOOM">小丑诅咒了 %name%。</Entry>
+    <Entry key="GUI_GAME_JESTER_DOOM_ME">你被小丑诅咒了。</Entry>
+    <Entry key="GUI_GAME_YOU_ARE_POSSESSED">你被占据了身体！</Entry>
+    <Entry key="GUI_GAME_JESTER_TARGET_DIED">%name% 死于小丑的诅咒！</Entry>
+    <Entry key="GUI_GAME_JESTER_TARGET_DIED_ME">你死于小丑的诅咒！</Entry>
+    <Entry key="GUI_GAME_DIED_OF_DOOM">%name% 死于诅咒！</Entry>
+    <Entry key="GUI_GAME_DIED_OF_DOOM_ME">你死于诅咒！</Entry>
+    <Entry key="GUI_GAME_DIED_OF_LEFT_GAME">%name% 从人生中掉线了。</Entry>
+    <Entry key="GUI_GAME_JESTER_REVENGE">%name% 是一个小丑！
+他会从墓地里爬出来复仇！</Entry>
+    <Entry key="GUI_GAME_PSYCHIC_INSIGHT">你感觉到 %name% 死亡了！</Entry>
+    <Entry key="GUI_GAME_IS_A_TRAITOR">%name% 是一个叛徒！</Entry>
+    <Entry key="GUI_PLAYER_WAS_A_ROLE">%name% 的身份是 %role%。</Entry>
+    <Entry key="GUI_PLAYER_WAS_AN_ROLE">%name% 的身份是 %role%。</Entry>
+    <Entry key="GUI_PLAYER_WAS_A_CULTIST_ROLE">%name% 是一个邪教 %role%。</Entry>
+    <Entry key="GUI_PLAYER_ROLE_UNKNOWN">我们无法确定 %name% 的身份。</Entry>
+    <Entry key="GUI_GAME_IS_NOW_DEAD">%name% 现在死了。</Entry>
+    <Entry key="GUI_GAME_NAME_HAS_DIED">%name% 死了！</Entry>
+    <Entry key="GUI_GAME_CONVERTED_TO_CULT">你被转化成了邪教成员！</Entry>
+    <Entry key="GUI_ROLE_DESC_CULT_MEMBER">（邪教成员）</Entry>
     <Entry key="GUI_GRAVEYARD_DAY_DIED">Day died</Entry>
     <Entry key="GUI_GRAVEYARD_NIGHT_DIED">Night died</Entry>
-    <Entry key="GUI_GRAVEYARD_CAUSE_OF_DEATH">Cause of Death:</Entry>
-    <Entry key="GUI_GRAVEYARD_DIED_AT">Died at: %location%</Entry>
-    <Entry key="GUI_GRAVEYARD_DOOM_CAUSE">Doomed</Entry>
-    <Entry key="GUI_GRAVEYARD_DISCONNECTED_CAUSE">Disconnected</Entry>
-    <Entry key="GUI_GRAVEYARD_EXECUTED_CAUSE">Executed</Entry>
-    <Entry key="GUI_GRAVEYARD_GUILT_CAUSE">Guilt</Entry>
+    <Entry key="GUI_GRAVEYARD_CAUSE_OF_DEATH">死因：</Entry>
+    <Entry key="GUI_GRAVEYARD_DIED_AT">死于：%location%</Entry>
+    <Entry key="GUI_GRAVEYARD_DOOM_CAUSE">被诅咒</Entry>
+    <Entry key="GUI_GRAVEYARD_DISCONNECTED_CAUSE">掉线</Entry>
+    <Entry key="GUI_GRAVEYARD_EXECUTED_CAUSE">处刑</Entry>
+    <Entry key="GUI_GRAVEYARD_GUILT_CAUSE">愧疚</Entry>
     <Entry key="GUI_DISCUSSION_PHASE">Discuss!</Entry>
     <Entry key="GUI_BIG_ZINGER_0">%killer% 杀死了 %victim%！</Entry>
     <Entry key="GUI_BIG_ZINGER_1">%victim% 被 %killer% 杀死了！</Entry>
@@ -1427,182 +1427,182 @@ They will have revenge from beyond the grave!</Entry>
     <!--KNIGHTED-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_36">%target% 被封爵了！</Entry>
     <!--KNIGHTED-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_0_OFF">Your illusion has evaporated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_0_OFF">你的幻象消逝了。</Entry>
     <!--CREATE_ILLUSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_0_OFF">%source%'s illusion has evaporated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_0_OFF">%source% 的幻象消逝了。</Entry>
     <!--CREATE_ILLUSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_1_OFF">Your illusion has been killed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_1_OFF">你的幻象被杀死了。</Entry>
     <!--CREATE_ILLUSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_1_OFF">%source%'s illusion was killed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_1_OFF">%source% 的幻象被杀死了。</Entry>
     <!--CREATE_ILLUSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_2_ON">You created an illusion of %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_2_ON">你创造了一个 %target% 的幻象。</Entry>
     <!--CREATE_ILLUSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_2_ON">%source% created an illusion of %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_2_ON">%source% 创造了一个 %target% 的幻象。</Entry>
     <!--CREATE_ILLUSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_38_ME">You converted %target% to a Cult Member!</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_38_ME">你将 %target% 转化成了一名邪教成员！</Entry>
     <!--CULT_CONVERT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_38">%source% converted %target% to a Cult Member!</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_38">%source% 将 %target% 转化成了一名邪教成员！</Entry>
     <!--CULT_CONVERT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_39_ME">You killed %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_39_ME">你杀死了 %target%。</Entry>
     <!--CULT_MEMBER-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_39">Cultist %source% killed %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_39">邪教徒 %source% 杀死了 %target%。</Entry>
     <!--CULT_MEMBER-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_ME_1_ON">You have cast the Blood Moon spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_ME_1_ON">你施放了血月法术。</Entry>
     <!--SPELL_BLOOD_MOON-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_1_ON">%source% has cast the Blood Moon spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_1_ON">%source% 施放了血月法术。</Entry>
     <!--SPELL_BLOOD_MOON-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_0_ON">A Traitor has cast the Blood Moon spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_0_ON">一名叛徒施放了血月法术。</Entry>
     <!--SPELL_BLOOD_MOON-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_0_OFF">The Blood Moon spell has dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_40_0_OFF">血月法术已被驱散。</Entry>
     <!--SPELL_BLOOD_MOON-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_ME_1_ON">You have cast the Summon Brambles spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_ME_1_ON">你施放了召唤荆棘法术。</Entry>
     <!--SPELL_LOCKOUT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_1_ON">%source% has cast the Summon Brambles spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_1_ON">%source% 施放了召唤荆棘法术。</Entry>
     <!--SPELL_LOCKOUT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_0_ON">A Traitor has summoned obstacles to block your path.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_0_ON">一名叛徒施放了召唤荆棘法术，阻挡了你的去路。</Entry>
     <!--SPELL_LOCKOUT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_0_OFF">The summoned obstacles have dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_41_0_OFF">被召唤的障碍物已消散。</Entry>
     <!--SPELL_LOCKOUT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_ME_1_ON">You have cast the Curse spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_ME_1_ON">你施放了诅咒法术。</Entry>
     <!--SPELL_HEX-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_1_ON">%source% has cast the Curse spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_1_ON">%source% 施放了诅咒法术。</Entry>
     <!--SPELL_HEX-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_0_ON">A Traitor has cast the Curse spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_0_ON">一名叛徒施放了诅咒法术。</Entry>
     <!--SPELL_HEX-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_0_OFF">The Curse spell has dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_42_0_OFF">诅咒法术已被驱散。</Entry>
     <!--SPELL_HEX-->
     <!--<Entry key="GUI_CHAT_LOG_ABILITY_MSG_43_ME">unneeded</Entry>-->
     <!--DEFECTOR-->
     <!--<Entry key="GUI_CHAT_LOG_ABILITY_MSG_43">unneeded</Entry>-->
     <!--DEFECTOR-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_44_ME">You chose %target% as your execution target.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_44_ME">你选择 %target% 作为你的处刑目标。</Entry>
     <!--CHOOSE_EXE_TARGET-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_44">%source% chose %target% as their execution target.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_44">%source% 选择 %target% 作为其处刑目标。</Entry>
     <!--CHOOSE_EXE_TARGET-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_ME_0_ON">You have possessed %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_ME_0_ON">你占据了 %target% 的身体。</Entry>
     <!--JESTER_POSESSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_0_ON">%source% has possessed %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_0_ON">%source% 占据了 %target% 的身体。</Entry>
     <!--JESTER_POSESSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_1_ON">You are possessed by the Jester.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_1_ON">你被小丑占据了身体。</Entry>
     <!--JESTER_POSESSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_ME_0_OFF">You are no longer possessing %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_ME_0_OFF">你不再占据 %target% 的身体。</Entry>
     <!--JESTER_POSESSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_0_OFF">%source% no longer possesses %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_0_OFF">%source% 不再占据 %target% 的身体。</Entry>
     <!--JESTER_POSESSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_1_OFF">You are no longer possessed by the Jester.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_45_1_OFF">你不再被小丑占据身体。</Entry>
     <!--JESTER_POSESSION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_46_2">The Executioner has doomed %target% to die.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_46_2">处刑人诅咒了 %target% 去死。</Entry>
     <!--TRIAL_DOOM-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_46_4">The Jester has doomed %target% to die.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_46_4">小丑诅咒了 %target% 去死。</Entry>
     <!--TRIAL_DOOM-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_ME_0">You shot %target%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_ME_0">你开枪朝 %target% 射击。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_0">You were killed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_0">你被杀害了。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_1">You were killed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_1">你被杀害了。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_2">%target% was killed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_2">%target% 被杀害了。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_3">You shot an evil Minion.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_3">你射杀了一个邪恶的随从。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_4">You shot an Illusion.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_4">你射杀了一个幻象。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_5">Your evil Minion was destroyed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_5">你邪恶的随从被消灭了。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_6">An evil Minion was destroyed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_6">一个邪恶的随从被消灭了。</Entry>
     <!--VIGILANTE_KILL-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_7">An Illusion was destroyed.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_47_7">一个幻象被消灭了。</Entry>
     <!--VIGILANTE_KILL-->
     <!--NO EVIL VERSION OF MESSAGE 47 BECAUSE VIGILANTE KILL ABILITY GETS REPLACED BY REGULAR TRAITOR KILL ABILITY-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_ME_1_ON">You have cast the Confusion spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_ME_1_ON">你施放了晕头转向法术。</Entry>
     <!--SPELL_CONFUSE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_1_ON">%source% has cast the Confusion spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_1_ON">%source% 施放了晕头转向法术。</Entry>
     <!--SPELL_CONFUSE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_0_ON">A Traitor has cast the Confusion spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_0_ON">一名叛徒施放了晕头转向法术。</Entry>
     <!--SPELL_CONFUSE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_0_OFF">The Confusion spell has dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_48_0_OFF">晕头转向法术消散了。</Entry>
     <!--SPELL_CONFUSE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_ME_1_ON">You have cast the Seeing Double spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_ME_1_ON">你施放了幻象法术。</Entry>
     <!--SPELL_SEEING_DOUBLE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_1_ON">%source% has cast the Seeing Double spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_1_ON">%source% 施放了幻象法术。</Entry>
     <!--SPELL_SEEING_DOUBLE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_0_ON">A Traitor has cast the Seeing Double spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_0_ON">一名叛徒施放了幻象法术。</Entry>
     <!--SPELL_SEEING_DOUBLE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_0_OFF">The Seeing Double spell has dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_49_0_OFF">幻象法术消散了。</Entry>
     <!--SPELL_SEEING_DOUBLE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_ME_1_ON">You have cast the Ice Storm spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_ME_1_ON">你施放了暴风雪法术。</Entry>
     <!--SPELL_ICE_STORM-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_1_ON">%source% has cast the Ice Storm spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_1_ON">%source% 施放了暴风雪法术。</Entry>
     <!--SPELL_ICE_STORM-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_0_ON">A Traitor has cast the Ice Storm spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_0_ON">一名叛徒施放了暴风雪法术。</Entry>
     <!--SPELL_ICE_STORM-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_0_OFF">The Ice Storm spell has dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_50_0_OFF">暴风雪法术消散了。</Entry>
     <!--SPELL_ICE_STORM-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_ME_1_ON">You have cast the Displace spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_ME_1_ON">你施放了移形换位法术。</Entry>
     <!--SPELL_DISPLACE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_1_ON">%source% has cast the Displace spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_1_ON">%source% 施放了移形换位法术。</Entry>
     <!--SPELL_DISPLACE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_0_ON">A Traitor has cast the Displace spell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_0_ON">一名叛徒施放了移形换位法术。</Entry>
     <!--SPELL_DISPLACE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_0_OFF">The Displace spell has dissipated.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_51_0_OFF">移形换位法术消散了。</Entry>
     <!--SPELL_DISPLACE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_ME_FALSE">Your coroner check revealed that %target% did not kill %victim%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_ME_FALSE">你的验尸结果表明 %target% 没有杀害 %victim%。</Entry>
     <!--CORONER_CHECK-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_ME_TRUE">Your coroner check revealed that %target% killed %victim%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_ME_TRUE">你的验尸结果表明 %target% 杀害了 %victim%。</Entry>
     <!--CORONER_CHECK-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_FALSE">%source%'s coroner check revealed that %target% did not kill %victim%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_FALSE">%source% 的验尸结果表明 %target% 没有杀害 %victim%。</Entry>
     <!--CORONER_CHECK-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_TRUE">%source%'s coroner check revealed that %target% killed %victim%.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_52_TRUE">%source% 的验尸结果表明 %target% 杀害了 %victim%。</Entry>
     <!--CORONER_CHECK-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_53">You feel a sense of doom!</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_53">你感觉自己的大限已至！</Entry>
     <!--DOOMED-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_ME_0">You feel like you recover more quickly after using an ability.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_ME_0">你感觉自己使用能力以后恢复的速度更快了。</Entry>
     <!--COOLDOWN_REDUCER-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_0">%source% feels like they can recover more quickly after using an ability.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_0">%source% 感觉自己使用能力以后恢复的速度更快了。</Entry>
     <!--COOLDOWN_REDUCER-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_ME_1">You feel like you can recover even more quickly after using an ability.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_ME_1">你感觉自己使用能力以后恢复的速度更快了。</Entry>
     <!--COOLDOWN_REDUCER-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_1">%source% feels like they can recover even more quickly after using an ability.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_55_1">%source% 感觉自己使用能力以后恢复的速度更快了。</Entry>
     <!--COOLDOWN_REDUCER-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_ME_0">SPEED BOOST! You feel like can move faster than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_ME_0">加速！你感觉自己移动的更快了。</Entry>
     <!--SPEED_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_0">%source% feels like they can move faster than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_0">%source% 感觉自己移动的更快了。</Entry>
     <!--SPEED_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_ME_1">SPEED BOOST! You feel like you can move much faster than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_ME_1">加速！你感觉自己移动的更快了</Entry>
     <!--SPEED_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_1">%source% feels like they can move much faster than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_56_1">%source% 感觉自己移动的更快了。</Entry>
     <!--SPEED_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_57_ME_0">EXTRA TOWN BELL USE! You know a trick to use the bell an extra time.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_57_ME_0">额外的敲钟机会！你学会了如何额外敲钟的小技巧。</Entry>
     <!--EXTRA_TOWN_BELL_USE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_57_0">%source% learned a trick to give them an extra use of the Town Bell.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_57_0">%source% 学会了如何额外敲钟的小技巧。</Entry>
     <!--EXTRA_TOWN_BELL_USE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_57_ME_1">EXTRA TOWN BELL USE! You know a trick to use the bell another extra time.</Entry>
     <!--EXTRA_TOWN_BELL_USE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_57_1">%source% learned a trick to give them another extra use of the Town Bell.</Entry>
     <!--EXTRA_TOWN_BELL_USE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_ME_0">You feel invincible! You will survive the next attempt to kill you, unless you're hanged.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_ME_0">你感觉自己是无敌的！你会从别人的下一次杀手中活下来，除非你被吊死。</Entry>
     <!--SELF-PROTECTION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_0">%source% feels invincible! They will survive the next attempt on their life unless they're hanged.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_0">%source% 感觉自己是无敌的！他会从别人的下一次杀手中活下来，除非他被吊死。</Entry>
     <!--SELF-PROTECTION-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_ME_1">You feel even more invincible! You will survive the next couple of attempts to kill you, unless you're hanged.</Entry>
     <!--SELF-PROTECTION-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_1">%source% feels even more invincible. They will survive the next couple of attempts on their life, unless they're hanged.</Entry>
     <!--SELF-PROTECTION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_2">Someone tried to kill you but your protective vest saved you.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_2">有人试着杀死你，但你的护盾救了你一命。</Entry>
     <!--SELF-PROTECTION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_3">You tried to kill %target% but their protective vest saved them.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_3">你试着杀死 %target%，但他的护盾救了他一命。</Entry>
     <!--SELF-PROTECTION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_4">%source% tried to kill %target% but their protective vest saved them.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_4">%source% 试着杀死 %target%，但他的护盾救了他一命。</Entry>
     <!--SELF-PROTECTION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_5">Someone tried to kill %target% but their protective vest saved them.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_58_5">有人试着杀死 %target%，但他的护盾救了他一命。</Entry>
     <!--SELF-PROTECTION-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_ME_0">VISION BOOST! You feel like can see farther than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_ME_0">鹰眼！你感觉自己能比之前看的更远了。</Entry>
     <!--VISION_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_0">%source% feels like they can see farther than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_0">%source% 感觉自己能比之前看的更远了。</Entry>
     <!--VISION_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_ME_1">VISION BOOST! You feel like you can see much farther than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_ME_1">鹰眼！你感觉自己能比之前看的更远了。</Entry>
     <!--VISION_BOOST-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_1">%source% feels like they can see much farther than before.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_1">%source% 感觉自己能比之前看的更远了。</Entry>
     <!--VISION_BOOST-->
     <Entry key="GUI_CHAT_LOG_MINION">minion</Entry>
     <Entry key="GUI_CHAT_LOG_UNKNOWN">unknown</Entry>
@@ -1683,9 +1683,9 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_DEFENSE">%name%，你如何为自己辩护？</Entry>
     <Entry key="GUI_GAME_YOUR_TRIAL_IS_STARTING">%name%，对你的审判马上开始。</Entry>
     <Entry key="GUI_GAME_PHASE_UNHANDLED">%name%, phase unhandled (%phase%).</Entry>
-    <Entry key="GUI_GAME_PUT_SOMEONE_ON_TRIAL">Put someone on trial?</Entry>
-    <Entry key="GUI_GAME_VOTING_TITLE">What will your vote for %name% be?</Entry>
-    <Entry key="GUI_GAME_VOTING_ME_TITLE">The town is voting on the fate of %name%.</Entry>
+    <Entry key="GUI_GAME_PUT_SOMEONE_ON_TRIAL">将某人送上绞刑架？</Entry>
+    <Entry key="GUI_GAME_VOTING_TITLE">你将会为 %name% 投什么票？</Entry>
+    <Entry key="GUI_GAME_VOTING_ME_TITLE">小镇正在投票决定 %name% 的命运。</Entry>
     <Entry key="GUI_GAME_VOTED_INNOCENT_SINGLE">%name% 投了 
         <![CDATA[<b><color=#00FF92>]]>清白！
         <![CDATA[</color></b>]]>
@@ -1931,8 +1931,8 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP">Get to the Blood Totem at the Farm as fast in order to get your vision back. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP_EVIL">The Town will try to stop the Blood Moon at the Farm. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
     <Entry key="GUI_QUEST_TASK_32_TOOLTIP">John Jr has given you a quest to collect his frog at the Corral. Beware the farm animals milling about. Once you have the frog, bring it back to John Jr. Hint: Click this quest to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE">Complete Quests to help stop Evil</Entry>
-    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_TITLE">Complete Quests to Banish the Necronomicon</Entry>
+    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE">完成任务以帮助阻止邪恶</Entry>
+    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_TITLE">完成任务以放逐死灵之书</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_DESC">The Town can complete quests to help banish the Necronomicon. Once enough tasks have been completed, the Old Priest can perform a ritual that will forever rid the town of the wretched book!</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_DEAD">Follow people and enjoy being a ghost</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_DEAD_TITLE">You are a spirit!</Entry>
@@ -1943,11 +1943,11 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_DEAD">Follow people and enjoy being a ghost</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_DEAD_TITLE">Follow people and enjoy being a ghost</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_DEAD_DESC">(COMING SOON) Now that you're a ghost, you have access to spells that can help your faction.</Entry>
-    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE">Use the quest board to get more quests</Entry>
-    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE_TITLE">Use the Quest Board</Entry>
+    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE">使用小镇中心的任务板获取更多任务</Entry>
+    <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE_TITLE">使用任务板</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE_DESC">You are out of quests to complete. You can get new quests at the Quest Board. Hint: Click this item to give your character a reticle pointing the way.</Entry>
-    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">Kill Townies and cast spells</Entry>
-    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">Kill Townies and Cast Spells</Entry>
+    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">杀死镇民并施放法术</Entry>
+    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">杀死镇民并施放法术</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_DESC">You have no more quests to fake. Kill Townies and cast spells to cause havoc.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_1">Well done! You have collected enough fruit. Bring it to Jacqueline in the Tavern.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_2">Good job! The gears have been fixed and the drawbridge has been lowered.</Entry>
@@ -2287,25 +2287,25 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP">See someone hanged to choose your next victim.</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE">Execute %name% to doom a town member.</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE">See someone hung to choose your next victim.</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_1">Mansion - Torch</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_1">宅邸 - 火炬</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_2">小镇中心 - 驱散魔法</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_3">Farm - Torch</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_3">农场 - 火炬</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_4">Fix Gears - Placeholder Rune</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_5">Town Center - Torch</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_6">Mine - Torch</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_7">Farm - Torch 2</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_5">小镇中心 - 火炬</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_6">矿洞 - 火炬</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_7">农场 - 火炬 2</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_LABEL_8">DEPRECATED</Entry>-->
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_9">Tavern - Torch</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_10">Cave - Torch</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_11">Gardens - Torch</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_9">酒馆 - 火炬</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_10">洞穴 - 火炬</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_11">花园 - 火炬</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_LABEL_12">DEPRECATED</Entry>-->
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_13">Call Town Meeting</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_14">North Mansion - Torch</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_15">Garden - Shooting Range</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_16">Farm - Catch Fruit</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_17">Church - Water Flow</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_18">Clearing - Chop Wood</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_19">Cave - Draw Ritual Circle</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_13">发起小镇集会</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_14">宅邸北部 - 火炬</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_15">花园 - 靶场</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_16">农场 - 收集水果</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_17">教堂 - 水管</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_18">林中空地 - 砍柴</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_19">洞穴 - 绘制仪式魔法阵</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_20">传送</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_21">传送</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_23">传送</Entry>
@@ -2356,7 +2356,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_16">接水果</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_17">修理水管</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_18">伐木</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_19">画仪式魔法阵</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_BUTTON_19">绘制仪式魔法阵</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_20">旅行</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_21">旅行</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_23">旅行</Entry>
@@ -2406,7 +2406,7 @@ They will have revenge from beyond the grave!</Entry>
         <![CDATA[<b><color=#FFBE00>]]>已劈 %value1%/%value2% 下
         <![CDATA[</color></b>]]>
     </Entry>
-    <Entry key="GUI_GAME_MINIGAME_DRAW_LINES">在仪式魔法阵中画一个星！</Entry>
+    <Entry key="GUI_GAME_MINIGAME_DRAW_LINES">在仪式魔法阵中绘制一个星！</Entry>
     <Entry key="GUI_GAME_MINIGAME_LINES_REMAINING">剩余线条：%value%</Entry>
     <Entry key="GUI_GAME_MINIGAME_WATERFLOW_INSTRUCTIONS">通过修复水管来获得圣水！点击旋转水管，使其互相连接。</Entry>
     <Entry key="GUI_GAME_MINIGAME_WATERFLOW_TASK_COMPLETE">你得到了圣水！
@@ -2416,44 +2416,44 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_GAME_MINIGAME_DEMONDOG_INSTRUCTIONS">在地狱犬睡着时缓慢前进，在 %seconds% 秒内得到蕴魔长笛。</Entry>
     <Entry key="GUI_GAME_MINIGAME_DEMONDOG_ZINGER">地狱犬发现你了！快跑！！！</Entry>
     <Entry key="GUI_GAME_MINIGAME_FROGGER_INSTRUCTIONS">Weave through the animals in the corral without getting hit to reach the frog at the end. Seconds remaining: %seconds%</Entry>
-    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_0">Bingo!</Entry>
-    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_1">You are close now!</Entry>
-    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_2">You are a bit off.</Entry>
-    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_3">You are pretty far off.</Entry>
-    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_4">You are way off.</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_0">中了！</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_1">很接近了！</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_2">有点近了！</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_3">有点远了！</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_4">差得远了！</Entry>
     <Entry key="GUI_GAME_MINIGAME_WEAPON">点击武器将其放回原位。</Entry>
     <Entry key="GUI_GAME_MINIGAME_CLOCK">Set the time to %time%.</Entry>
-    <Entry key="GUI_GAME_POISONED_TARGET">You have poisoned %name%!</Entry>
-    <Entry key="GUI_GAME_MEDIUM_ABILITY_ACTIVATED">You have a short time to reveal the role of any living player to the town!</Entry>
-    <Entry key="GUI_GAME_INVSIBILITY_ABILITY_ENABLED">Your power of invisibility is available for activation for a short time!</Entry>
-    <Entry key="GUI_GAME_BLOODLUST_ABILITY_ACTIVATED">Bloodlust has been activated. You may kill again for a short period of time!</Entry>
-    <Entry key="GUI_GAME_TRACKER_ABILITY_ACTIVATED">You sense the trail of the killer. Follow your hound before the trail runs dry!</Entry>
-    <Entry key="GUI_GAME_AUTOPSY_PERFORMED">You have performed an autopsy on %name% and gained clues to who the killer may be.</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_BLOODMOON">Cast Blood Moon spell</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_LOCKOUT">Cast Summon Brambles spell</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_HEX">Cast Curse spell</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_CONFUSE">Cast Confuse spell</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_SEEING_DOUBLE">Cast Seeing Double spell</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_ICE_STORM">Cast Ice Storm spell</Entry>
-    <Entry key="GUI_GAME_CAST_SPELL_DISPLACE">Cast Displace spell</Entry>
-    <Entry key="GUI_GAME_BLOODMOON_NOTIFICATION">You feel the gloom of the Blood Moon.</Entry>
-    <Entry key="GUI_GAME_BLOODMOON_TRAITOR_NOTIFICATION">The Town feels the gloom of the Blood Moon.</Entry>
-    <Entry key="GUI_GAME_BLOODMOON_CLEANSED_NOTIFICATION">The Blood Moon has ended!</Entry>
-    <Entry key="GUI_GAME_LOCK_OUT_NOTIFICATION">A Traitor has conjured obstacles to block your path!</Entry>
-    <Entry key="GUI_GAME_LOCK_OUT_TRAITOR_NOTIFICATION">A Traitor has conjured obstacles to block the Town's path!</Entry>
-    <Entry key="GUI_GAME_HEX_NOTIFICATION">A deadly Curse has been cast upon the Town! Cleanse it within %time% seconds or die!</Entry>
-    <Entry key="GUI_GAME_HEX_TRAITOR_NOTIFICATION">A deadly Curse has been cast upon the Town! They have %time% seconds to cleanse it or they all die!</Entry>
-    <Entry key="GUI_GAME_HEX_SUCCEEDED_NOTIFICATION">The Curse has devastated the Town!</Entry>
-    <Entry key="GUI_GAME_HEX_CLEANSED_NOTIFICATION">The Curse was successfully cleansed!</Entry>
-    <Entry key="GUI_GAME_CONFUSE_NOTIFICATION">A spell confused your senses!</Entry>
-    <Entry key="GUI_GAME_CONFUSE_TRAITOR_NOTIFICATION">A spell has confused the Town's senses!</Entry>
-    <Entry key="GUI_GAME_SEEING_DOUBLE_NOTIFICATION">A Traitor has conjured illusions to trick you!</Entry>
-    <Entry key="GUI_GAME_SEEING_DOUBLE_TRAITOR_NOTIFICATION">A Traitor has conjured illusions to trick the Town!</Entry>
-    <Entry key="GUI_GAME_ICE_STORM_NOTIFICATION">A Traitor has conjured an Ice Storm to slow you!</Entry>
-    <Entry key="GUI_GAME_ICE_STORM_TRAITOR_NOTIFICATION">A Traitor has conjured an Ice Storm to slow both you and the Town!</Entry>
-    <Entry key="GUI_GAME_ICE_STORM_CLEANSED_NOTIFICATION">The Ice Storm has dissipated!</Entry>
-    <Entry key="GUI_GAME_DISPLACE_NOTIFICATION">A spell has displaced you!</Entry>
-    <Entry key="GUI_GAME_DISPLACE_TRAITOR_NOTIFICATION">A spell has displaced you and the Town!</Entry>
+    <Entry key="GUI_GAME_POISONED_TARGET">你对 %name% 下毒了！</Entry>
+    <Entry key="GUI_GAME_MEDIUM_ABILITY_ACTIVATED">你可以在短时间内向整个小镇展示一名活着的玩家的身份！</Entry>
+    <Entry key="GUI_GAME_INVSIBILITY_ABILITY_ENABLED">你现在可以在短时间内激活你的隐形能力！</Entry>
+    <Entry key="GUI_GAME_BLOODLUST_ABILITY_ACTIVATED">杀戮欲望已被激活。你现在可以在短时间内再杀一人！</Entry>
+    <Entry key="GUI_GAME_TRACKER_ABILITY_ACTIVATED">你发现了凶手的踪迹。在踪迹消失前跟着你的猎犬找到凶手！</Entry>
+    <Entry key="GUI_GAME_AUTOPSY_PERFORMED">你对 %name% 进行了尸检，现在有线索能帮助你找到杀手了。</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_BLOODMOON">施放血月法术</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_LOCKOUT">施放召唤荆棘法术</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_HEX">施放诅咒法术</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_CONFUSE">施放晕头转向法术</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_SEEING_DOUBLE">施放幻象法术</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_ICE_STORM">施放暴风雪法术</Entry>
+    <Entry key="GUI_GAME_CAST_SPELL_DISPLACE">施放移形换位法术</Entry>
+    <Entry key="GUI_GAME_BLOODMOON_NOTIFICATION">你感觉到血月笼罩了整个小镇。</Entry>
+    <Entry key="GUI_GAME_BLOODMOON_TRAITOR_NOTIFICATION">血月笼罩了整个小镇。</Entry>
+    <Entry key="GUI_GAME_BLOODMOON_CLEANSED_NOTIFICATION">血月结束了！</Entry>
+    <Entry key="GUI_GAME_LOCK_OUT_NOTIFICATION">一名叛徒召唤了障碍物来阻挡你的去路！</Entry>
+    <Entry key="GUI_GAME_LOCK_OUT_TRAITOR_NOTIFICATION">一名叛徒召唤了障碍物来阻挡小镇的去路！</Entry>
+    <Entry key="GUI_GAME_HEX_NOTIFICATION">某种致命的诅咒在小镇中蔓延！在 %time% 秒内净化诅咒，否则会死！</Entry>
+    <Entry key="GUI_GAME_HEX_TRAITOR_NOTIFICATION">某种致命的诅咒在小镇中蔓延！他们要在 %time% 秒内净化诅咒，否则会死！</Entry>
+    <Entry key="GUI_GAME_HEX_SUCCEEDED_NOTIFICATION">诅咒摧毁了小镇！</Entry>
+    <Entry key="GUI_GAME_HEX_CLEANSED_NOTIFICATION">诅咒被成功净化了！</Entry>
+    <Entry key="GUI_GAME_CONFUSE_NOTIFICATION">某种法术使你的感官产生混乱！</Entry>
+    <Entry key="GUI_GAME_CONFUSE_TRAITOR_NOTIFICATION">某种法术使镇民的感官产生混乱！</Entry>
+    <Entry key="GUI_GAME_SEEING_DOUBLE_NOTIFICATION">一名叛徒施展了幻象来耍你！</Entry>
+    <Entry key="GUI_GAME_SEEING_DOUBLE_TRAITOR_NOTIFICATION">一名叛徒施展了幻象来戏耍镇民！</Entry>
+    <Entry key="GUI_GAME_ICE_STORM_NOTIFICATION">一名叛徒施展了暴风雪来使你举步维艰！</Entry>
+    <Entry key="GUI_GAME_ICE_STORM_TRAITOR_NOTIFICATION">一名叛徒施展了暴风雪来使你和整个小镇举步维艰！</Entry>
+    <Entry key="GUI_GAME_ICE_STORM_CLEANSED_NOTIFICATION">暴风雪被驱散了！</Entry>
+    <Entry key="GUI_GAME_DISPLACE_NOTIFICATION">某种法术置换了你的位置！</Entry>
+    <Entry key="GUI_GAME_DISPLACE_TRAITOR_NOTIFICATION">某种法术置换了你和整个小镇的位置！</Entry>
     <Entry key="GUI_GAME_SPELL_NAME_BLOODMOON">血月</Entry>
     <Entry key="GUI_GAME_SPELL_NAME_LOCKOUT">召唤荆棘</Entry>
     <Entry key="GUI_GAME_SPELL_NAME_HEX">诅咒</Entry>
