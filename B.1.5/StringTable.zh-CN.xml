@@ -246,43 +246,43 @@ Please choose another.</Entry>
     <Entry key="GUI_HOME_PROFILE">个人资料</Entry>
     <Entry key="GUI_HOME_ACHIEVEMENTS">成就</Entry>
     <Entry key="GUI_LOADINGTIP_1">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Click a quest in the top left to point you to its location.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 点击左上角的任一任务可以指引你前往任务地点]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_2">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Change your name by clicking the paintbrush in the bottom left.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过点击左下角的画笔，你可以改变你的名字]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_3">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Mute a Player's voice/text in the player list in the bottom left.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过左下角的玩家列表，你可以静音/禁言其他玩家]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_4">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Click your lobby code to hide it.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 点击房间代码以隐藏它]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_5">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Change your character by clicking the paintbrush in the bottom left.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过点击左下角的画笔，你可以改变你的角色]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_6">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Open the spellbook at the bottom left as a Traitor to see what spells do.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 以叛徒身份游玩游戏时，通过打开左下角的法术书，你可以看到所有法术的效果]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_7">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Use the space bar to enable push to talk.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 使用空格启用按键说话]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_8">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> You can rebind your keys in the settings.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 你可以在设置里重新绑定按键]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_9">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> If your mic isn't working, make sure your default mic on your computer is set correctly.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 如果你的麦克风出了问题，请确保电脑的默认麦克风设置正确]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_10">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> You can ban a role from appearing in custom by right clicking it in the deck builder.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 你可以通过在身份构筑器右键你不想要的身份来禁止他出现在自定义游戏中]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_11">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Making changes to a custom game will make it private again.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 修改自定义游戏设置会让其重新变成私人大厅]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_12">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Completed all your quests? Use the quest board outside the tavern to get more.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 完成所有任务了吗？ 你可以使用小酒馆外面的任务板来接取更多任务]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_13">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> Change things like movement speed in the host options in the bottom left.]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 你可以通过左下角的创建大厅选项来改变一些设置，例如角色移动速度]]>
     </Entry>
     <Entry key="GUI_SOCIAL_MEDIA_FACEBOOK">Visit our Facebook page</Entry>
     <Entry key="GUI_SOCIAL_MEDIA_YOUTUBE">Visit our YouTube page</Entry>
@@ -1152,18 +1152,18 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_DISCUSSION_PHASE">Discuss!</Entry>
     <Entry key="GUI_BIG_ZINGER_0">%killer% 杀死了 %victim%！</Entry>
     <Entry key="GUI_BIG_ZINGER_1">%victim% 被 %killer% 杀死了！</Entry>
-    <Entry key="GUI_BIG_ZINGER_2">%killer% 享用了 %victim% 的头骨。</Entry>
-    <Entry key="GUI_BIG_ZINGER_3">%victim%’s heresy was halted by %killer%!</Entry>
-    <Entry key="GUI_BIG_ZINGER_4">%victim% was trounced by %killer%!</Entry>
-    <Entry key="GUI_BIG_ZINGER_5">%killer% was hellbent on %victim%’s plight.</Entry>
-    <Entry key="GUI_BIG_ZINGER_6">%victim% was shrouded in %killer%'s noxious fumes...</Entry>
-    <Entry key="GUI_BIG_ZINGER_7">%killer% sealed %victim% in sepulchral air.</Entry>
-    <Entry key="GUI_BIG_ZINGER_8">Woe is %victim%, defiled by %killer%...</Entry>
-    <Entry key="GUI_BIG_ZINGER_9">%victim% was vanquished by %killer%’s verdict!</Entry>
-    <Entry key="GUI_BIG_ZINGER_10">%killer% turned %victim%’s world all widdershins.</Entry>
-    <Entry key="GUI_BIG_ZINGER_11">%victim%’s toil was turned to trouble by %killer%.</Entry>
-    <Entry key="GUI_BIG_ZINGER_12">%victim%’s body was battered by %killer%!</Entry>
-    <Entry key="GUI_BIG_ZINGER_13">%killer% scorned %victim%!</Entry>
+    <Entry key="GUI_BIG_ZINGER_2">%killer% 享用了 %victim% 的头骨</Entry>
+    <Entry key="GUI_BIG_ZINGER_3">%victim% 的扭曲思想被 %killer% 终止了!</Entry>
+    <Entry key="GUI_BIG_ZINGER_4">%victim% 被 %killer% 痛殴了!</Entry>
+    <Entry key="GUI_BIG_ZINGER_5">%killer% 醉心于 %victim% 的痛苦</Entry>
+    <Entry key="GUI_BIG_ZINGER_6">%victim% 被 %killer% 的毒雾笼罩了...</Entry>
+    <Entry key="GUI_BIG_ZINGER_7">%killer% 把 %victim% 活埋了</Entry>
+    <Entry key="GUI_BIG_ZINGER_8">%victim% 的祸根已至, %killer% 玷污了他...</Entry>
+    <Entry key="GUI_BIG_ZINGER_9">%victim% 被 %killer% 的裁决钉死了!</Entry>
+    <Entry key="GUI_BIG_ZINGER_10">%killer% 让 %victim% 的世界颠倒坍塌了</Entry>
+    <Entry key="GUI_BIG_ZINGER_11">%victim% 的苦劳被 %killer% 变成天大的麻烦</Entry>
+    <Entry key="GUI_BIG_ZINGER_12">%victim% 的尸体被 %killer% 狠狠凌虐了!</Entry>
+    <Entry key="GUI_BIG_ZINGER_13">%killer% 唾弃 %victim%!</Entry>
     <Entry key="GUI_REPORT_BODY_ZINGER_0">%reporter% 发现了 %body% 的尸体！</Entry>
     <Entry key="GUI_REPORT_BODY_ZINGER_1">%reporter% 撞见了 %body% 的尸体！</Entry>
     <Entry key="GUI_REPORT_BODY_ZINGER_2">%reporter% 目击了 %body% 的尸体！</Entry>
