@@ -26,7 +26,7 @@ Please feel free to ask questions or submit pull requests.
 
 5. Launch game again then close
 
-6. Download `StringTable.{lang_code}.xml` in this repo (i.e. `StringTable.zh-CN.xml` for Simplified Chinese)
+6. Download `StringTable.{lang_code}.xml` from this repo (i.e. `StringTable.zh-CN.xml` for Simplified Chinese)
     * You can check language codes [here](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
 
 7. Put `StringTable.{lang_code}.xml` into `Traitors in Salem\TraitorsInSalem_Data\StreamingAssets\Translation\{game_version}\`
