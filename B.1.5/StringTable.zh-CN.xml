@@ -246,10 +246,10 @@ Please choose another.</Entry>
     <Entry key="GUI_HOME_PROFILE">个人资料</Entry>
     <Entry key="GUI_HOME_ACHIEVEMENTS">成就</Entry>
     <Entry key="GUI_LOADINGTIP_1">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> 点击左上角的任一任务可以指引你前往任务地点]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 点击左上角的任务可以指引你前往任务地点]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_2">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过点击左下角的画笔，你可以改变你的名字]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过点击左下角的刷子，可以改变你的名字]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_3">
         <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过左下角的玩家列表，你可以静音/禁言其他玩家]]>
@@ -258,10 +258,10 @@ Please choose another.</Entry>
         <![CDATA[<b><color=#FFBE00>提示：</color></b> 点击房间代码以隐藏它]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_5">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过点击左下角的画笔，你可以改变你的角色]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 通过点击左下角的刷子，你可以改变你的角色]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_6">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> 以叛徒身份游玩游戏时，通过打开左下角的法术书，你可以看到所有法术的效果]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 以叛徒身份游玩游戏时，通过打开左下角的法术书，可以看到所有法术的效果]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_7">
         <![CDATA[<b><color=#FFBE00>提示：</color></b> 使用空格启用按键说话]]>
@@ -279,7 +279,7 @@ Please choose another.</Entry>
         <![CDATA[<b><color=#FFBE00>提示：</color></b> 修改自定义游戏设置会让其重新变成私人大厅]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_12">
-        <![CDATA[<b><color=#FFBE00>提示：</color></b> 完成所有任务了吗？ 你可以使用小酒馆外面的任务板来接取更多任务]]>
+        <![CDATA[<b><color=#FFBE00>提示：</color></b> 完成所有任务了吗？你可以使用酒馆外面的任务板来接取更多任务]]>
     </Entry>
     <Entry key="GUI_LOADINGTIP_13">
         <![CDATA[<b><color=#FFBE00>提示：</color></b> 你可以通过左下角的创建大厅选项来改变一些设置，例如角色移动速度]]>
@@ -849,8 +849,8 @@ You have unlocked "%item%"!</Entry>
     <Entry key="GUI_MUSIC_ON">Music On</Entry>
     <Entry key="GUI_LEAVE_GAME">Leave Game</Entry>
     <Entry key="GUI_LEAVE_GAME_Q">Leave Game?</Entry>
-    <Entry key="GUI_LOGOUT">Logout</Entry>
-    <Entry key="GUI_LOGOUT_Q">Logout?</Entry>
+    <Entry key="GUI_LOGOUT">登出</Entry>
+    <Entry key="GUI_LOGOUT_Q">登出？</Entry>
     <Entry key="GUI_LOGOUT_TOOLTIP">Logout from the game</Entry>
     <Entry key="GUI_LOGOUT_MSG">Are you sure you want to logout?</Entry>
     <Entry key="GUI_EXCESSIVE_TRANSITION_TIME">This is taking longer than expected. You may continue to wait or click the Logout button.</Entry>
@@ -1155,13 +1155,13 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_BIG_ZINGER_2">%killer% 享用了 %victim% 的头骨</Entry>
     <Entry key="GUI_BIG_ZINGER_3">%victim% 的扭曲思想被 %killer% 终止了!</Entry>
     <Entry key="GUI_BIG_ZINGER_4">%victim% 被 %killer% 痛殴了!</Entry>
-    <Entry key="GUI_BIG_ZINGER_5">%killer% 醉心于 %victim% 的痛苦</Entry>
+    <Entry key="GUI_BIG_ZINGER_5">%killer% 沉醉于 %victim% 痛苦的表情。</Entry>
     <Entry key="GUI_BIG_ZINGER_6">%victim% 被 %killer% 的毒雾笼罩了...</Entry>
-    <Entry key="GUI_BIG_ZINGER_7">%killer% 把 %victim% 活埋了</Entry>
+    <Entry key="GUI_BIG_ZINGER_7">%killer% 把 %victim% 活埋了。</Entry>
     <Entry key="GUI_BIG_ZINGER_8">%victim% 的祸根已至, %killer% 玷污了他...</Entry>
     <Entry key="GUI_BIG_ZINGER_9">%victim% 被 %killer% 的裁决钉死了!</Entry>
-    <Entry key="GUI_BIG_ZINGER_10">%killer% 让 %victim% 的世界颠倒坍塌了</Entry>
-    <Entry key="GUI_BIG_ZINGER_11">%victim% 的苦劳被 %killer% 变成天大的麻烦</Entry>
+    <Entry key="GUI_BIG_ZINGER_10">%killer% 让 %victim% 的世界颠倒坍塌了。</Entry>
+    <Entry key="GUI_BIG_ZINGER_11">%victim% 在 %killer% 面前无谓挣扎。</Entry>
     <Entry key="GUI_BIG_ZINGER_12">%victim% 的尸体被 %killer% 狠狠凌虐了!</Entry>
     <Entry key="GUI_BIG_ZINGER_13">%killer% 唾弃 %victim%!</Entry>
     <Entry key="GUI_REPORT_BODY_ZINGER_0">%reporter% 发现了 %body% 的尸体！</Entry>
@@ -1746,25 +1746,25 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_DIALOG_TITLE_4_2">圣水任务完成！</Entry>
     <Entry key="GUI_DIALOG_4_2">感谢你带来了圣水！这对驱逐死灵之书很有帮助。</Entry>
     <Entry key="GUI_DIALOG_TITLE_5_0">驱散洞穴中的魔法</Entry>
-    <Entry key="GUI_DIALOG_5_0">邪恶的魔法正在这洞穴中聚集！找到洞穴中的符文，并驱逐邪恶的巫术。这样我们就可以利用这个洞穴来举行驱逐死灵之书的仪式。</Entry>
+    <Entry key="GUI_DIALOG_5_0">邪恶的魔法正在这洞穴中聚集！请找到洞穴中的符文，并驱逐邪恶的巫术。这样我们就可以利用这个洞穴来举行驱逐死灵之书的仪式。</Entry>
     <Entry key="GUI_DIALOG_TITLE_6_0">驱散墓地的魔法</Entry>
-    <Entry key="GUI_DIALOG_6_0">墓地正被邪恶的秘术侵蚀。找到墓地的符文，并终结这该死的咒语。</Entry>
+    <Entry key="GUI_DIALOG_6_0">墓地正被邪恶的秘术侵蚀。请找到墓地的符文，并终结这该死的咒语。</Entry>
     <Entry key="GUI_DIALOG_TITLE_7_0">驱散农场的魔法</Entry>
-    <Entry key="GUI_DIALOG_7_0">某种不洁的诅咒正在摧残我的庄稼。找到农场的符文，并驱散这邪恶的魔法。</Entry>
+    <Entry key="GUI_DIALOG_7_0">某种不洁的诅咒正在摧残我的庄稼。请找到农场的符文，并驱散这邪恶的魔法。</Entry>
     <Entry key="GUI_DIALOG_TITLE_8_0">驱散宅邸的魔法</Entry>
-    <Entry key="GUI_DIALOG_8_0">太可怕了！有股邪恶的魔力在我家中蔓延。找到宅邸的符文，并驱散黑魔法。</Entry>
+    <Entry key="GUI_DIALOG_8_0">太可怕了！有股邪恶的魔力在我家中蔓延。请找到宅邸的符文，并驱散黑魔法。</Entry>
     <Entry key="GUI_DIALOG_TITLE_9_0">驱散小镇中心的魔法</Entry>
-    <Entry key="GUI_DIALOG_9_0">某个邪恶的意志正在小镇中肆意妄为。找到小镇中心的符文，并终结这令人作呕的巫术。</Entry>
+    <Entry key="GUI_DIALOG_9_0">某个邪恶的意志正在小镇中肆意妄为。请找到小镇中心的符文，并终结这令人作呕的巫术。</Entry>
     <Entry key="GUI_DIALOG_TITLE_10_0">准备仪式魔法阵！</Entry>
-    <Entry key="GUI_DIALOG_10_0">我们很快就能准备好驱逐死灵之书了！前往洞穴中心，并准备好仪式魔法阵！</Entry>
+    <Entry key="GUI_DIALOG_10_0">我们很快就能准备好驱逐死灵之书了！请前往洞穴中心，并准备好仪式魔法阵！</Entry>
     <Entry key="GUI_DIALOG_TITLE_10_2">仪式魔法阵任务完成！</Entry>
     <Entry key="GUI_DIALOG_10_2">太棒了！洞穴已经准备好举行驱逐仪式了。但愿剩下的小镇成员们能完成他们的任务，然后我们就可以摆脱这邪恶的黑魔导书了。</Entry>
     <Entry key="GUI_DIALOG_TITLE_11_0">在林中空地砍柴</Entry>
-    <Entry key="GUI_DIALOG_11_0">牧师黑尔需要一些柴火来进行驱逐仪式。前往林中空地砍一些木柴，并带到洞穴中。</Entry>
+    <Entry key="GUI_DIALOG_11_0">牧师黑尔需要一些柴火来进行驱逐仪式。请前往林中空地砍一些木柴，并带到洞穴中。</Entry>
     <Entry key="GUI_DIALOG_TITLE_11_2">木柴任务完成！</Entry>
     <Entry key="GUI_DIALOG_11_2">感谢你带来了柴火！一旦其它的任务完成，我们就可以准备举行驱逐仪式了。</Entry>
     <Entry key="GUI_DIALOG_TITLE_12_0">在小镇中心收集火种</Entry>
-    <Entry key="GUI_DIALOG_12_0">牧师黑尔需要火种来进行驱逐仪式。从小镇中心的火炬收集火种，并带到洞穴中。</Entry>
+    <Entry key="GUI_DIALOG_12_0">牧师黑尔需要火种来进行驱逐仪式。请从小镇中心的火炬收集火种，并带到洞穴中。</Entry>
     <Entry key="GUI_DIALOG_TITLE_12_2">火种任务完成！</Entry>
     <Entry key="GUI_DIALOG_12_2">感谢你带来了火种，这样我就可以点燃火炬了！一旦其它的任务完成，我们就可以准备举行驱逐仪式了。</Entry>
     <Entry key="GUI_DIALOG_TITLE_13_0">护送牧师帕里斯前往洞穴</Entry>
@@ -1970,7 +1970,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_27">怪盗！你解锁了保险箱。现在找到萨布丽娜把保险箱里的东西交给她。</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_28">Good eye! You have found and opened the hidden passageway.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_30">Sapper! The drawbridge has been raised and sabotaged.</Entry>
-    <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_32">Croakers! You have retrieved the frog! Find John Jr and deliver the frog to him.</Entry>
+    <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_32">呱！你抓到了青蛙！现在找到小约翰把青蛙交给他。</Entry>
     <Entry key="GUI_TIMER_DISCUSSION">讨论</Entry>
     <Entry key="GUI_TIMER_VOTING">正在投票</Entry>
     <Entry key="GUI_TIMER_LASTWORDS">遗言</Entry>
@@ -2196,37 +2196,37 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
 •使用能力按钮将另一名玩家转化成邪教徒。
 •大多数被转化的玩家会保留其原来的能力，同时获得杀死他人的能力。
 •获胜条件：所有小镇成员皆死亡。</Entry>
-    <Entry key="GUI_ROLE_BLURB_TOWNIE">You are an innocent member of the Town.</Entry>
-    <Entry key="GUI_ROLE_BLURB_TRAITOR">Kill all of the Town members.</Entry>
-    <Entry key="GUI_ROLE_BLURB_JESTER">Possess Townies after being hanged.</Entry>
-    <Entry key="GUI_ROLE_BLURB_VIGILANTE">Use your gun to rid the Town of Traitors, but be careful.</Entry>
-    <Entry key="GUI_ROLE_BLURB_TRANSPORTER">Use teleporters around the map to quickly get around and complete quests.</Entry>
-    <Entry key="GUI_ROLE_BLURB_SHERIFF">Interrogate a player to find out if they are good or evil.</Entry>
-    <Entry key="GUI_ROLE_BLURB_LOOKOUT">Eagle eye can be used to increase your vision range.</Entry>
-    <Entry key="GUI_ROLE_BLURB_EXECUTIONER">Choose a target and get them hanged!</Entry>
-    <Entry key="GUI_ROLE_BLURB_ARSONIST">Burn the bodies of the dead to remove the evidence.</Entry>
-    <Entry key="GUI_ROLE_BLURB_PSYCHIC">You can sense the deaths of other players.</Entry>
-    <Entry key="GUI_ROLE_BLURB_WRAITH">Go invisible to avoid detection.</Entry>
-    <Entry key="GUI_ROLE_BLURB_DISGUISER">Sample players and disguise yourself as them to cause confusion.</Entry>
-    <Entry key="GUI_ROLE_BLURB_INQUISITOR">Reveal a Town member's role to you and all other Traitors</Entry>
-    <Entry key="GUI_ROLE_BLURB_POISONER">Poison a player to sneakily kill them over time.</Entry>
-    <Entry key="GUI_ROLE_BLURB_VETERAN">Go on alert to kill anyone who attacks you</Entry>
-    <Entry key="GUI_ROLE_BLURB_INVESTIGATOR">Check a player's hands for traces of blood.</Entry>
-    <Entry key="GUI_ROLE_BLURB_MAYOR">Reveal yourself to gain more votes</Entry>
-    <Entry key="GUI_ROLE_BLURB_WILDLING">Enter a state of heightened awareness allowing increased detection</Entry>
-    <Entry key="GUI_ROLE_BLURB_PROSECUTOR">Force a player to face the gallows, but be careful.</Entry>
-    <Entry key="GUI_ROLE_BLURB_SERIALKILLER">After a kill enter a state of bloodlust allowing for an additional kill.</Entry>
-    <Entry key="GUI_ROLE_BLURB_BANSHEE">Let out a deafening wail preventing Townies from using their abilities.</Entry>
-    <Entry key="GUI_ROLE_BLURB_NECROMANCER">Summon a minion from the graveyard to track down and kill a player.</Entry>
-    <Entry key="GUI_ROLE_BLURB_CORONER">Autopsy dead players, then examine living ones to see if they are the killer</Entry>
-    <Entry key="GUI_ROLE_BLURB_SEER">Compare two player's factions to see if they are the same.</Entry>
-    <Entry key="GUI_ROLE_BLURB_SAINT">When killed you will bless a killer increasing their cooldowns.</Entry>
-    <Entry key="GUI_ROLE_BLURB_HEXMASTER">Hex Townies cursing them to die when all living Townies are hexed.</Entry>
-    <Entry key="GUI_ROLE_BLURB_TRACKER">Summon a ghostly dog to catch a killer's scent from a dead body.</Entry>
-    <Entry key="GUI_ROLE_BLURB_MEDIUM">After being killed you can reveal a living player's role to everyone.</Entry>
-    <Entry key="GUI_ROLE_BLURB_KING">Knight a player to grant them extra votes.</Entry>
-    <Entry key="GUI_ROLE_BLURB_ILLUSIONIST">Sample a player and send out illusions of them to cause confusion.</Entry>
-    <Entry key="GUI_ROLE_BLURB_CULTIST">Convert a Townie to be your cult member granting them the ability to kill.</Entry>
+    <Entry key="GUI_ROLE_BLURB_TOWNIE">你是一名无辜的小镇成员！</Entry>
+    <Entry key="GUI_ROLE_BLURB_TRAITOR">杀死所有小镇成员！</Entry>
+    <Entry key="GUI_ROLE_BLURB_JESTER">在被吊死后占据镇民的身体。</Entry>
+    <Entry key="GUI_ROLE_BLURB_VIGILANTE">用你手中的枪从叛徒手中保护小镇，但是要谨慎开枪。</Entry>
+    <Entry key="GUI_ROLE_BLURB_TRANSPORTER">使用地图上的传送点进行快速移动。</Entry>
+    <Entry key="GUI_ROLE_BLURB_SHERIFF">通过审问一名玩家来判断其是好是坏。</Entry>
+    <Entry key="GUI_ROLE_BLURB_LOOKOUT">使用鹰眼来增加你的视野范围。</Entry>
+    <Entry key="GUI_ROLE_BLURB_EXECUTIONER">选择一个目标，想办法让他被吊死！</Entry>
+    <Entry key="GUI_ROLE_BLURB_ARSONIST">通过焚烧尸体来消除罪证。</Entry>
+    <Entry key="GUI_ROLE_BLURB_PSYCHIC">你可以感知到其他玩家的死亡。</Entry>
+    <Entry key="GUI_ROLE_BLURB_WRAITH">你可以隐形来避免被发现。</Entry>
+    <Entry key="GUI_ROLE_BLURB_DISGUISER">你可以对一名玩家采样，并易容成他的样子来制造混乱。</Entry>
+    <Entry key="GUI_ROLE_BLURB_INQUISITOR">将一名镇民的身份展示给你和所有其他叛徒看。</Entry>
+    <Entry key="GUI_ROLE_BLURB_POISONER">通过下毒来悄无声息地暗杀玩家。</Entry>
+    <Entry key="GUI_ROLE_BLURB_VETERAN">你可以进入警戒状态来反杀所有试图攻击你的人。</Entry>
+    <Entry key="GUI_ROLE_BLURB_INVESTIGATOR">你可以调查一名玩家的双手是否沾血。</Entry>
+    <Entry key="GUI_ROLE_BLURB_MAYOR">你可以展示自己的身份来获得更多票数。</Entry>
+    <Entry key="GUI_ROLE_BLURB_WILDLING">你可以提升自己的感知能力。</Entry>
+    <Entry key="GUI_ROLE_BLURB_PROSECUTOR">强制将一名玩家送上绞刑架，但是要谨慎使用。</Entry>
+    <Entry key="GUI_ROLE_BLURB_SERIALKILLER">在击杀一名玩家后激发杀戮欲望，让你能够再杀一人。</Entry>
+    <Entry key="GUI_ROLE_BLURB_BANSHEE">释放震耳欲聋的尖啸，使所有镇民无法使用他们的能力。</Entry>
+    <Entry key="GUI_ROLE_BLURB_NECROMANCER">从墓地中召唤一个可以追踪和杀死玩家的随从。</Entry>
+    <Entry key="GUI_ROLE_BLURB_CORONER">对死去的玩家进行验尸，随后检查一名活着的玩家来判断其是否是凶手。</Entry>
+    <Entry key="GUI_ROLE_BLURB_SEER">比对两名玩家的阵营，判断他们是否隶属于同一阵营。</Entry>
+    <Entry key="GUI_ROLE_BLURB_SAINT">被杀后你会祝福凶手，使其技能冷却时间延长。</Entry>
+    <Entry key="GUI_ROLE_BLURB_HEXMASTER">在对所有镇民施展巫术后，会让他们全部死亡。</Entry>
+    <Entry key="GUI_ROLE_BLURB_TRACKER">召唤一只能从尸体追踪凶手踪迹的幽灵犬。</Entry>
+    <Entry key="GUI_ROLE_BLURB_MEDIUM">被杀后你能展示一名存活玩家的身份给所有人看。</Entry>
+    <Entry key="GUI_ROLE_BLURB_KING">对一名玩家封爵，使其获得更多票数。</Entry>
+    <Entry key="GUI_ROLE_BLURB_ILLUSIONIST">对一名玩家采样，并创造出其幻象以制造混乱。</Entry>
+    <Entry key="GUI_ROLE_BLURB_CULTIST">将一名镇民转化为邪教成员，赋予其杀人的能力。</Entry>
     <Entry key="GUI_WON">获胜</Entry>
     <Entry key="GUI_LOST">失败</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY">%name% 报告了一具尸体。</Entry>
