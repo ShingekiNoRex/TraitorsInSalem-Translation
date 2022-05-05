@@ -20,9 +20,9 @@ Please feel free to ask questions or submit pull requests.
 
 3. Download the latest `TiS_TranslationReplacer.dll` and `FontAsset-SIMYOU`(Optional) from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
 
-4. Put `ToS_TranslationReplacer.dll` into `Town of Salem\BepInEx\plugins`
+4. Put `TiS_TranslationReplacer.dll` into `Traitors in Salem\BepInEx\plugins`
 
-    * (Optional) Put `FontAsset-SIMYOU` into `Town of Salem\TownOfSalem_Data\StreamingAssets`
+    * (Optional) Put `FontAsset-SIMYOU` into `Traitors in Salem\TownOfSalem_Data\StreamingAssets`
 
 5. Launch game again then close
 
