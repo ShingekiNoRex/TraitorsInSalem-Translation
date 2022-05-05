@@ -18,22 +18,21 @@ Please feel free to ask questions or submit pull requests.
 
 2. Launch game for once then close
 
-3. Download the latest `TiS_TranslationReplacer.dll` and `FontAsset-SIMYOU`(Optional) from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
+3. Download the latest `TiS_TranslationReplacer.dll` to `Traitors in Salem\BepInEx\plugins`
 
-4. Put `TiS_TranslationReplacer.dll` into `Traitors in Salem\BepInEx\plugins`
+    * (Optional) Download `FontAsset-SIMYOU` to `Traitors in Salem\TownOfSalem_Data\StreamingAssets`
+    * Some languages require additional font asset to display their characters
 
-    * (Optional) Put `FontAsset-SIMYOU` into `Traitors in Salem\TownOfSalem_Data\StreamingAssets`
+4. Launch game again then close
 
-5. Launch game again then close
-
-6. Download `StringTable.{lang_code}.xml` from this repo (i.e. `StringTable.zh-CN.xml` for Simplified Chinese)
+5. Download `StringTable.{lang_code}.xml` from this repo (i.e. `StringTable.zh-CN.xml` for Simplified Chinese)
     * You can check language codes [here](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
 
-7. Put `StringTable.{lang_code}.xml` into `Traitors in Salem\TraitorsInSalem_Data\StreamingAssets\Translation\{game_version}\`
+6. Put `StringTable.{lang_code}.xml` into `Traitors in Salem\TraitorsInSalem_Data\StreamingAssets\Translation\{game_version}\`
 
-8. Open `Traitors in Salem\BepInEx\config\TiS-TranslationReplacer.cfg` with notepad
+7. Open `Traitors in Salem\BepInEx\config\TiS-TranslationReplacer.cfg` with notepad
 
-9. Make sure the `Language` settings in `[General]` section has the same value as {lang_code}
+8. Make sure the `Language` settings in `[General]` section has the same value as {lang_code}
 
 # How to contribute
 *Before contributing, a GitHub account is required - you can sign up for one [here](https://github.com/join). If you wish to contribute from your desktop (i.e. using a local text editor), a Git client is required. We recommend [GitHub Desktop](https://desktop.github.com/), which provides a GUI and is easier for novice users to use. However, any Git client will work - it is ultimately a matter of personal preference. For help with GitHub Desktop, refer to [the Help section here](https://help.github.com/en/desktop). If you wish to contribute directly through GitHub, please see the relevant section below.*
