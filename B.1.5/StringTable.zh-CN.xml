@@ -1937,7 +1937,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TIP_TOWN_DEAD">跟随人们并享受成为鬼魂的乐趣</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_DEAD_TITLE">你是一个鬼魂！</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_DEAD_DESC">As a ghost, live players cannot see you. Follow people around and witness possessed Traitors performing nefarious deeds, or good Townsfolk performing quests to rid the town of the Necronomicon.</Entry>
-    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE">Kill Townies, cast spells, and fake quests</Entry>
+    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE">杀死镇民、施展法术、制造混乱、假装做任务</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_TITLE">搞破坏！</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_DESC">通过杀死镇民、施展法术、制造混乱、假装做任务来迷惑好人。</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_DEAD">跟随人们并享受成为鬼魂的乐趣</Entry>
