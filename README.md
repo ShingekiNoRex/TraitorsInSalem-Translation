@@ -44,13 +44,14 @@ Please feel free to ask questions or submit pull requests.
 2. Clone the forked repository
     * Log into your GitHub account in GitHub Desktop. On the home screen, you will see a list of your repositories. Select the forked repo, and then click `Clone <yourusername>/TraitorsInSalem-Translation` - doing so will download the repo onto your computer. If you are using Git Bash or a similar CLI client, refer to [this guide](https://help.github.com/en/articles/fork-a-repo). 
 3. Open a file and edit/add what you want to change with a text editor
+    * If the file for your language doesn't exist, copy `StringTable.en-US.xml` and rename it with [Microsofts Language Codes](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
 4. Commit the modified files
    * Please include a meaningful commit describing exact changes that were made. This is helpful to us when reviewing Pull Requests and commit history.
     * __Only__ commit changes to files you've added/edited. **Don't** commit changes to `StringTable.en-US.xml`
    - Usually most GUI clients, such as GitHub desktop will only commit modified files. 
-6. Push your commit(s) to GitHub
+5. Push your commit(s) to GitHub
     * When changes are committed, only the files on disk (i.e. in the *cloned* repo) are modified. By pushing these commits, these changes are also reflected in the forked repository on GitHub. This is necessary for the next step:
-7. Open a Pull Request (see below).
+6. Open a Pull Request (see below).
 ## From GitHub:
 1. Open a desired file and click "Edit this file".
    - This will automatically create a fork of this repo to your account. Any changes made to files will only be reflected in the forked repo. Learn more about forking on GitHub [here](https://help.github.com/en/articles/about-forks)
