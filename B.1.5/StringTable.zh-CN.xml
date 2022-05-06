@@ -740,13 +740,13 @@ $%price% USD</Entry>
     <Entry key="GUI_NAME_CHANGE_SUBMIT">Choose and submit a unique account name...</Entry>
     <Entry key="GUI_NAME_CHANGE_PLACEHOLDER">Enter New Name</Entry>
     <Entry key="GUI_NAME_CHANGE_AMOUNT">$4.99 USD</Entry>
-    <Entry key="GUI_ACCOUNT_NAME">Account Name</Entry>
-    <Entry key="GUI_INGAME_NAME">In-Game Name</Entry>
-    <Entry key="GUI_ACCOUNT_NAME_LENGTH">Name must be at least 3 characters long and no more than 20 characters!</Entry>
-    <Entry key="GUI_ACCOUNT_NAME_NO_SPACES_OR_SPECIAL_CHARS">Names may only contain upper and lower case letters, or numbers.
+    <Entry key="GUI_ACCOUNT_NAME">账号名</Entry>
+    <Entry key="GUI_INGAME_NAME">游戏内名称</Entry>
+    <Entry key="GUI_ACCOUNT_NAME_LENGTH">名字必须在3-20个字符以内！</Entry>
+    <Entry key="GUI_ACCOUNT_NAME_NO_SPACES_OR_SPECIAL_CHARS">名字只能包含大小写字母和数字。
 (a-z, A-Z, 0-9)
 
-No spaces or special characters are allowed.</Entry>
+不支持空格或特殊字符。</Entry>
     <Entry key="GUI_ACCOUNT_NAME_BUY">Click the "Buy" button to purchase your name change.</Entry>
     <Entry key="GUI_ACCOUNT_NAME_USE">Click the "Change Name" button to change your account name.</Entry>
     <Entry key="GUI_ACCOUNT_NAME_NOT_AVAILABLE">The name '%name%' is not available. Please choose another name.</Entry>
@@ -855,8 +855,8 @@ You have unlocked "%item%"!</Entry>
     <Entry key="GUI_LOGOUT_MSG">Are you sure you want to logout?</Entry>
     <Entry key="GUI_EXCESSIVE_TRANSITION_TIME">This is taking longer than expected. You may continue to wait or click the Logout button.</Entry>
     <Entry key="GUI_FULLSCREEN">Fullscreen</Entry>
-    <Entry key="GUI_CHAT_LOG">Chat Log</Entry>
-    <Entry key="GUI_CLOSE">Close</Entry>
+    <Entry key="GUI_CHAT_LOG">聊天记录</Entry>
+    <Entry key="GUI_CLOSE">关闭</Entry>
     <Entry key="GUI_RELOAD">Reload</Entry>
     <Entry key="GUI_GO_TO_TOP">Go to Top</Entry>
     <Entry key="GUI_GO_TO_BOTTOM">Scroll to Bottom</Entry>
@@ -867,14 +867,14 @@ You have unlocked "%item%"!</Entry>
     <Entry key="GUI_LOAD_DECK_TOOLTIP">Load selected role deck and options</Entry>
     <Entry key="GUI_SAVE_DECK">Save Deck</Entry>
     <Entry key="GUI_SAVE_DECK_TOOLTIP">Save current role deck and options to this save slot</Entry>
-    <Entry key="GUI_EXPORT_DECK">Export Deck</Entry>
+    <Entry key="GUI_EXPORT_DECK">导出身份组</Entry>
     <Entry key="GUI_EXPORT_DECK_TOOLTIP">Export the current role deck as a shareable json blob</Entry>
-    <Entry key="GUI_IMPORT_DECK">Import Deck</Entry>
+    <Entry key="GUI_IMPORT_DECK">导入身份组</Entry>
     <Entry key="GUI_IMPORT_DECK_TOOLTIP">Import json blob</Entry>
-    <Entry key="GUI_DELETE_DECK">Delete</Entry>
+    <Entry key="GUI_DELETE_DECK">删除</Entry>
     <Entry key="GUI_DELETE_DECK_TOOLTIP">Delete this save</Entry>
-    <Entry key="GUI_BACK_FROM_SAVELOAD_DECK">Back</Entry>
-    <Entry key="GUI_BACK_FROM_SAVELOAD_DECK_TOOLTIP">Return to game</Entry>
+    <Entry key="GUI_BACK_FROM_SAVELOAD_DECK">返回</Entry>
+    <Entry key="GUI_BACK_FROM_SAVELOAD_DECK_TOOLTIP">返回游戏</Entry>
     <Entry key="GUI_CONFIRM_DELETE_DECK">Do you wish to delete %deck%?</Entry>
     <Entry key="GUI_INVALID_ROLDECK_JSON_TITLE">No Valid Clipboard Data</Entry>
     <Entry key="GUI_INVALID_ROLDECK_JSON_BODY">Must have a valid JSON string in your clipboard to import.</Entry>
@@ -1904,12 +1904,12 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TASK_1_TOOLTIP">当地酒馆的侍女杰奎琳需要水果来制作药水。和她对话后，她会让你前往农场的果树去收集水果。一旦你收集到足够多的水果，返回酒馆交给杰奎琳。提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_2_TOOLTIP">一名叛徒破坏并升起了吊桥，修好吊桥的齿轮并把它重新降下来。提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_3_TOOLTIP">当地的算命师玛莎女士会揭示你的命运。与酒馆中的玛莎对话，她会向所有酒馆内的人展示你的身份和阵营。提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_4_TOOLTIP">Sister Mercy wants to give some holy water to Reverend Hale. However, the water system in the Church is broken. Speak with Sister Mercy at the Church, then go to the back of the Church and fix the pipes. Once complete, collect some holy water and bring it to Reverend Hale at the Cave. 提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_5_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Reverend Hale at the Cave and he will give you a quest to 驱散魔法 at the Cave. 提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_6_TOOLTIP">The Necronomicon is spreading its evil magic. Visit gravedigger Thomas at the Graveyard and he will give you a quest to 驱散魔法 at the Graveyard. 提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_7_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Mr. Stuffins at the Farm and he will give you a quest to 驱散魔法 at the Farm. 提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_8_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Mrs. Putnam at the Mansion and she will give you a quest to 驱散魔法 at the Mansion. 提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_9_TOOLTIP">The Necronomicon is spreading its evil magic. Visit Jacqueline O'Lantern at the Tavern and she will give you a quest to 驱散魔法 at the Town Center. 提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_4_TOOLTIP">修女默茜想要将一些圣水带给牧师黑尔，但教堂的水管系统损坏了。与教堂中的修女默茜对话，随后前往教堂后方修复水管。完成之后带一些圣水给洞穴中的牧师黑尔。提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_5_TOOLTIP">死灵之书正在散播它的邪恶魔法。拜访洞穴中的牧师黑尔，他会交给你驱散洞穴中魔法的任务。提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_6_TOOLTIP">死灵之书正在散播它的邪恶魔法。拜访墓地的掘墓人托马斯，他会交给你驱散墓地魔法的任务。提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_7_TOOLTIP">死灵之书正在散播它的邪恶魔法。拜访农场的斯塔芬斯先生，他会交给你驱散农场魔法的任务。提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_8_TOOLTIP">死灵之书正在散播它的邪恶魔法。拜访宅邸的帕南夫人，她会交给你驱散宅邸魔法的任务。提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_9_TOOLTIP">死灵之书正在散播它的邪恶魔法。拜访酒馆的杰奎琳，她会交给你驱散小镇中心魔法的任务。提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_10_TOOLTIP">Reverend Hale is waiting at the cave. Visit him and he will give you a quest to prepare the Ritual Circle which is used in the Banishment Ritual. Once complete, speak with Reverend Hale once more. 提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_11_TOOLTIP">Maid Betty is waiting in the pantry at the Mansion. Visit her and she will ask you to collect some wood at the Farm. Once you've collected enough wood, bring it to Reverend Hale at the Cave. The wood will be used for the fire at the Banishment Ritual. 提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_12_TOOLTIP">Visit Leo at the Mansion and he will ask you to collect some fire from the Town Square and bring it to Reverend Hale at the Cave. The fire will be used set alight the firewood at the Banishment Ritual. 提示：点击任务获得指引。</Entry>
@@ -2284,9 +2284,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP_TITLE">处决你的目标</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP_TITLE">把他们都吊死！</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP">说服小镇吊死 %name% 以诅咒一名镇民。</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP">See someone hanged to choose your next victim.</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE">Execute %name% to doom a town member.</Entry>
-    <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE">See someone hung to choose your next victim.</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP">见证某人被吊死后选择你的下一目标。</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE">使 %name% 被处刑以诅咒一名镇民。</Entry>
+    <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE">见证某人被吊死后选择你的下一目标。</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_1">宅邸 - 火炬</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_2">小镇中心 - 驱散魔法</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_3">农场 - 火炬</Entry>
