@@ -1423,9 +1423,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <!--MEDIUM_REVEAL-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_35_ME">你封 %target% 为骑士。</Entry>
     <!--KING_KNIGHT-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_36_ME">你被封爵了！</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_36_ME">你受封为骑士了！</Entry>
     <!--KNIGHTED-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_36">%target% 被封爵了！</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_36">%target% 受封为骑士了！</Entry>
     <!--KNIGHTED-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_37_ME_0_OFF">你的幻象消逝了。</Entry>
     <!--CREATE_ILLUSION-->
@@ -1617,7 +1617,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_ABNORMAL_MOVEMENT_DETECTED_SINGLE">Large movement detected.</Entry>
     <Entry key="GUI_ABNORMAL_MOVEMENT_DETECTED_MULTI">Fast movement detected.</Entry>
     <!--Both victim and killer roles are known-->
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META">%name% 被 %killerrole% 杀害 %where%。%playerrole%</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META">%name% 被 %killerrole% 杀害%where%。%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META_AN">%name% was killed by an %killerrole%%where%.%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_DISCONNECTED_META">%name% %killerrole%%where%.%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_UNKNOWN_ASSAILANT_ROLE">不明人士</Entry>
@@ -1662,16 +1662,16 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_DEAD">（死亡）</Entry>
     <Entry key="GUI_GAME_DIED_AT_X">死在了 %location%</Entry>
     <Entry key="GUI_GAME_DIED_OF_X">死于 %x%</Entry>
-    <Entry key="GUI_GAME_LYNCHED">Lynched</Entry>
+    <Entry key="GUI_GAME_LYNCHED">被处决</Entry>
     <Entry key="GUI_GAME_REPORTER">（报告人）</Entry>
     <Entry key="GUI_GAME_SKIP">跳过</Entry>
     <Entry key="GUI_GAME_LISTEN">Listen</Entry>
     <Entry key="GUI_GAME_DEFEND">Defend</Entry>
-    <Entry key="GUI_GAME_WAIT">Wait</Entry>
-    <Entry key="GUI_GAME_VOTE">Vote</Entry>
-    <Entry key="GUI_GAME_AWAIT_VOTE">Await Vote</Entry>
-    <Entry key="GUI_GAME_DISCUSS">Discuss</Entry>
-    <Entry key="GUI_GAME_PROSECUTION">Prosecution</Entry>
+    <Entry key="GUI_GAME_WAIT">等待</Entry>
+    <Entry key="GUI_GAME_VOTE">投票</Entry>
+    <Entry key="GUI_GAME_AWAIT_VOTE">等待投票</Entry>
+    <Entry key="GUI_GAME_DISCUSS">讨论</Entry>
+    <Entry key="GUI_GAME_PROSECUTION">控诉</Entry>
     <Entry key="GUI_GAME_DISCUSSION_VOTE">%name% 投票反对 %name2%。</Entry>
     <Entry key="GUI_GAME_DISCUSSION_VOTE_SKIP">%name% 投票跳过。</Entry>
     <Entry key="GUI_GAME_DISCUSSION_VOTE_CANCELLED">%name% 取消了投票。</Entry>
@@ -2271,8 +2271,8 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_ABILITY_AUTOPSY">验尸</Entry>
     <Entry key="GUI_GAME_ABILITY_EXAMINE">检查</Entry>
     <Entry key="GUI_GAME_ABILITY_ZOMBIE_KILL">使用僵尸攻击</Entry>
-    <Entry key="GUI_GAME_ABILITY_SEER">Gaze</Entry>
-    <Entry key="GUI_GAME_ABILITY_SEER_SECOND">Intuit</Entry>
+    <Entry key="GUI_GAME_ABILITY_SEER">注视</Entry>
+    <Entry key="GUI_GAME_ABILITY_SEER_SECOND">感知</Entry>
     <Entry key="GUI_GAME_ABILITY_HEX">施法</Entry>
     <Entry key="GUI_GAME_ABILITY_TRACK">追踪</Entry>
     <Entry key="GUI_GAME_ABILITY_MEDIUM_REVEAL">展示身份</Entry>
@@ -2415,7 +2415,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_MINIGAME_CATCHEM_REMAINING">剩余：%value%</Entry>
     <Entry key="GUI_GAME_MINIGAME_DEMONDOG_INSTRUCTIONS">在地狱犬睡着时缓慢前进，在 %seconds% 秒内得到蕴魔长笛。</Entry>
     <Entry key="GUI_GAME_MINIGAME_DEMONDOG_ZINGER">地狱犬发现你了！快跑！！！</Entry>
-    <Entry key="GUI_GAME_MINIGAME_FROGGER_INSTRUCTIONS">Weave through the animals in the corral without getting hit to reach the frog at the end. Seconds remaining: %seconds%</Entry>
+    <Entry key="GUI_GAME_MINIGAME_FROGGER_INSTRUCTIONS">在不被动物碰到的情况下，穿过围栏抵达末端的青蛙处。剩余时间：%seconds%秒</Entry>
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_0">中了！</Entry>
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_1">很接近了！</Entry>
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_2">有点近了！</Entry>
