@@ -18,9 +18,9 @@ Please feel free to ask questions or submit pull requests.
 
 2. Launch game for once then close
 
-3. Download the latest `TiS_TranslationReplacer.dll` to `Traitors in Salem\BepInEx\plugins`
+3. Download the latest `TiS_TranslationReplacer.dll` in [releases](https://github.com/ShingekiNoRex/TraitorsInSalem-Translation/releases) to `Traitors in Salem\BepInEx\plugins`
 
-    * (Optional) Download `FontAsset-SIMYOU` to `Traitors in Salem\TownOfSalem_Data\StreamingAssets`
+    * (Optional) Download `FontAsset-SIMYOU` in [releases](https://github.com/ShingekiNoRex/TraitorsInSalem-Translation/releases) to `Traitors in Salem\TownOfSalem_Data\StreamingAssets`
     * Some languages require additional font asset to display their characters
 
 4. Launch game again then close
