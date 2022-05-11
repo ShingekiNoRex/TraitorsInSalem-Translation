@@ -827,7 +827,7 @@ You have unlocked "%item%"!</Entry>
     <Entry key="GUI_CHAT_SEND">Send</Entry>
     <Entry key="GUI_CHAT_SUBMIT">Submit</Entry>
     <Entry key="GUI_CHAT_BLOCKED" style="error">You cannot chat right now.</Entry>
-    <Entry key="GUI_CHAT_LINK_BLOCKED" style="error">Please do not send links.</Entry>
+    <Entry key="GUI_CHAT_LINK_BLOCKED" style="error">Please do not send links or rich text.</Entry>
     <Entry key="GUI_CHAT_ENTER_YOUR_CHAT_MESSAGE_HERE">Enter your chat message here...</Entry>
     <Entry key="GUI_ON">ON</Entry>
     <Entry key="GUI_OFF">OFF</Entry>
@@ -1277,10 +1277,6 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <!--DISGUISER_DISGUISE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_14_ON">%source% 易容成了 %target%。</Entry>
     <!--DISGUISER_DISGUISE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_14_ME_OFF">你不再易容成 %target%。</Entry>
-    <!--DISGUISER_DISGUISE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_14_OFF">%source% 不再易容成 %target%。</Entry>
-    <!--DISGUISER_DISGUISE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_15_ME">你发现 %target% 的身份是 %role%。</Entry>
     <!--INQUISITOR_ROLE_CHECK-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_15">%source% 发现 %target% 的身份是 %role%。</Entry>
@@ -1604,6 +1600,10 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <!--VISION_BOOST-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_1">%source% 感觉自己能比之前看的更远了。</Entry>
     <!--VISION_BOOST-->
+	<Entry key="GUI_CHAT_LOG_ABILITY_MSG_62_ME_OFF">你不再易容成 %target%。</Entry>
+    <!--DISGUISER_DISGUISE-->
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_62_OFF">%source% 不再易容成 %target%。</Entry>
+    <!--DISGUISER_DISGUISE-->
     <Entry key="GUI_CHAT_LOG_MINION">minion</Entry>
     <Entry key="GUI_CHAT_LOG_UNKNOWN">unknown</Entry>
     <Entry key="GUI_CHAT_LOG_UNTARGETTED">untargetted</Entry>
@@ -1794,7 +1794,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_DIALOG_TITLE_26_0">抓住失散的羊群</Entry>
     <Entry key="GUI_DIALOG_26_0">该死的！那本破书放跑了我的羊群，现在它们在全镇乱跑！如果你能帮我抓回我的羊，我会教你一个小技巧，让你能额外再敲一次小镇的钟。</Entry>
     <Entry key="GUI_DIALOG_TITLE_26_4">抓获失散的羊群！</Entry>
-    <Entry key="GUI_DIALOG_26_4">太好了，我大喜过望！谢谢你帮我抓回了我的羊！现在我会教你额外敲钟的技巧！</Entry>
+    <Entry key="GUI_DIALOG_26_4">太好了，真是让我大喜过望！谢谢你帮我抓回了我的羊！现在我会教你额外敲钟的技巧！</Entry>
     <Entry key="GUI_DIALOG_TITLE_27_0">解锁宅邸的保险箱</Entry>
     <Entry key="GUI_DIALOG_27_0">打扰一下，你看起来不是那么死板的人。也许你能帮我...呃...干一些脏活。我试了很多次，但仍无法撬开宅邸保险箱的锁。如果你能撬开，并把里面的东西带给我，我会教你猫一般的反射神经，让你能在使用能力后加速恢复。</Entry>
     <Entry key="GUI_DIALOG_TITLE_27_2">获得保险箱物品！</Entry>
@@ -1949,6 +1949,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">杀死镇民并施放法术</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">杀死镇民并施放法术</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_DESC">You have no more quests to fake. Kill Townies and cast spells to cause havoc.</Entry>
+	<Entry key="GUI_QUEST_TIP_CTF">Capture the flag!</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF_TITLE">Capture the enemy flag</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF_DESC">Return the enemy flag to your base to score points.  First team to 3 points wins!</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_1">干得好！你已收集到足够的水果，现在回到酒馆带给杰奎琳。</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_2">干得好！齿轮已被修复，吊桥现在被放下来了。</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_4">太棒了！你收集到了圣水。现在将它送给洞穴中的牧师黑尔。</Entry>
@@ -2227,6 +2230,10 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_ROLE_BLURB_KING">对一名玩家封爵，使其获得更多票数。</Entry>
     <Entry key="GUI_ROLE_BLURB_ILLUSIONIST">对一名玩家采样，并创造出其幻象以制造混乱。</Entry>
     <Entry key="GUI_ROLE_BLURB_CULTIST">将一名镇民转化为邪教成员，赋予其杀人的能力。</Entry>
+	<Entry key="GUI_TEAM_1_TITLE">Frog Team</Entry>
+    <Entry key="GUI_TEAM_2_TITLE">Lion Team</Entry>
+    <Entry key="GUI_TEAM_1_BLURB">Capture the flag to lead the Frogs to victory!</Entry>
+    <Entry key="GUI_TEAM_2_BLURB">Capture the flag to lead the Lions to victory!</Entry>
     <Entry key="GUI_WON">获胜</Entry>
     <Entry key="GUI_LOST">失败</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY">%name% 报告了一具尸体。</Entry>
@@ -2259,6 +2266,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_ABILITY_INVISIBILITY">隐形</Entry>
     <Entry key="GUI_GAME_ABILITY_SAMPLE">采样</Entry>
     <Entry key="GUI_GAME_ABILITY_DISGUISE">易容</Entry>
+	<Entry key="GUI_GAME_ABILITY_REMOVE_DISGUISE">取消易容</Entry>
     <Entry key="GUI_GAME_ABILITY_INQUISITOR">检查</Entry>
     <Entry key="GUI_GAME_ABILITY_POISON">下毒</Entry>
     <Entry key="GUI_GAME_ABILITY_ALERT">警戒</Entry>
@@ -2281,6 +2289,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_ABILITY_CULT_CONVERT">转化</Entry>
     <Entry key="GUI_GAME_CHOOSE_TARGET">选择目标</Entry>
     <Entry key="GUI_GAME_POSSESS">占据身体</Entry>
+	<Entry key="GUI_GAME_ABILITY_RESPAWN">重生</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP_TITLE">处决你的目标</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP_TITLE">把他们都吊死！</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP">说服小镇吊死 %name% 以诅咒一名镇民。</Entry>
@@ -2670,7 +2679,24 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>5/2/2022</b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>5/9/2022</b>
+
+• Refactored Disguiser to make their disguise permanent until removed by player.
+• Person last hanged no longer disappears at the start of the final hanging cinematic.
+• Refactored the Spell hotkey system to make better use of the Spellbook UI.
+• Fixed a rare issue where ability effect icons that are only supposed to be visible to the Traitor faction could be seen by Town faction.
+• Chat log now displays the correct portrait for a player that died to the hangman's noose.
+• Dead chat is now properly cleared between games.
+• The Dead Chat icon now remains visible even when the icon drawer is closed, and has been moved to the right-most position in the icon list.
+• Rich text and html remain disallowed in all input fields, however, the < and > characters can now be used for emojis, but not both at the same time.
+• Hidden Passage (Bookcase) minigame can now be properly closed by clicking the Close (X) button.
+• Fixed character popping before lobby but after game wrapup.
+• Added baa sound as each sheep is collected in Catch Sheep minigame.
+• Refactored some audio code for specific interactions.
+• Fixed an ArgumentException affecting a small number of players.
+• Fixed several NullReferenceExceptions affecting a small number of players.
+
+<align=center><b><size=110%>• • •</size></b></align><b>5/2/2022</b>
 
 • Added Anubis skin.
 • Added dead text chat during roaming phase.

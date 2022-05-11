@@ -833,7 +833,7 @@ You have unlocked "%item%"!</Entry>
     <Entry key="GUI_CHAT_SEND">Send</Entry>
     <Entry key="GUI_CHAT_SUBMIT">Submit</Entry>
     <Entry key="GUI_CHAT_BLOCKED" style="error">You cannot chat right now.</Entry>
-    <Entry key="GUI_CHAT_LINK_BLOCKED" style="error">Please do not send links.</Entry>
+    <Entry key="GUI_CHAT_LINK_BLOCKED" style="error">Please do not send links or rich text.</Entry>
     <Entry key="GUI_CHAT_ENTER_YOUR_CHAT_MESSAGE_HERE">Enter your chat message here...</Entry>
     <Entry key="GUI_ON">ON</Entry>
     <Entry key="GUI_OFF">OFF</Entry>
@@ -1283,10 +1283,6 @@ They will have revenge from beyond the grave!</Entry>
     <!--DISGUISER_DISGUISE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_14_ON">%source% has disguised as %target%.</Entry>
     <!--DISGUISER_DISGUISE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_14_ME_OFF">You are no longer disguised as %target%.</Entry>
-    <!--DISGUISER_DISGUISE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_14_OFF">%source% is no longer disguised as %target%.</Entry>
-    <!--DISGUISER_DISGUISE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_15_ME">You discovered that %target% is a %role%.</Entry>
     <!--INQUISITOR_ROLE_CHECK-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_15">%source% discovered that %target% is a %role%.</Entry>
@@ -1610,6 +1606,10 @@ They will have revenge from beyond the grave!</Entry>
     <!--VISION_BOOST-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_59_1">%source% feels like they can see much farther than before.</Entry>
     <!--VISION_BOOST-->
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_62_ME_OFF">You are no longer disguised as %target%.</Entry>
+    <!--DISGUISER_DISGUISE-->
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_62_OFF">%source% is no longer disguised as %target%.</Entry>
+    <!--DISGUISER_DISGUISE-->
     <Entry key="GUI_CHAT_LOG_MINION">minion</Entry>
     <Entry key="GUI_CHAT_LOG_UNKNOWN">unknown</Entry>
     <Entry key="GUI_CHAT_LOG_UNTARGETTED">untargetted</Entry>
@@ -1800,7 +1800,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_DIALOG_TITLE_26_0">Catch Loose Sheep</Entry>
     <Entry key="GUI_DIALOG_26_0">Tarnation! That crooked book done run off my sheep and now they're wanderin' all over town. If'n you'd round up my sheep, I'll larn you a trick to get an extra ring of the Town Bell.</Entry>
     <Entry key="GUI_DIALOG_TITLE_26_4">Loose Sheep Captured!</Entry>
-    <Entry key="GUI_DIALOG_26_4">Well, I'm happy as a pig in slop! Thanks for roundin' up all my sheep! Now, I'll larn you the trick to get an extra ring of the Town Bell!</Entry>
+    <Entry key="GUI_DIALOG_26_4">Tarnation, I'm happier'n a pig in slop! Thanks for roundin' up all my sheep! Now, I'll larn you the trick to get an extra ring of the Town Bell!</Entry>
     <Entry key="GUI_DIALOG_TITLE_27_0">Unlock Safe in Mansion</Entry>
     <Entry key="GUI_DIALOG_27_0">Excuse me, but you look like someone who might consider bending some rules. Perhaps you can help me with a task of...um...questionable lawfulness. Despite many nights of trying, I've been unable to pick the lock on the safe in the Mansion. Please, if you could pick the lock and bring me the contents of the safe, I can teach you cat-like reflexes that will help speed up your recovery after using an ability.</Entry>
     <Entry key="GUI_DIALOG_TITLE_27_2">Safe Contents Retrieved!</Entry>
@@ -1955,6 +1955,9 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">Kill Townies and cast spells</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">Kill Townies and Cast Spells</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_DESC">You have no more quests to fake. Kill Townies and cast spells to cause havoc.</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF">Capture the flag!</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF_TITLE">Capture the enemy flag</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF_DESC">Return the enemy flag to your base to score points.  First team to 3 points wins!</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_1">Well done! You have collected enough fruit. Bring it to Jacqueline in the Tavern.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_2">Good job! The gears have been fixed and the drawbridge has been lowered.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_4">Excellent! You have collected the Holy Water. Deliver it to Reverend John Hale at the Cave.</Entry>
@@ -2130,7 +2133,7 @@ VOTED</Entry>
     <Entry key="GUI_ROLE_DESC_WILDLING">•Use your kill button to kill the highlighted player.
 •Use your ability button to gain the ability to see players through walls.
 •You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_PROSECUTOR">•Use your ability button to force a player to the stand to die.
+    <Entry key="GUI_ROLE_DESC_PROSECUTOR">•Use your ability button to force a player to the gallows to die.
 •If your target is innocent you will die.
 •Work with the other Town members to rid the town of evil.
 •You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
@@ -2181,11 +2184,11 @@ VOTED</Entry>
 •Use your ability button on a dead body to pick up the scent of the killer, allowing you to track them down.
 •Work against the other Town members to bring the Town to its knees.
 •You win when all the Town members have died!</Entry>
-    <Entry key="GUI_ROLE_DESC_MEDIUM">•For a short time after being killed during the roaming phase you may reveal a player's role to everyone. You can not reveal the role of your killer.
+    <Entry key="GUI_ROLE_DESC_MEDIUM">•For a short time after being killed during the roaming phase you may reveal a player's role to everyone. You cannot reveal the role of your killer.
 •Work with the other Town members to rid the town of evil.
 •You win if all the Traitors are dead or by banishing the Necronomicon.</Entry>
     <Entry key="GUI_ROLE_DESC_MEDIUM_EVIL">•Use your kill button to kill the highlighted player.
-•For a short time after being killed during the roaming phase you may reveal a player's role to everyone.. You can not reveal the role of your killer.
+•For a short time after being killed during the roaming phase you may reveal a player's role to everyone..You cannot reveal the role of your killer.
 •Work against the other Town members to bring the Town to its knees.
 •You win when all the Town members have died!</Entry>
     <Entry key="GUI_ROLE_DESC_KING">•Use your ability button to knight the highlighted player causing their votes to count for one more.
@@ -2233,6 +2236,10 @@ VOTED</Entry>
     <Entry key="GUI_ROLE_BLURB_KING">Knight a player to grant them extra votes.</Entry>
     <Entry key="GUI_ROLE_BLURB_ILLUSIONIST">Sample a player and send out illusions of them to cause confusion.</Entry>
     <Entry key="GUI_ROLE_BLURB_CULTIST">Convert a Townie to be your cult member granting them the ability to kill.</Entry>
+    <Entry key="GUI_TEAM_1_TITLE">Frog Team</Entry>
+    <Entry key="GUI_TEAM_2_TITLE">Lion Team</Entry>
+    <Entry key="GUI_TEAM_1_BLURB">Capture the flag to lead the Frogs to victory!</Entry>
+    <Entry key="GUI_TEAM_2_BLURB">Capture the flag to lead the Lions to victory!</Entry>
     <Entry key="GUI_WON">Won</Entry>
     <Entry key="GUI_LOST">Lost</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY">%name% has reported a body.</Entry>
@@ -2265,6 +2272,7 @@ VOTED</Entry>
     <Entry key="GUI_GAME_ABILITY_INVISIBILITY">Invisibility</Entry>
     <Entry key="GUI_GAME_ABILITY_SAMPLE">Sample</Entry>
     <Entry key="GUI_GAME_ABILITY_DISGUISE">Disguise</Entry>
+    <Entry key="GUI_GAME_ABILITY_REMOVE_DISGUISE">Remove Disguise</Entry>
     <Entry key="GUI_GAME_ABILITY_INQUISITOR">Check</Entry>
     <Entry key="GUI_GAME_ABILITY_POISON">Poison</Entry>
     <Entry key="GUI_GAME_ABILITY_ALERT">Alert</Entry>
@@ -2287,6 +2295,7 @@ VOTED</Entry>
     <Entry key="GUI_GAME_ABILITY_CULT_CONVERT">Convert</Entry>
     <Entry key="GUI_GAME_CHOOSE_TARGET">Choose Target</Entry>
     <Entry key="GUI_GAME_POSSESS">Possess Townie</Entry>
+    <Entry key="GUI_GAME_ABILITY_RESPAWN">Respawn</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP_TITLE">Execute Your Target</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP_TITLE">Hang Them All!</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP">Convince the Town to hang %name% to doom a town member.</Entry>
@@ -2676,7 +2685,24 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>5/2/2022</b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>5/9/2022</b>
+
+• Refactored Disguiser to make their disguise permanent until removed by player.
+• Person last hanged no longer disappears at the start of the final hanging cinematic.
+• Refactored the Spell hotkey system to make better use of the Spellbook UI.
+• Fixed a rare issue where ability effect icons that are only supposed to be visible to the Traitor faction could be seen by Town faction.
+• Chat log now displays the correct portrait for a player that died to the hangman's noose.
+• Dead chat is now properly cleared between games.
+• The Dead Chat icon now remains visible even when the icon drawer is closed, and has been moved to the right-most position in the icon list.
+• Rich text and html remain disallowed in all input fields, however, the < and > characters can now be used for emojis, but not both at the same time.
+• Hidden Passage (Bookcase) minigame can now be properly closed by clicking the Close (X) button.
+• Fixed character popping before lobby but after game wrapup.
+• Added baa sound as each sheep is collected in Catch Sheep minigame.
+• Refactored some audio code for specific interactions.
+• Fixed an ArgumentException affecting a small number of players.
+• Fixed several NullReferenceExceptions affecting a small number of players.
+
+<align=center><b><size=110%>• • •</size></b></align><b>5/2/2022</b>
 
 • Added Anubis skin.
 • Added dead text chat during roaming phase.
