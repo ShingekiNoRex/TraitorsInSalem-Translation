@@ -27,6 +27,10 @@
     <Entry key="ITEM_4_5_BLURB">A rapping at the Tavern door, and what do you find? An adorable raven.</Entry>
     <Entry key="ITEM_4_6">Gobby</Entry>
     <Entry key="ITEM_4_6_BLURB">Dressed in rags, but look at that smile!</Entry>
+    <Entry key="ITEM_4_7">Hammond</Entry>
+    <Entry key="ITEM_4_7_BLURB">Bacon may be delicious, but he's just too cute!</Entry>
+    <Entry key="ITEM_4_8">Bessie</Entry>
+    <Entry key="ITEM_4_8_BLURB">Bessie is the oldest cow in Salem, but also the toughest!</Entry>
     <!--SKINS-->&gt;
     
     <Entry key="ITEM_5_0">Red Warlock</Entry>
@@ -47,6 +51,8 @@
     <Entry key="ITEM_5_7_BLURB">Once a bright eyed Baker, now their hunger can never be satiated.</Entry>
     <Entry key="ITEM_5_8">Anubis</Entry>
     <Entry key="ITEM_5_8_BLURB">Place your heart on the golden scales, does it weigh more than the feather of truth?</Entry>
+    <Entry key="ITEM_5_9">Coven Leader</Entry>
+    <Entry key="ITEM_5_9_BLURB">Staring into the blood moon, her eyes fill with frenzied magic. The Coven Leader is born.</Entry>
     <!--Packs-->
     <!--
     <Entry key="ITEM_4_1">Boat Load of Swag</Entry><Entry key="ITEM_4_1_BLURB">Boat Load of Swag, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry>
@@ -331,7 +337,7 @@ Please choose another.</Entry>
     <Entry key="GUI_TOGGLE_VISIBLE_BUTTON_TOOLTIP">切换显示或隐藏房间代码</Entry>
     <Entry key="GUI_PARTY_BUTTON">Party</Entry>
     <Entry key="GUI_FRIENDS_BUTTON">Friends</Entry>
-    <Entry key="GUI_PLAYERS_IN_LOBBY">Show Players in Lobby: %num%</Entry>
+    <Entry key="GUI_PLAYERS_IN_LOBBY">房间内玩家数：%num%</Entry>
     <Entry key="GUI_PLAYERS">Players</Entry>
     <Entry key="GUI_ROLES_IN_LOBBY">身份: %num% | 玩家: %num2%</Entry>
     <Entry key="GUI_OPEN_OPTIONS_BUTTON_TOOLTIP">选项面板</Entry>
@@ -375,6 +381,8 @@ Please choose another.</Entry>
     <Entry key="GUI_GAME_START_REASON_9">There are too many Traitor roles.</Entry>
     <!--TOO_MANY_ANY_ROLES = 10, -->
     <Entry key="GUI_GAME_START_REASON_10">The role list cannot contain more than 3 Any roles.</Entry>
+    <!--TEAMS_NOT_EVEN = 11, -->
+    <Entry key="GUI_GAME_START_REASON_11">两队玩家数量要相等。</Entry>
     <!--NONE = 0, -->
     <Entry key="GUI_GAME_CANT_PUBLIC_REASON_0">Error: Divide by cucumber.</Entry>
     <!--NOT_ENOUGH_ROLES = 1, -->
@@ -1126,6 +1134,15 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_YOU_ARE_POSSESSED">你被占据了身体！</Entry>
     <Entry key="GUI_GAME_JESTER_TARGET_DIED">%name% 死于小丑的诅咒！</Entry>
     <Entry key="GUI_GAME_JESTER_TARGET_DIED_ME">你死于小丑的诅咒！</Entry>
+    <!--PickUpEnemyFlag = 1-->
+    <Entry key="GUI_CTF_ACTION_1_FACTION_4">%name% 得到了狮队的旗帜！</Entry>
+    <Entry key="GUI_CTF_ACTION_1_FACTION_5">%name% 得到了蛙队的旗帜！</Entry>
+    <!--RecaptureOwnFlag = 2-->
+    <Entry key="GUI_CTF_ACTION_2_FACTION_4">%name% 将蛙队的旗帜送回了基地！</Entry>
+    <Entry key="GUI_CTF_ACTION_2_FACTION_5">%name% 将狮队的旗帜送回了基地！</Entry>
+    <!--DropFlagOnGoal = 3-->
+    <Entry key="GUI_CTF_ACTION_3_FACTION_4">%name% 为蛙队夺得一分！</Entry>
+    <Entry key="GUI_CTF_ACTION_3_FACTION_5">%name% 为狮队夺得一分！</Entry>
     <Entry key="GUI_GAME_DIED_OF_DOOM">%name% 死于诅咒！</Entry>
     <Entry key="GUI_GAME_DIED_OF_DOOM_ME">你死于诅咒！</Entry>
     <Entry key="GUI_GAME_DIED_OF_LEFT_GAME">%name% 从人生中掉线了。</Entry>
@@ -1171,6 +1188,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_HEXMASTER_CINEMATIC_TEXT">巫术师施法消灭了整个小镇！</Entry>
     <Entry key="GUI_BANISHMENT_CINEMATIC_TEXT">小镇驱逐了死灵之书！</Entry>
     <Entry key="GUI_GAME_OVER_CINEMATIC_TEXT">游戏结束！</Entry>
+    <Entry key="GUI_CTF_CINEMATIC_TEXT">比赛结果</Entry>
     <Entry key="GUI_CURSE_TOTEM_CINEMATIC_TEXT">一种致命的诅咒摧毁了小镇！</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_1">Alerted Veteran</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_2">Cultist Convert</Entry>
@@ -1202,7 +1220,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_DISCUSSION_VOTE">Discussion Vote</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_TRIAL_VOTE">Trial Vote</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_TOWN_MEETING">小镇集会</Entry>
-    <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_FORTUNE_TELLER">Fortune Teller Role Reveal</Entry>
+    <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_FORTUNE_TELLER">算命师展示身份</Entry>
+    <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_PLAYER_IS_DEAD">Player is Dead</Entry>
+    <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_PLAYER_WAS_DOOMED">Player Died of Doom</Entry>
     <Entry key="GUI_CHAT_LOG_ICON_TOOLTIP_CUSTOM_MESSAGE">Message</Entry>
     <Entry key="GUI_CHAT_LOG_FORTUNE_TELLER_REVEAL">算命师展示了 %name% 的身份是 %role%！</Entry>
     <Entry key="GUI_CHAT_LOG_FORTUNE_TELLER_REVEAL_YOU">算命师展示了你的身份是 %role%！</Entry>
@@ -1801,7 +1821,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_DIALOG_27_2">啊哈！我就知道我没看错人！现在，我会教你如何像猫一样行动！</Entry>
     <!--No entry for Quest 30 as there is no dialog with NPC-->
     <Entry key="GUI_DIALOG_TITLE_32_0">获取小约翰的青蛙</Entry>
-    <Entry key="GUI_DIALOG_32_0">那该死的书把我的魔法青蛙吓跑了。我估计他现在在围栏的另一边。如果你能把他带回来给我，我会让我的青蛙帮你提升夜间视力。</Entry>
+    <Entry key="GUI_DIALOG_32_0">那该死的书把我的魔法青蛙吓跑了。我估计他现在在农场仓院的另一边。如果你能把他带回来给我，我会让我的青蛙帮你提升夜间视力。</Entry>
     <Entry key="GUI_DIALOG_TITLE_32_2">获得小约翰的青蛙！</Entry>
     <Entry key="GUI_DIALOG_32_2">谢谢你帮我找到了我的青蛙！小青蛙，帮我的朋友提升他的夜视能力吧！</Entry>
     <Entry key="GUI_QUEST_TASK_1_0">与酒馆中的杰奎琳谈话</Entry>
@@ -1865,9 +1885,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TASK_31_0">摧毁农场中的血图腾！</Entry>
     <Entry key="GUI_QUEST_TASK_31_0_EVIL">小镇会试着阻止农场中的血月！</Entry>
     <Entry key="GUI_QUEST_TASK_32_0">前往农场找到并与小约翰对话</Entry>
-    <Entry key="GUI_QUEST_TASK_32_1">打开围栏大门并找到青蛙</Entry>
+    <Entry key="GUI_QUEST_TASK_32_1">打开仓院大门并找到青蛙</Entry>
     <Entry key="GUI_QUEST_TASK_32_2">将青蛙带回给小约翰</Entry>
-	<Entry key="GUI_QUEST_PROGRESS_TOOLTIP">任务完成进度</Entry>
+    <Entry key="GUI_QUEST_PROGRESS_TOOLTIP">任务完成进度</Entry>
     <Entry key="GUI_QUEST_TASK_1_TOOLTIP_TITLE">收集水果</Entry>
     <Entry key="GUI_QUEST_TASK_2_TOOLTIP_TITLE">修复吊桥</Entry>
     <Entry key="GUI_QUEST_TASK_3_TOOLTIP_TITLE">算命</Entry>
@@ -1930,7 +1950,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TASK_30_TOOLTIP">Sabotage the gears on the drawbridge to leave it raised. 提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP">Get to the Blood Totem at the Farm as fast in order to get your vision back. 提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TASK_31_TOOLTIP_EVIL">The Town will try to stop the Blood Moon at the Farm. 提示：点击任务获得指引。</Entry>
-    <Entry key="GUI_QUEST_TASK_32_TOOLTIP">John Jr has given you a quest to collect his frog at the Corral. Beware the farm animals milling about. Once you have the frog, bring it back to John Jr. 提示：点击任务获得指引。</Entry>
+    <Entry key="GUI_QUEST_TASK_32_TOOLTIP">小约翰交给你一个任务——在农场仓院找到他的青蛙。小心在农场横冲直撞的动物。找到青蛙后，将它带回给小约翰。提示：点击任务获得指引。</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE">完成任务以帮助阻止邪恶</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_TITLE">完成任务以放逐死灵之书</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_DESC">小镇能通过完成任务来帮助驱逐死灵之书。一旦完成了足够多的任务，老牧师会举行一个能永远摆脱那本破书的仪式。</Entry>
@@ -1946,12 +1966,12 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE">使用小镇中心的任务板获取更多任务</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE_TITLE">使用任务板</Entry>
     <Entry key="GUI_QUEST_TIP_TOWN_ALIVE_ALL_QUESTS_COMPLETE_DESC">你的任务做完了，你可以从任务板获取新的任务。提示：点击此处获得指引。</Entry>
-    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">杀死镇民并施放法术</Entry>
-    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">杀死镇民并施放法术</Entry>
-    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_DESC">You have no more quests to fake. Kill Townies and cast spells to cause havoc.</Entry>
-	<Entry key="GUI_QUEST_TIP_CTF">Capture the flag!</Entry>
-    <Entry key="GUI_QUEST_TIP_CTF_TITLE">Capture the enemy flag</Entry>
-    <Entry key="GUI_QUEST_TIP_CTF_DESC">Return the enemy flag to your base to score points.  First team to 3 points wins!</Entry>
+    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">杀死镇民，施放法术，或使用任务板</Entry>
+    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">杀死镇民，施放法术，或前往任务板</Entry>
+    <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_DESC">你无法再假装做任务了。前往任务板获取更多任务，继续杀死镇民，或施放法术来制造混乱。</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF">得到旗帜！</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF_TITLE">得到敌人的旗帜</Entry>
+    <Entry key="GUI_QUEST_TIP_CTF_DESC">将敌人的旗帜带回基地以获取得分。最先得到 3 分的队伍获胜！</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_1">干得好！你已收集到足够的水果，现在回到酒馆带给杰奎琳。</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_2">干得好！齿轮已被修复，吊桥现在被放下来了。</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_4">太棒了！你收集到了圣水。现在将它送给洞穴中的牧师黑尔。</Entry>
@@ -2096,7 +2116,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
 •使用能力按钮在一段时间内隐身。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_DISGUISER">•使用杀戮按钮来杀死高亮的玩家。
-•使用能力按钮对一名玩家采样。再次使用能让你在一段时间内变成该玩家的模样。
+•使用能力按钮对一名玩家采样。再次使用能让你变成该玩家的模样，直到你主动取消能力。
 •获胜条件：所有小镇成员皆死亡。</Entry>
     <Entry key="GUI_ROLE_DESC_INQUISITOR">•使用杀戮按钮来杀死高亮的玩家。
 •使用能力按钮来替所有叛徒获取一名玩家的身份。
@@ -2199,6 +2219,8 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
 •使用能力按钮将另一名玩家转化成邪教徒。
 •大多数被转化的玩家会保留其原来的能力，同时获得杀死他人的能力。
 •获胜条件：所有小镇成员皆死亡。</Entry>
+    <Entry key="GUI_ROLE_DESC_TEAM1">•得到狮队的旗帜三次，以确保蛙队的胜利！</Entry>
+    <Entry key="GUI_ROLE_DESC_TEAM2">•得到蛙队的旗帜三次，以确保狮队的胜利！</Entry>
     <Entry key="GUI_ROLE_BLURB_TOWNIE">你是一名无辜的小镇成员！</Entry>
     <Entry key="GUI_ROLE_BLURB_TRAITOR">杀死所有小镇成员！</Entry>
     <Entry key="GUI_ROLE_BLURB_JESTER">在被吊死后占据镇民的身体。</Entry>
@@ -2230,10 +2252,14 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_ROLE_BLURB_KING">对一名玩家封爵，使其获得更多票数。</Entry>
     <Entry key="GUI_ROLE_BLURB_ILLUSIONIST">对一名玩家采样，并创造出其幻象以制造混乱。</Entry>
     <Entry key="GUI_ROLE_BLURB_CULTIST">将一名镇民转化为邪教成员，赋予其杀人的能力。</Entry>
-	<Entry key="GUI_TEAM_1_TITLE">Frog Team</Entry>
-    <Entry key="GUI_TEAM_2_TITLE">Lion Team</Entry>
-    <Entry key="GUI_TEAM_1_BLURB">Capture the flag to lead the Frogs to victory!</Entry>
-    <Entry key="GUI_TEAM_2_BLURB">Capture the flag to lead the Lions to victory!</Entry>
+    <Entry key="GUI_TEAM_1_TITLE">蛙队</Entry>
+    <Entry key="GUI_TEAM_2_TITLE">狮队</Entry>
+    <Entry key="GUI_TEAM_1_BLURB">夺得旗帜以带领蛙队走向胜利！</Entry>
+    <Entry key="GUI_TEAM_2_BLURB">夺得旗帜以带领狮队走向胜利！</Entry>
+    <Entry key="GUI_TEAM_1_WIN_TITLE">蛙队获胜！</Entry>
+    <Entry key="GUI_TEAM_2_WIN_TITLE">狮队获胜！</Entry>
+    <Entry key="GUI_ENDGAME_TEAM_1_SCORE">蛙队：%num%</Entry>
+    <Entry key="GUI_ENDGAME_TEAM_2_SCORE">狮队：%num%</Entry>
     <Entry key="GUI_WON">获胜</Entry>
     <Entry key="GUI_LOST">失败</Entry>
     <Entry key="GUI_GAME_TOWN_MEETING_CALLED_BODY">%name% 报告了一具尸体。</Entry>
@@ -2290,6 +2316,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_CHOOSE_TARGET">选择目标</Entry>
     <Entry key="GUI_GAME_POSSESS">占据身体</Entry>
 	<Entry key="GUI_GAME_ABILITY_RESPAWN">重生</Entry>
+    <Entry key="GUI_GAME_ABILITY_MOVEMENT">快速移动</Entry>
+    <Entry key="GUI_GAME_ABILITY_DOUBLETAP">二次敲钟</Entry>
+    <Entry key="GUI_GAME_ABILITY_BARKSKIN">树皮盾</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP_TITLE">处决你的目标</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_SEE_CHOOSE_TOOLTIP_TITLE">把他们都吊死！</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_EXECUTE_TOOLTIP">说服小镇吊死 %name% 以诅咒一名镇民。</Entry>
@@ -2424,7 +2453,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_MINIGAME_CATCHEM_REMAINING">剩余：%value%</Entry>
     <Entry key="GUI_GAME_MINIGAME_DEMONDOG_INSTRUCTIONS">在地狱犬睡着时缓慢前进，在 %seconds% 秒内得到蕴魔长笛。</Entry>
     <Entry key="GUI_GAME_MINIGAME_DEMONDOG_ZINGER">地狱犬发现你了！快跑！！！</Entry>
-    <Entry key="GUI_GAME_MINIGAME_FROGGER_INSTRUCTIONS">在不被动物碰到的情况下，穿过围栏抵达末端的青蛙处。剩余时间：%seconds%秒</Entry>
+    <Entry key="GUI_GAME_MINIGAME_FROGGER_INSTRUCTIONS">在不被动物碰到的情况下，穿过仓院抵达末端的青蛙处。剩余时间：%seconds%秒</Entry>
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_0">中了！</Entry>
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_1">很接近了！</Entry>
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_2">有点近了！</Entry>
@@ -2432,6 +2461,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_MINIGAME_SAFE_INSTRUCTIONS_4">差得远了！</Entry>
     <Entry key="GUI_GAME_MINIGAME_WEAPON">点击武器将其放回原位。</Entry>
     <Entry key="GUI_GAME_MINIGAME_CLOCK">Set the time to %time%.</Entry>
+    <Entry key="GUI_GAME_MINIGAME_SHUFFLE">重置</Entry>
     <Entry key="GUI_GAME_POISONED_TARGET">你对 %name% 下毒了！</Entry>
     <Entry key="GUI_GAME_MEDIUM_ABILITY_ACTIVATED">你可以在短时间内向整个小镇展示一名活着的玩家的身份！</Entry>
     <Entry key="GUI_GAME_INVSIBILITY_ABILITY_ENABLED">你现在可以在短时间内激活你的隐形能力！</Entry>
@@ -2679,7 +2709,39 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>5/9/2022</b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 7 - 5/16/2022</b>
+
+• Added a new Chaos - Capture the Flag game mode.
+• Added Coven Leader skin.
+• Fixed a number of issues relating to the Disguiser role, including disguise not being removed upon death, Disguiser ability effect icon remaining over the Disguiser ghosts head, Kill Cinematic when Disguiser is killed showing their disguise instead of their real skin, Disguiser ghosts not appearing on Traitor Victory screen, and a killed Disguiser showing up in the next game with the disguised skin still.
+• Quest reticles now autoactivate to point the way to the first quest in your task list. You can still click other tasks in your task list to change the arrow to point to another task.
+• Quest reticles will now autopoint to an active spell Totem.
+• Fixed an issue where totem destructions were not being properly registered on the server.
+• Fixed an issue when two players attempt to claim the same findable quest.
+• The selected task (for targeting reticles) will now be retained even when going through other phases such as Discussion, Trial, etc.
+• Self-targeting reticles no longer shows on a traitor when they cast a totem spell.
+• The task text "Complete Quests to help stop Evil" is now removed when the final quest starts to remove any confusion as to what the player should be doing. Only the final quest text will remain in the task list area.
+• Simplified the Dispel Magic minigame.
+• Added a Shuffle button to the Dispel Magic minigame.
+• Reduced the cooldown of the Displace spell from 120 seconds to 90 seconds.
+• The Select Spell button now uses the same hotkey as the Spell Book icon, since they both now take you to the same Spell Book popup.
+• A Cultist killing a player which results in the game ending will no longer occasionally show the "Game Over" screen rather than the final kill cinematic.
+• Day/Night shading is now always correct on the Victory screen. Day for Town win, Night for Traitor win.
+• Fixed several areas where NPCs could not enter that they should have had access.
+• Fixed the Hotkey display on the Coroner Examine button.
+• Renamed hotkeys (Alpha1, Alpha 2, Alpha 3) to (1, 2, 3) respectively. This will show in the Settings popup key bindings panel, as well as the hotkey labels themselves that are displayed on various buttons.
+• Fixed a number of tooltip issues in the Chat Log popup while mousing over icons in the chat log entries.
+• Refactored AFK to be tracked on the server. Added an AFK icon that displays over player's head to notify players when someone is AFK.
+• Renamed Corral to Barnyard on map and in all quest text.
+• Added pigs and cows into the Catch Frog quest minigame.
+• Integrated pig, sheep, and cow collision sounds into Catch Frog quest minigame.
+• Rearranged the animals in the Catch Frog quest minigame to make it slightly harder to complete.
+• Added click sounds to NPC dialog OK/Cancel buttons.
+• New custom lobby names will now default to include the account name of the host (i.e.: "MyAccountName Lobby").
+• Town Points rollup cinematic no longer gets stuck at +1 TP remaining.
+• Fixed a number of non-crashing Null Reference Exceptions.
+
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 6 - 5/9/2022</b>
 
 • Refactored Disguiser to make their disguise permanent until removed by player.
 • Person last hanged no longer disappears at the start of the final hanging cinematic.
@@ -2696,7 +2758,7 @@ The BMG Dev team
 • Fixed an ArgumentException affecting a small number of players.
 • Fixed several NullReferenceExceptions affecting a small number of players.
 
-<align=center><b><size=110%>• • •</size></b></align><b>5/2/2022</b>
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 4 & 5 - 5/2/2022</b>
 
 • Added Anubis skin.
 • Added dead text chat during roaming phase.
@@ -2734,7 +2796,7 @@ The BMG Dev team
 • Fixed an end game camera issue.
 • Fixed some map clipping issues.
 
-<align=center><b><size=110%>• • •</size></b></align><b>4/27/2022</b>
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 3 - 4/27/2022</b>
 
 • Many performance improvements.
 • Increased veteran alert duration from 5s to 10s
@@ -2755,7 +2817,7 @@ The BMG Dev team
 • By default, when entering any lobby, if you have not previously set an in-game name, the Wardrobe panel will open and display the In-Game Name input box.
 • Fixed tooltip fadeout.
 
-<align=center><b><size=110%>• • •</size></b></align><b>4/25/2022</b>
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 2 - 4/25/2022</b>
 
 • Added an AFK system.
 • Reduced default volume of effects and music to 50%.
@@ -2781,7 +2843,7 @@ The BMG Dev team
 • Made the bind spells button a toggle so that it can open or close the bind menu without binding a spell.
 • Added the beginnings of a "Tips" system.
 
-<align=center><b><size=110%>• • •</size></b></align><b>4/22/2022</b>
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 1 - 4/22/2022</b>
 
 • Initial beta release.
 
