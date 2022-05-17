@@ -316,7 +316,7 @@ Please choose another.</Entry>
     <Entry key="GUI_CREATE_BUTTON_TOOLTIP">创建一个自定义游戏</Entry>
     <Entry key="GUI_JOIN_RANDOM_CUSTOM_TOOLTIP">快速加入一场随机自定义游戏</Entry>
     <Entry key="GUI_CLASSIC_MODE_BANNER">经典模式</Entry>
-	<Entry key="GUI_CTF_BANNER">占领旗帜</Entry>
+	<Entry key="GUI_CTF_BANNER">夺旗模式</Entry>
     <Entry key="GUI_TUTORIAL_BANNER">教程</Entry>
     <Entry key="GUI_GAME_BROWSER_TITLE">游戏浏览器</Entry>
     <Entry key="GUI_GAME_BROWSER_BUTTON">浏览游戏</Entry>
