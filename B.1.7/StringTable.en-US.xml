@@ -1,67 +1,67 @@
 <StringTable>
     <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
     <!--Characters-->
+    <!--Random Townie-->
     <Entry key="ITEM_3_-3">Random Townie</Entry>
-    <Entry key="ITEM_3_0">Warlock</Entry>
+    <!--Warlock-->
     <Entry key="ITEM_3_0_BLURB">A scythe user, skilled in the eldritch arts. Fancies himself as a great tofu chef.</Entry>
-    <Entry key="ITEM_3_1">Pirate</Entry>
+    <!--Pirate-->
     <Entry key="ITEM_3_1_BLURB">Avast ye landlubbers!  This Pirate be here to buckle yer swash!</Entry>
-    <Entry key="ITEM_3_2">Faerie</Entry>
+    <!--Faerie-->
     <Entry key="ITEM_3_2_BLURB">Once believed to be tall tales, Faerie hails from the dark woods near Salem.</Entry>
-    <Entry key="ITEM_3_3">Kitsune</Entry>
+    <!--Kitsune-->
     <Entry key="ITEM_3_3_BLURB">A half-demon hailing from a foreign land. Some say his bell can be heard in the morning mist.</Entry>
-    <Entry key="ITEM_3_4">Death</Entry>
+    <!--Death-->
     <Entry key="ITEM_3_4_BLURB">You may try to run, but no one can escape him.</Entry>
     <!--Pets-->
-    <Entry key="ITEM_4_0">No Pet</Entry>
+    <!--No Pet-->
     <Entry key="ITEM_4_0_BLURB">No Pet, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry>
-    <Entry key="ITEM_4_1">Black Cat</Entry>
+    <!--Black Cat-->
     <Entry key="ITEM_4_1_BLURB">This cute cuddly furball is the perfect witch's pet.</Entry>
-    <Entry key="ITEM_4_2">White Wolf</Entry>
+    <!--White Wolf-->
     <Entry key="ITEM_4_2_BLURB">A loyal and fierce companion.</Entry>
-    <Entry key="ITEM_4_3">Pale Horse</Entry>
+    <!--Pale Horse-->
     <Entry key="ITEM_4_3_BLURB">A reliable steed fit for Death.</Entry>
-    <Entry key="ITEM_4_4">Mushruwum</Entry>
+    <!--Mushruwum-->
     <Entry key="ITEM_4_4_BLURB">Magical energy seeping into the ground has brought this happy mushroom to life!</Entry>
-    <Entry key="ITEM_4_5">Poe</Entry>
+    <!--Poe-->
     <Entry key="ITEM_4_5_BLURB">A rapping at the Tavern door, and what do you find? An adorable raven.</Entry>
-    <Entry key="ITEM_4_6">Gobby</Entry>
+    <!--Gobby-->
     <Entry key="ITEM_4_6_BLURB">Dressed in rags, but look at that smile!</Entry>
-    <Entry key="ITEM_4_7">Hammond</Entry>
+    <!--Hammond-->
     <Entry key="ITEM_4_7_BLURB">Bacon may be delicious, but he's just too cute!</Entry>
-    <Entry key="ITEM_4_8">Bessie</Entry>
+    <!--Bessie-->
     <Entry key="ITEM_4_8_BLURB">Bessie is the oldest cow in Salem, but also the toughest!</Entry>
-    <!--SKINS-->&gt;
-    
-    <Entry key="ITEM_5_0">Red Warlock</Entry>
+    <!--SKINS-->
+    <!--Red Warlock-->
     <Entry key="ITEM_5_0_BLURB">Robes of dusk, lined with forged moonlight; rend your enemies in the latest chthonic style.</Entry>
-    <Entry key="ITEM_5_1">Betty</Entry>
+    <!--Betty-->
     <Entry key="ITEM_5_1_BLURB">Miller's attempts to fit in with the folks of Salem have manifested a whole new personality!</Entry>
-    <Entry key="ITEM_5_2">Dusty Moth</Entry>
+    <!--Dusty Moth-->
     <Entry key="ITEM_5_2_BLURB">Heal, Sight and Kill are thrown to the wind. What do her potions contain now?</Entry>
-    <Entry key="ITEM_5_3">Husky</Entry>
+    <!--Husky-->
     <Entry key="ITEM_5_3_BLURB">Often mistaken for a Yeti, the arctic tundra means nothing for the king of blizzards.</Entry>
-    <Entry key="ITEM_5_4">White Witch</Entry>
+    <!--White Witch-->
     <Entry key="ITEM_5_4_BLURB">In her pursuit of white magic, her clothes have been permantently dyed white from druidic fumes.</Entry>
-    <Entry key="ITEM_5_5">War</Entry>
+    <!--War-->
     <Entry key="ITEM_5_5_BLURB">The Smith used to create, now that he is War he only destroys.</Entry>
-    <Entry key="ITEM_5_6">Pestilence</Entry>
+    <!--Pestilence-->
     <Entry key="ITEM_5_6_BLURB">After many mutations the Plaguebearer's diseases have evolved into a Pestilence.</Entry>
-    <Entry key="ITEM_5_7">Famine</Entry>
+    <!--Famine-->
     <Entry key="ITEM_5_7_BLURB">Once a bright eyed Baker, now their hunger can never be satiated.</Entry>
-    <Entry key="ITEM_5_8">Anubis</Entry>
+    <!--Anubis-->
     <Entry key="ITEM_5_8_BLURB">Place your heart on the golden scales, does it weigh more than the feather of truth?</Entry>
-    <Entry key="ITEM_5_9">Coven Leader</Entry>
+    <!--Coven Leader-->
     <Entry key="ITEM_5_9_BLURB">Staring into the blood moon, her eyes fill with frenzied magic. The Coven Leader is born.</Entry>
-    <!--Accessories-->
+    <!--ACCESSORIES-->
     <!--
     <Entry key="ITEM_3_1">Accessory 0</Entry><Entry key="ITEM_3_1_BLURB">Accessory 0, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry><Entry key="ITEM_3_2">Accessory 1</Entry><Entry key="ITEM_3_2_BLURB">Accessory 1, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry>
     -->
-    <!--Packs-->
+    <!--PACKS-->
     <!--
     <Entry key="ITEM_4_1">Boat Load of Swag</Entry><Entry key="ITEM_4_1_BLURB">Boat Load of Swag, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry>
     -->
-    <!--Currency Items-->
+    <!--CURRENCY ITEMS-->
     <Entry key="ITEM_1_1">Town Points</Entry>
     <Entry key="ITEM_1_1_BLURB">Money is great!  Get more money!</Entry>
     <Entry key="ITEM_1_1_1">1,300 Town Points</Entry>
@@ -80,9 +80,51 @@
     <Entry key="ITEM_1_1_7_BLURB">Money is great!  Get more money!</Entry>
     <Entry key="ITEM_1_1_8">100 Town Points</Entry>
     <Entry key="ITEM_1_1_8_BLURB">Money is great!  Get more money!</Entry>
-    <!--Account Items-->
+    <!--ACCOUNT ITEMS-->
     <Entry key="ITEM_2_0">Name Change</Entry>
     <Entry key="ITEM_2_0_BLURB">Change your user name now!</Entry>
+    <!--CHARACTER SKIN NAMES-->
+    <Entry key="SKIN_-3">Random Townie</Entry>
+    <Entry key="SKIN_0">Pilgrim</Entry>
+    <Entry key="SKIN_1">Miller</Entry>
+    <Entry key="SKIN_2">Elder</Entry>
+    <Entry key="SKIN_3">Tailor</Entry>
+    <Entry key="SKIN_4">Lumberjack</Entry>
+    <Entry key="SKIN_5">Hunter</Entry>
+    <Entry key="SKIN_6">Smithy</Entry>
+    <Entry key="SKIN_7">Bard</Entry>
+    <Entry key="SKIN_8">Falconer</Entry>
+    <Entry key="SKIN_9">Vampyr</Entry>
+    <Entry key="SKIN_10">Witch</Entry>
+    <Entry key="SKIN_11">Plaguebearer</Entry>
+    <Entry key="SKIN_12">PotionMaster</Entry>
+    <Entry key="SKIN_13">Werewolf</Entry>
+    <Entry key="SKIN_14">Medusa</Entry>
+    <Entry key="SKIN_15">Warlock</Entry>
+    <Entry key="SKIN_16">Red Warlock</Entry>
+    <Entry key="SKIN_17">Pirate</Entry>
+    <Entry key="SKIN_18">Faerie</Entry>
+    <Entry key="SKIN_19">Kitsune</Entry>
+    <Entry key="SKIN_20">Betty</Entry>
+    <Entry key="SKIN_21">DustyMoth</Entry>
+    <Entry key="SKIN_22">Husky</Entry>
+    <Entry key="SKIN_23">White Witch</Entry>
+    <Entry key="SKIN_24">War</Entry>
+    <Entry key="SKIN_25">Pestilence</Entry>
+    <Entry key="SKIN_26">Famine</Entry>
+    <Entry key="SKIN_27">Death</Entry>
+    <Entry key="SKIN_28">Anubis</Entry>
+    <Entry key="SKIN_29">Coven Leader</Entry>
+    <!--PET SKIN NAMES-->
+    <Entry key="PET_SKIN_-1">No Pet!!</Entry>
+    <Entry key="PET_SKIN_1">Black Cat</Entry>
+    <Entry key="PET_SKIN_2">White Wolf</Entry>
+    <Entry key="PET_SKIN_3">Pale Horse</Entry>
+    <Entry key="PET_SKIN_4">Mushruwum</Entry>
+    <Entry key="PET_SKIN_5">Poe</Entry>
+    <Entry key="PET_SKIN_6">Gobby</Entry>
+    <Entry key="PET_SKIN_7">Hammond</Entry>
+    <Entry key="PET_SKIN_8">Bessie</Entry>
     <Entry key="GUI_LOGIN_UPDATE_REQUIRED">Please update your application to log in.</Entry>
     <Entry key="GUI_LOGIN_CHECK_INTERNET">Please check your internet connection and try again.</Entry>
     <Entry key="GUI_LOGIN">Login</Entry>
@@ -1149,6 +1191,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <!--DropFlagOnGoal = 3-->
     <Entry key="GUI_CTF_ACTION_3_FACTION_4">%name% has scored a point for the Frogs!</Entry>
     <Entry key="GUI_CTF_ACTION_3_FACTION_5">%name% has scored a point for the Lions!</Entry>
+    <!--DropOnGroundWhenDead = 5-->
+    <Entry key="GUI_CTF_ACTION_5_FACTION_4">%name% has dropped the Lion's flag!</Entry>
+    <Entry key="GUI_CTF_ACTION_5_FACTION_5">%name% has dropped the Frog's flag!</Entry>
     <Entry key="GUI_GAME_DIED_OF_DOOM">%name% has died of doom!</Entry>
     <Entry key="GUI_GAME_DIED_OF_DOOM_ME">You have died of doom!</Entry>
     <Entry key="GUI_GAME_DIED_OF_LEFT_GAME">%name% disconnected from life.</Entry>
@@ -1975,9 +2020,18 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE">Kill Townies, cast spells, use the quest board</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_TITLE">Kill Townies, Cast Spells, and Visit the Quest Board</Entry>
     <Entry key="GUI_QUEST_TIP_TRAITOR_ALIVE_ALL_QUESTS_COMPLETE_DESC">You have no more quests to fake. Get more quests at the quest board. Keep killing Townies and casting spells to cause havoc.</Entry>
+    <Entry key="GUI_QUEST_TIP_TUT_ACTIVE">Complete the Tutorial</Entry>
+    <Entry key="GUI_QUEST_TIP_TUT_ACTIVE_TITLE">Complete The Tutorial</Entry>
+    <Entry key="GUI_QUEST_TIP_TUT_ACTIVE_DESC">Have fun, enjoy exporing the map, and try out quests!</Entry>
+    <Entry key="GUI_QUEST_TIP_TUT_DONE">Exit the Tutorial</Entry>
+    <Entry key="GUI_QUEST_TIP_TUT_DONE_TITLE">Exit the Tutorial</Entry>
+    <Entry key="GUI_QUEST_TIP_TUT_DONE_DESC">You have completed the tutorial.  Exit it thru the options menu.</Entry>
     <Entry key="GUI_QUEST_TIP_CTF">Capture the flag!</Entry>
     <Entry key="GUI_QUEST_TIP_CTF_TITLE">Capture the enemy flag</Entry>
     <Entry key="GUI_QUEST_TIP_CTF_DESC">Return the enemy flag to your base to score points.  First team to 3 points wins!</Entry>
+    <Entry key="GUI_TUTORIAL_TIP_NIGHT_LINE">Learn about nighttime.</Entry>
+    <Entry key="GUI_TUTORIAL_TIP_NIGHT_TITLE">Daytime and Night time</Entry>
+    <Entry key="GUI_TUTORIAL_TIP_NIGHT_DESC">Night time is scary!  During night time, townies get reduced vision, can't use telescopes, and can't use the meeting bell to start meetings in the town square.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_1">Well done! You have collected enough fruit. Bring it to Jacqueline in the Tavern.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_2">Good job! The gears have been fixed and the drawbridge has been lowered.</Entry>
     <Entry key="GUI_QUEST_TASK_COMPLETE_TEXT_4">Excellent! You have collected the Holy Water. Deliver it to Reverend John Hale at the Cave.</Entry>
@@ -2514,6 +2568,12 @@ Task Complete!</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_SEEINGDOUBLE">Create illusions of players that will perform random actions.</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_ICESTORM">Create a totem that summons an Ice Storm to slow movement speed of all players outdoors.</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_DISPLACE">Teleport all players to random locations around the map.</Entry>
+    <Entry key="GUI_TUTORIAL_CLICK_START">Click Start Game to begin the tutorial</Entry>
+    <Entry key="GUI_TUTORIAL_HOW_TO_MOVE">Use WASD or hold left-click to move around.</Entry>
+    <Entry key="GUI_TUTORIAL_EXPLORE_MAP">Wander around and explore the map!  Use the "M" key, or click the map button at the bottom left to view the map</Entry>
+    <Entry key="GUI_TUTORIAL_USE_ABILITY">Click your role card in the bottom left to read about your role and abilities.  Click your ability button on the bottom right to use your role's ability. </Entry>
+    <Entry key="GUI_TUTORIAL_DO_QUESTS">In the top left you can find your active quests. You can mouse over a quest for more details, or click it to track a specific quest. Complete your first quest!</Entry>
+    <Entry key="GUI_TUTORIAL_HOW_TO_EXIT">When you are ready to leave the tutorial you can click the settings button, or click escape. Then click Return to Home.</Entry>
     <Entry key="CAULDRON_LABEL_0">Merry Meet!</Entry>
     <Entry key="CAULDRON_LABEL_1">Only
         <![CDATA[<b><color=#006600>]]> {NUM_DAYS} 
@@ -2705,8 +2765,8 @@ Task Complete!</Entry>
         <![CDATA[
 SEE CHANGE LOG BELOW.
 
-<b>4/22/2022</b>
-Hey Townies, thank you for participating in our Traitors in Salem Early Access Beta. We are very pleased to open our game up to more players, and we look forward to any feedback you would like to provide to help us improve the game. During the Beta period, we will be periodically releasing bug fixes and new features. With each release, we will update the change log below accordingly.
+<b>5/23/2022</b>
+Hey Townies, thank you for participating in our Traitors in Salem Early Access Beta. During the Beta period, we will be periodically releasing bug fixes and new features. Today we are releasing the Beta 8 patch (see details in Change Log below).
 
 As you might expect for a beta release, you may encounter some bugs here and there, and some things may not yet be at a completely polished finished state. When that happens, you can help by capturing the bug with as much detail as possible and reporting it in the official Traitors in Salem bug report forum (accessible via button click in the Settings popup in the game). This beta release also includes an automated bug reporting mechanism that does not require any user interaction to notify us of certain exceptions that may occur. By playing Traitors in Salem, you agree to allow the automated bug reporting system to submit bugs on your behalf. These autosubmitted bugs are crashes or unhandled exceptions, and usually won't be triggered by visual bugs or gameplay bugs, so your manual bug reports have great value.
 
@@ -2715,28 +2775,58 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 7 - 5/16/2022</b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 8 - 5/23/2022</b><b><u>New Features</u></b>
+
+• Added new Tutorial mode.
+• Added new Hammond pet pig.
+• Added new Bessie pet cow.
+• Individual players can now have their volume changed in the Player List (hotkey P).
+• Added effects for when a players character changes (in lobby and when disguised).
+• Added new victory animations on win screen.
+
+<b><u>Improvements</u></b>
+
+• Capture the Flag: Teams are now notified when someone dies with the flag and drops it on the ground.
+• Discussion screen player buttons:
+- Removed the skin name from the buttons to alleviate confusion.
+- Players are now sorted top-to-bottom by alive/recently dead/older dead.
+- Certain ability effects on now shown on the buttons. Traitor effects are shown first, then townie effects.
+- On dead players, a tombstone image with day/night number of death is now displayed. Tombstones appear opaque for recently dead players, 50% transparent for old dead players.
+- Player names are now shown in normal case rather than all upper case.
+- The executioner's target player name will no longer be colored yellow since we now have an icon signifying the same thing.
+• Barkskin Boon:
+- The effect icon will now be visible to all players, so all players will know when a person has the boon.
+- An attack upon a player with the Barkskin boon will now show the attack animation and a shield break effect.
+• Improved the Confuse spell to randomly change how our controls are inverted.
+• Bloody hands are now only cleared upon town meetings.
+• Refactored our 3D audio. Fixed some missing spatial sfx.
+• Pets and characters now share localized name across all screens (Customization, Shop, in-game, etc).
+
+<b><u>Bug Fixes</u></b>
+
+• Capture the Flag:
+- Users disconnecting from a game will now drop the flag.
+- Players can no longer grab the flag exactly as they get killed and keep the flag beyond death.
+- The goblin will no longer be missing their flag in win animation.
+- The trumpet will no longer get stuck on win screen.
+• Players are less likely to pop when they move thru a lag spike.
+
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 7 - 5/16/2022</b><b><u>New Features</u></b>
 
 • Added a new Chaos - Capture the Flag game mode.
 • Added Coven Leader skin.
-• Fixed a number of issues relating to the Disguiser role, including disguise not being removed upon death, Disguiser ability effect icon remaining over the Disguiser ghosts head, Kill Cinematic when Disguiser is killed showing their disguise instead of their real skin, Disguiser ghosts not appearing on Traitor Victory screen, and a killed Disguiser showing up in the next game with the disguised skin still.
+
+<b><u>Improvements</u></b>
+
 • Quest reticles now autoactivate to point the way to the first quest in your task list. You can still click other tasks in your task list to change the arrow to point to another task.
 • Quest reticles will now autopoint to an active spell Totem.
-• Fixed an issue where totem destructions were not being properly registered on the server.
-• Fixed an issue when two players attempt to claim the same findable quest.
 • The selected task (for targeting reticles) will now be retained even when going through other phases such as Discussion, Trial, etc.
-• Self-targeting reticles no longer shows on a traitor when they cast a totem spell.
 • The task text "Complete Quests to help stop Evil" is now removed when the final quest starts to remove any confusion as to what the player should be doing. Only the final quest text will remain in the task list area.
 • Simplified the Dispel Magic minigame.
 • Added a Shuffle button to the Dispel Magic minigame.
 • Reduced the cooldown of the Displace spell from 120 seconds to 90 seconds.
 • The Select Spell button now uses the same hotkey as the Spell Book icon, since they both now take you to the same Spell Book popup.
-• A Cultist killing a player which results in the game ending will no longer occasionally show the "Game Over" screen rather than the final kill cinematic.
-• Day/Night shading is now always correct on the Victory screen. Day for Town win, Night for Traitor win.
-• Fixed several areas where NPCs could not enter that they should have had access.
-• Fixed the Hotkey display on the Coroner Examine button.
 • Renamed hotkeys (Alpha1, Alpha 2, Alpha 3) to (1, 2, 3) respectively. This will show in the Settings popup key bindings panel, as well as the hotkey labels themselves that are displayed on various buttons.
-• Fixed a number of tooltip issues in the Chat Log popup while mousing over icons in the chat log entries.
 • Refactored AFK to be tracked on the server. Added an AFK icon that displays over player's head to notify players when someone is AFK.
 • Renamed Corral to Barnyard on map and in all quest text.
 • Added pigs and cows into the Catch Frog quest minigame.
@@ -2744,6 +2834,18 @@ The BMG Dev team
 • Rearranged the animals in the Catch Frog quest minigame to make it slightly harder to complete.
 • Added click sounds to NPC dialog OK/Cancel buttons.
 • New custom lobby names will now default to include the account name of the host (i.e.: "MyAccountName Lobby").
+
+<b><u>Bug Fixes</u></b>
+
+• Fixed a number of issues relating to the Disguiser role, including disguise not being removed upon death, Disguiser ability effect icon remaining over the Disguiser ghosts head, Kill Cinematic when Disguiser is killed showing their disguise instead of their real skin, Disguiser ghosts not appearing on Traitor Victory screen, and a killed Disguiser showing up in the next game with the disguised skin still.
+• Fixed an issue where totem destructions were not being properly registered on the server.
+• Fixed an issue when two players attempt to claim the same findable quest.
+• Self-targeting reticles no longer shows on a traitor when they cast a totem spell.
+• A Cultist killing a player which results in the game ending will no longer occasionally show the "Game Over" screen rather than the final kill cinematic.
+• Day/Night shading is now always correct on the Victory screen. Day for Town win, Night for Traitor win.
+• Fixed several areas where NPCs could not enter that they should have had access.
+• Fixed the Hotkey display on the Coroner Examine button.
+• Fixed a number of tooltip issues in the Chat Log popup while mousing over icons in the chat log entries.
 • Town Points rollup cinematic no longer gets stuck at +1 TP remaining.
 • Fixed a number of non-crashing Null Reference Exceptions.
 
