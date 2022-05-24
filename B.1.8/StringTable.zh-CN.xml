@@ -277,7 +277,7 @@ That username was taken!
 
 Please choose another.</Entry>
     <Entry key="GUI_YOU_HAVE_BEEN_LOGGED_OUT">由于不活跃，你已经自动登出游戏。</Entry>
-    <Entry key="GUI_SUCCESSFULLY_LOGGED_OUT">你成功的登出了游戏。</Entry>
+    <Entry key="GUI_SUCCESSFULLY_LOGGED_OUT">你已成功登出游戏。</Entry>
     <Entry key="GUI_RECONNECT_LOST_CONNECTION">与服务器失去连接。 尝试重新连接 (第 %num% 次尝试).</Entry>
     <Entry key="GUI_RECONNECT_MESSAGE_0">成功! 已经重新连接至服务器</Entry>
     <Entry key="GUI_RECONNECT_MESSAGE_1">Json错误! 无法重连至服务器。</Entry>
@@ -412,21 +412,21 @@ Please choose another.</Entry>
     <!--NOT_IN_LOBBY = 2, -->
     <Entry key="GUI_GAME_START_REASON_2">游戏正在开始。</Entry>
     <!--ROLES_DO_NOT_MATCH_PLAYERS = 3, -->
-    <Entry key="GUI_GAME_START_REASON_3">玩家数量与角色数量不匹配。</Entry>
+    <Entry key="GUI_GAME_START_REASON_3">玩家数量与身份数量不匹配。</Entry>
     <!--NOT_ENOUGH_PLAYERS = 4, -->
     <Entry key="GUI_GAME_START_REASON_4">必须要有至少 %num% 名玩家才能开始游戏。</Entry>
     <!--MISSING_BOTH_FACTIONS = 5, -->
-    <Entry key="GUI_GAME_START_REASON_5">角色列表必须同时包含叛徒与城镇角色。</Entry>
+    <Entry key="GUI_GAME_START_REASON_5">身份列表必须同时包含叛徒与城镇角色。</Entry>
     <!--MISSING_TOWN_FACTION = 6, -->
-    <Entry key="GUI_GAME_START_REASON_6">角色列表必须包含至少一个城镇角色。</Entry>
+    <Entry key="GUI_GAME_START_REASON_6">身份列表必须包含至少一个城镇角色。</Entry>
     <!--MISSING_TRAITOR_FACTION = 7, -->
-    <Entry key="GUI_GAME_START_REASON_7">角色列表必须包含至少一个叛徒角色。</Entry>
+    <Entry key="GUI_GAME_START_REASON_7">身份列表必须包含至少一个叛徒角色。</Entry>
     <!--INVALID_BANS = 8, -->
     <Entry key="GUI_GAME_START_REASON_8">The role list contains invalid bans.</Entry>
     <!--TOO_MANY_TRAITORS = 9, -->
-    <Entry key="GUI_GAME_START_REASON_9">叛徒角色太多了。</Entry>
+    <Entry key="GUI_GAME_START_REASON_9">叛徒身份太多了。</Entry>
     <!--TOO_MANY_ANY_ROLES = 10, -->
-    <Entry key="GUI_GAME_START_REASON_10">角色列表中同种角色不能超过三个。</Entry>
+    <Entry key="GUI_GAME_START_REASON_10">角色列表中同种身份不能超过三个。</Entry>
     <!--TEAMS_NOT_EVEN = 11, -->
     <Entry key="GUI_GAME_START_REASON_11">两队玩家数量要相等。</Entry>
     <!--NONE = 0, -->
@@ -434,15 +434,15 @@ Please choose another.</Entry>
     <!--NOT_ENOUGH_ROLES = 1, -->
     <Entry key="GUI_GAME_CANT_PUBLIC_REASON_1">身份列表必须包含至少 %num% 个身份。</Entry>
     <!--TOO_MANY_ANY_ROLES = 2, -->
-    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_2">角色列表中同种角色不能超过三个。</Entry>
+    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_2">身份列表中同种身份不能超过三个。</Entry>
     <!--MISSING_BOTH_FACTIONS = 3, -->
-    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_3">角色列表必须同时包含叛徒与城镇角色。</Entry>
+    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_3">身份列表必须同时包含叛徒与城镇身份。</Entry>
     <!--MISSING_TOWN_FACTION = 4, -->
-    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_4">角色列表必须包含至少一个城镇角色。</Entry>
+    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_4">身份列表必须包含至少一个城镇身份。</Entry>
     <!--MISSING_TRAITOR_FACTION = 5, -->
-    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_5">角色列表必须包含至少一个叛徒角色。</Entry>
+    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_5">身份列表必须包含至少一个叛徒身份。</Entry>
     <!--TOO_MANY_TRAITORS = 6, -->
-    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_6">叛徒角色太多了。</Entry>
+    <Entry key="GUI_GAME_CANT_PUBLIC_REASON_6">叛徒身份太多了。</Entry>
     <Entry key="GUI_NOTIFICATION_ACCEPT">接受</Entry>
     <Entry key="GUI_NOTIFICATION_DENY">拒绝</Entry>
     <Entry key="GUI_GAME_INVITE">游戏邀请</Entry>
@@ -455,7 +455,7 @@ Please choose another.</Entry>
     <Entry key="GUI_NOTIFICATION_GAME_NO_LONGER_EXISTS">Failed to join game because it no longer exists or has already started.</Entry>
     <Entry key="GUI_CANNOT_ACCEPT_SECOND_GAME">你无法接受第二场游戏的邀请。 在接受邀请前，请完成或退出第一场游戏。</Entry>
     <Entry key="GUI_MIN_PLAYERS_IN_GAME">游戏中必须要有至少 %number% 名玩家。</Entry>
-    <Entry key="GUI_LOBBY_MAX_ROLES_REACHED">角色列表已经填满了最多 (%number%) 名角色。</Entry>
+    <Entry key="GUI_LOBBY_MAX_ROLES_REACHED">身份列表已经填满了最多 (%number%) 名身份。</Entry>
     <Entry key="GUI_LOBBY_BANNED_ROLES_LIMITED">Aside from Traitor and Townie roles, there is a maximum of three (3) banned roles per role list.</Entry>
     <Entry key="GUI_LOBBY_BANNED_ROLES_ALREADY_CONTAINS">The selected role is already in the banned list.</Entry>
     <Entry key="GUI_LOBBY_BANNED_ROLES_CONTAINS">The selected role is in the banned list and cannot be added.</Entry>
@@ -982,9 +982,9 @@ You have unlocked "%item%"!</Entry>
     <Entry key="GUI_REPORT_PLAYER_REPORTED_ALREADY_TITLE">Player already reported.</Entry>
     <Entry key="GUI_REPORT_PLAYER_REPORTED_ALREADY">You have already reported %player% this game.</Entry>
     <Entry key="GUI_REPORT_FILED_AGAINST_PLAYER" style="moderator">A report has been filed against %player%.</Entry>
-    <Entry key="GUI_LEAVE_EARLY_ALLOWED">Leave the game?
+    <Entry key="GUI_LEAVE_EARLY_ALLOWED">离开游戏？
 
-(由于中途退出游戏，你不会获得任何城镇点。)</Entry>
+（如果中途退出游戏，你不会获得任何城镇点。)</Entry>
     <Entry key="GUI_LEAVE_EARLY_NOT_ALLOWED">You can still help your team!
 
 Are you sure you want to leave?
