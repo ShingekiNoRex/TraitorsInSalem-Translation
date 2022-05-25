@@ -2560,7 +2560,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_SPELL_NAME_DISPLACE">移形换位</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_CHAPTER">死灵之书赋予了你能施展魔法的能力。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_BLOODMOON">创造一个召唤血月的图腾，能缩小小镇成员的视野范围。</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_LOCKOUT">召唤能阻挡去路和暗道的荆棘。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_LOCKOUT">召唤能阻挡去路和通道的荆棘。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_HEX">创造一个施放诅咒能量的图腾，如果不被摧毁，所有小镇成员会在30秒后死亡。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_CONFUSE">使所有小镇成员晕头转向，使他们难以行动。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_SEEINGDOUBLE">创造玩家们的幻象，他们会随机行动。</Entry>
