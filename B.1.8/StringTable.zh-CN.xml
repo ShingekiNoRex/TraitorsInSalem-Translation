@@ -559,8 +559,8 @@ Please choose another.</Entry>
     <Entry key="GUI_HOST">HOST</Entry>
     <Entry key="GUI_HOST_TOOLTIP">Host</Entry>
     <Entry key="GUI_POPUP_AFK_TITLE">AFK</Entry>
-    <Entry key="GUI_POPUP_AFK_BLURB">You are now AFK. Click anywhere to prevent automatic logout.</Entry>
-    <Entry key="GUI_POPUP_AFK_LOGGING_OUT">Logging out...</Entry>
+    <Entry key="GUI_POPUP_AFK_BLURB">你当前处于不活跃状态，点击任意一处以防止自动登出。</Entry>
+    <Entry key="GUI_POPUP_AFK_LOGGING_OUT">正在登出...</Entry>
     <Entry key="GUI_POPUP_AFK_UNTIL_LOGOUT">until logout</Entry>
     <Entry key="GUI_NAME_EMPTY">Your name cannot be empty.</Entry>
     <Entry key="GUI_NAME_EXCEEDS">Your name may not exceed 16 characters.</Entry>
@@ -744,7 +744,7 @@ Settings</Entry>
     <Entry key="GUI_NOT_ENOUGH_TOWN_POINTS_EXT">你需要超过 %amount% 城镇点 来购买此物品。 你可以购买更多的 城镇点 来继续。</Entry>
     <Entry key="GUI_BUY_TP">购买 城镇点</Entry>
     <Entry key="GUI_THANKS">Thanks</Entry>
-    <Entry key="GUI_CONGRATULATIONS">Congratulations!</Entry>
+    <Entry key="GUI_CONGRATULATIONS">恭喜！</Entry>
     <Entry key="GUI_CONGRATS_TOWN_POINTS">你获得了 %quantity% 城镇点。</Entry>
     <Entry key="GUI_PENDING_PURCHASE_TITLE">Purchase Pending</Entry>
     <Entry key="GUI_PENDING_PURCHASE_BLURB">Your purchase succeeded on the device store and we are now verifying your purchase with our game server. If you do not receive a confirmation shortly, try closing the app and logging in again.</Entry>
@@ -1396,9 +1396,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <!--PROSECUTE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_21_0">%source% 正控诉 %target%。</Entry>
     <!--PROSECUTE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_21_ME_1">You destroyed an illusion with your prosecutorial power.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_21_ME_1">你使用你的检察官能力消灭了一个幻象。</Entry>
     <!--PROSECUTE-->
-    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_21_1">%source% destroyed an illusion with their prosecutorial power.</Entry>
+    <Entry key="GUI_CHAT_LOG_ABILITY_MSG_21_1">%source% 使用其检察官能力消灭了一个幻象。</Entry>
     <!--PROSECUTE-->
     <Entry key="GUI_CHAT_LOG_ABILITY_MSG_21_ME_2">你由于滥用权力而招致毁灭。</Entry>
     <!--PROSECUTE-->
@@ -1687,7 +1687,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_ABNORMAL_MOVEMENT_DETECTED_MULTI">Fast movement detected.</Entry>
     <!--Both victim and killer roles are known-->
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META">%name% 被 %killerrole% 杀害%where%。%playerrole%</Entry>
-    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META_AN">%name% was killed by an %killerrole%%where%.%playerrole%</Entry>
+    <Entry key="GUI_GAME_WHO_DIED_AND_HOW_META_AN">%name% 被 %killerrole% 杀害%where%。%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_AND_HOW_DISCONNECTED_META">%name% %killerrole%%where%.%playerrole%</Entry>
     <Entry key="GUI_GAME_WHO_DIED_UNKNOWN_ASSAILANT_ROLE">不明人士</Entry>
     <Entry key="GUI_GAME_KNIGHTED_INFO">%name% 被国王封爵！</Entry>
@@ -2558,14 +2558,14 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_SPELL_NAME_SEEINGDOUBLE">幻象</Entry>
     <Entry key="GUI_GAME_SPELL_NAME_ICESTORM">暴风雪</Entry>
     <Entry key="GUI_GAME_SPELL_NAME_DISPLACE">移形换位</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_CHAPTER">The Necronomicon has granted you the power to cast spells in its defense.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_BLOODMOON">Create a totem that summons the Blood Moon reducing vision radius of Town players.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_LOCKOUT">Summon Brambles to block doorways and passages.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_HEX">Create a totem that channels Curse energy. After 30 seconds, all Town players will die unless the totem is destroyed.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_CONFUSE">Confuse all Town players making it more difficult for them to move around.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_SEEINGDOUBLE">Create illusions of players that will perform random actions.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_ICESTORM">Create a totem that summons an Ice Storm to slow movement speed of all players outdoors.</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_DISPLACE">Teleport all players to random locations around the map.</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_CHAPTER">死灵之书赋予了你能施展魔法的能力。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_BLOODMOON">创造一个召唤血月的图腾，能缩小小镇成员的视野范围。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_LOCKOUT">召唤能阻挡去路和暗道的荆棘。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_HEX">创造一个施放诅咒能量的图腾，如果不被摧毁，所有小镇成员会在30秒后死亡。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_CONFUSE">使所有小镇成员晕头转向，使他们难以行动。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_SEEINGDOUBLE">创造玩家们的幻象，他们会随机行动。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_ICESTORM">创造一个召唤暴风雪的图腾，使所有玩家在室外的移动速度降低。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_DISPLACE">将所有玩家传送到地图上随机位置。</Entry>
 	<Entry key="GUI_TUTORIAL_CLICK_START">点击开始游戏以开始教程</Entry>
     <Entry key="GUI_TUTORIAL_HOW_TO_MOVE">使用 WASD 或 鼠标左键 来移动。</Entry>
     <Entry key="GUI_TUTORIAL_EXPLORE_MAP">使用 M 键，或点击左下方的地图按钮来浏览地图</Entry>
