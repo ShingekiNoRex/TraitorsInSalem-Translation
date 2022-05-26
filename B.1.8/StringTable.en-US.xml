@@ -2775,7 +2775,13 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 8 - 5/23/2022</b><b><u>New Features</u></b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 9 - 5/25/2022</b>
+
+• Fixed player name tag panel on Discussion screen to properly clear death info from previous game.
+• Fixed coven leader animations on trial
+• Fixed order of pets in shop
+
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 8 - 5/23/2022</b><b><u>New Features</u></b>
 
 • Added new Tutorial mode.
 • Added new Hammond pet pig.
@@ -2790,7 +2796,7 @@ The BMG Dev team
 • Discussion screen player buttons:
 - Removed the skin name from the buttons to alleviate confusion.
 - Players are now sorted top-to-bottom by alive/recently dead/older dead.
-- Certain ability effects on now shown on the buttons. Traitor effects are shown first, then townie effects.
+- Certain ability effects are now shown on the buttons. Traitor effects are shown first, then townie effects.
 - On dead players, a tombstone image with day/night number of death is now displayed. Tombstones appear opaque for recently dead players, 50% transparent for old dead players.
 - Player names are now shown in normal case rather than all upper case.
 - The executioner's target player name will no longer be colored yellow since we now have an icon signifying the same thing.
