@@ -32,6 +32,8 @@
     <Entry key="ITEM_4_7_BLURB">Bacon may be delicious, but he's just too cute!</Entry>
     <!--Bessie-->
     <Entry key="ITEM_4_8_BLURB">Bessie is the oldest cow in Salem, but also the toughest!</Entry>
+    <!--Cob-->
+    <Entry key="ITEM_4_9_BLURB">Creator of the patented Cobb Web!</Entry>
     <!--SKINS-->
     <!--Red Warlock-->
     <Entry key="ITEM_5_0_BLURB">Robes of dusk, lined with forged moonlight; rend your enemies in the latest chthonic style.</Entry>
@@ -53,6 +55,8 @@
     <Entry key="ITEM_5_8_BLURB">Place your heart on the golden scales, does it weigh more than the feather of truth?</Entry>
     <!--Coven Leader-->
     <Entry key="ITEM_5_9_BLURB">Staring into the blood moon, her eyes fill with frenzied magic. The Coven Leader is born.</Entry>
+    <!--Widowmaker-->
+    <Entry key="ITEM_5_10_BLURB">Can you resist the allure of this temptress, or will you be caught in her web.</Entry>
     <!--ACCESSORIES-->
     <!--
     <Entry key="ITEM_3_1">Accessory 0</Entry><Entry key="ITEM_3_1_BLURB">Accessory 0, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry><Entry key="ITEM_3_2">Accessory 1</Entry><Entry key="ITEM_3_2_BLURB">Accessory 1, what is ther to say about this?  Hopefully a lot.  Right now, I'm drawing a blank.</Entry>
@@ -115,6 +119,7 @@
     <Entry key="SKIN_27">Death</Entry>
     <Entry key="SKIN_28">Anubis</Entry>
     <Entry key="SKIN_29">Coven Leader</Entry>
+    <Entry key="SKIN_30">Widowmaker</Entry>
     <!--PET SKIN NAMES-->
     <Entry key="PET_SKIN_-1">No Pet!!</Entry>
     <Entry key="PET_SKIN_1">Black Cat</Entry>
@@ -125,6 +130,7 @@
     <Entry key="PET_SKIN_6">Gobby</Entry>
     <Entry key="PET_SKIN_7">Hammond</Entry>
     <Entry key="PET_SKIN_8">Bessie</Entry>
+    <Entry key="PET_SKIN_9">Cob</Entry>
     <Entry key="GUI_LOGIN_UPDATE_REQUIRED">Please update your application to log in.</Entry>
     <Entry key="GUI_LOGIN_CHECK_INTERNET">Please check your internet connection and try again.</Entry>
     <Entry key="GUI_LOGIN">登录</Entry>
@@ -363,6 +369,7 @@ Please choose another.</Entry>
     <Entry key="GUI_JOIN_RANDOM_CUSTOM_TOOLTIP">快速加入一场随机自定义游戏</Entry>
     <Entry key="GUI_CLASSIC_MODE_BANNER">经典模式</Entry>
 	<Entry key="GUI_CTF_BANNER">夺旗模式</Entry>
+	<Entry key="GUI_TOS_BANNER">Ye Olde Mode</Entry>
     <Entry key="GUI_TUTORIAL_BANNER">教程</Entry>
     <Entry key="GUI_GAME_BROWSER_TITLE">游戏浏览器</Entry>
     <Entry key="GUI_GAME_BROWSER_BUTTON">浏览游戏</Entry>
@@ -2336,7 +2343,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_SELECT_SPELL">选择法术</Entry>
     <Entry key="GUI_TOWN_MEETING">小镇集会</Entry>
     <Entry key="GUI_GAME_USE_CALL_TOWN_MEETING">发起小镇集会</Entry>
-    <Entry key="GUI_GAME_USE_START_TRIAL">报告尸体</Entry>
+    <Entry key="GUI_GAME_USE_REPORT_BODY">报告尸体</Entry>
     <Entry key="GUI_GAME_TALK_NPC">对话</Entry>
     <Entry key="GUI_GAME_CATCH_NPC">Send Home</Entry>
     <Entry key="GUI_GAME_USE_STOP_HEX">Stop Curse</Entry>
@@ -2426,6 +2433,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_42">使用梯子</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_43">使用梯子</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_LABEL_44">DEPRECATED - Use Boat</Entry><Entry key="GUI_GAME_INTERACTABLE_LABEL_45">DEPRECATED - Use Boat</Entry>-->
+	<Entry key="GUI_GAME_INTERACTABLE_LABEL_49">通灵</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_54">摧毁图腾</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_56">收集匕首</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_LABEL_57">Sabotage Gears - Placeholder Rune</Entry>
@@ -2476,6 +2484,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_42">使用梯子</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_43">使用梯子</Entry>
     <!--<Entry key="GUI_GAME_INTERACTABLE_BUTTON_44">DEPRECATED - Use Boat</Entry><Entry key="GUI_GAME_INTERACTABLE_BUTTON_45">DEPRECATED - Use Boat</Entry>-->
+	<Entry key="GUI_GAME_INTERACTABLE_BUTTON_49">说话</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_54">摧毁图腾</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_56">收集匕首</Entry>
     <Entry key="GUI_GAME_INTERACTABLE_BUTTON_57">破坏吊桥</Entry>
@@ -2564,7 +2573,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_HEX">创造一个施放诅咒能量的图腾，如果不被摧毁，所有小镇成员会在30秒后死亡。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_CONFUSE">使所有小镇成员晕头转向，使他们难以行动。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_SEEINGDOUBLE">创造玩家们的幻象，他们会随机行动。</Entry>
-    <Entry key="GUI_GAME_SPELL_DESCRIPTION_ICESTORM">创造一个召唤暴风雪的图腾，使所有玩家在室外的移动速度降低。</Entry>
+    <Entry key="GUI_GAME_SPELL_DESCRIPTION_ICESTORM">创造一个召唤暴风雪的图腾，使所有玩家在室外的移动速度降低，且冻结小镇成员的技能冷却。</Entry>
     <Entry key="GUI_GAME_SPELL_DESCRIPTION_DISPLACE">将所有玩家传送到地图上随机位置。</Entry>
 	<Entry key="GUI_TUTORIAL_CLICK_START">点击开始游戏以开始教程</Entry>
     <Entry key="GUI_TUTORIAL_HOW_TO_MOVE">使用 WASD 或 鼠标左键 来移动。</Entry>
@@ -2764,7 +2773,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry><Ent
 SEE CHANGE LOG BELOW.
 
 <b>5/23/2022</b>
-Hey Townies, thank you for participating in our Traitors in Salem Early Access Beta. During the Beta period, we will be periodically releasing bug fixes and new features. Today we are releasing the Beta 8 patch (see details in Change Log below).
+Hey Townies, thank you for participating in our Traitors in Salem Early Access Beta. During the Beta period, we will be periodically releasing bug fixes and new features. Today we are releasing the Beta 10 patch (see details in Change Log below).
 
 As you might expect for a beta release, you may encounter some bugs here and there, and some things may not yet be at a completely polished finished state. When that happens, you can help by capturing the bug with as much detail as possible and reporting it in the official Traitors in Salem bug report forum (accessible via button click in the Settings popup in the game). This beta release also includes an automated bug reporting mechanism that does not require any user interaction to notify us of certain exceptions that may occur. By playing Traitors in Salem, you agree to allow the automated bug reporting system to submit bugs on your behalf. These autosubmitted bugs are crashes or unhandled exceptions, and usually won't be triggered by visual bugs or gameplay bugs, so your manual bug reports have great value.
 
@@ -2773,11 +2782,29 @@ We believe the game is fun and is ready to be shown off to the world. Feel free 
 Thank you and happy hanging!
 The BMG Dev team
 
-<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 9 - 5/25/2022</b>
+<align=center><b><size=110%>• • • CHANGE LOG • • •</size></b></align><b>BETA 10 - 5/31/2022</b><b><u>New Features</u></b>
+
+• Added new Cob spider pet.
+• Added new Widowmaker Tailor skin.
+• Added new Report Body button. This functionality was separated out of the Use button, to resolve situations where a dead body could interfere with the use of stairs, ladder, teleporter, etc. The button will only appear when you are within range of a dead body that can be reported.
+
+<b><u>Improvements</u></b>
+
+• Ice Storm spell has been improved. Along with slowing everyone that is outside, it will now freeze the cooldowns of Town members. If an ability is on cooldown, it will stop counting down but if it is available for use it can still be used.
+• Reformatted the Discussion Player buttons to show the icons underneath the player name.
+• Added a Close button to the Lobby Player List.
+• Rebecca's (Seance station) button now says Talk rather than Use.
+• Removed labels on spellbook buttons to get a cleaner look on the spellbook. The button labels were redundant to the title and description.
+
+<b><u>Bug Fixes</u></b>
+
+• Fixed a couple of non-crashing exceptions that affected a small number of players.
+
+<align=center><b><size=110%>• • •</size></b></align><b>BETA 9 - 5/25/2022</b>
 
 • Fixed player name tag panel on Discussion screen to properly clear death info from previous game.
-• Fixed coven leader animations on trial
-• Fixed order of pets in shop
+• Fixed coven leader animations on trial.
+• Fixed order of pets in shop.
 
 <align=center><b><size=110%>• • •</size></b></align><b>BETA 8 - 5/23/2022</b><b><u>New Features</u></b>
 
